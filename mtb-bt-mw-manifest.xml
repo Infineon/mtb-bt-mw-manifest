@@ -1,0 +1,162 @@
+<middleware>
+  <middleware>
+    <name>Audio</name>
+    <id>Audio</id>
+    <uri>https://github.com/cypresssemiconductorco/btsdk-audio</uri>
+    <desc><![CDATA[
+<html>
+<body>
+  <p>WICED audio-related middleware libraries.</p>
+  <h5>Libraries included:</h5>
+  <ul>
+    <li>AVRC Controller (avrc_controller_lib)</li>
+    <li>AVRC Target (avrc_target_lib)</li>
+  </ul>
+</body>
+</html>
+    ]]></desc>
+    <category>Bluetooth Libraries</category>
+    <req_capabilities>audio btsdk</req_capabilities>
+    <versions>
+      <version>
+        <num>2.0.0 release</num>
+        <commit>release-v2.0.0</commit>
+        <desc>2.0.0 release</desc>
+      </version>
+      <version>
+        <num>Latest 2.X release</num>
+        <commit>latest-v2.X</commit>
+        <desc>Latest 2.X release</desc>
+      </version>
+    </versions>
+  </middleware>
+  <middleware>
+    <name>Bluetooth Low Energy</name>
+    <id>Bluetooth_Low_Energy</id>
+    <uri>https://github.com/cypresssemiconductorco/btsdk-ble</uri>
+    <desc><![CDATA[
+<html>
+<body>
+  <p>WICED Bluetooth Low Energy Profile middleware libraries.</p>
+  <h5>Libraries included:</h5>
+  <ul>
+    <li>Alert Notification Client (anc_lib)</li>
+    <li>Alert Notification Server (ans_lib)</li>
+    <li>Battery Service Client (bat_client_lib)</li>
+    <li>Beacon support for both iBeacon and Eddystone (beacon_lib)</li>
+    <li>Heart Rate Client (hrc_lib)</li>
+    <li>Heart Rate Server (hrs_lib)</li>
+    <li>BLE GATT Utilities (gatt_utils_lib)</li>
+  </ul>
+</body>
+</html>
+    ]]></desc>
+    <category>Bluetooth Libraries</category>
+    <req_capabilities>ble btsdk</req_capabilities>
+    <versions>
+      <version>
+        <num>2.0.0 release</num>
+        <commit>release-v2.0.0</commit>
+        <desc>2.0.0 release</desc>
+      </version>
+      <version>
+        <num>Latest 2.X release</num>
+        <commit>latest-v2.X</commit>
+        <desc>Latest 2.X release</desc>
+      </version>
+    </versions>
+  </middleware>
+  <middleware>
+    <name>Human Interface Device</name>
+    <id>Human_Interface_Device</id>
+    <uri>https://github.com/cypresssemiconductorco/btsdk-hid</uri>
+    <desc>HID Device middleware library (hidd_lib)</desc>
+    <category>Bluetooth Libraries</category>
+    <req_capabilities>hid btsdk</req_capabilities>
+    <versions>
+      <version>
+        <num>2.0.0 release</num>
+        <commit>release-v2.0.0</commit>
+        <desc>2.0.0 release</desc>
+      </version>
+      <version>
+        <num>Latest 2.X release</num>
+        <commit>latest-v2.X</commit>
+        <desc>Latest 2.X release</desc>
+      </version>
+    </versions>
+  </middleware>
+  <middleware>
+    <name>Mesh</name>
+    <id>Mesh</id>
+    <uri>https://github.com/cypresssemiconductorco/btsdk-mesh</uri>
+    <desc>Mesh application base support library (mesh_app_lib)</desc>
+    <category>Bluetooth Libraries</category>
+    <req_capabilities>mesh btsdk</req_capabilities>
+    <versions>
+      <version>
+        <num>2.0.0 release</num>
+        <commit>release-v2.0.0</commit>
+        <desc>2.0.0 release</desc>
+      </version>
+      <version>
+        <num>Latest 2.X release</num>
+        <commit>latest-v2.X</commit>
+        <desc>Latest 2.X release</desc>
+      </version>
+    </versions>
+  </middleware>
+  <middleware>
+    <name>Firmware Upgrade</name>
+    <id>Firmware_Upgrade</id>
+    <uri>https://github.com/cypresssemiconductorco/btsdk-ota</uri>
+    <desc>Over-The-Air Firmware Upgrade support (fw_upgrade_lib)</desc>
+    <category>Bluetooth Libraries</category>
+    <req_capabilities>ble btsdk</req_capabilities>
+    <versions>
+      <version>
+        <num>2.0.0 release</num>
+        <commit>release-v2.0.0</commit>
+        <desc>2.0.0 release</desc>
+      </version>
+      <version>
+        <num>Latest 2.X release</num>
+        <commit>latest-v2.X</commit>
+        <desc>Latest 2.X release</desc>
+      </version>
+    </versions>
+  </middleware>
+  <middleware>
+    <name>RFCOMM</name>
+    <id>RFCOMM</id>
+    <uri>https://github.com/cypresssemiconductorco/btsdk-rfcomm</uri>
+    <desc><![CDATA[
+<html>
+<body>
+  <p>WICED Bluetooth Profile middleware libraries.</p>
+  <h5>Libraries included:</h5>
+  <ul>
+    <li>Message Access Client Profile (map_lib)</li>
+    <li>Object Exchange (obex_lib)</li>
+    <li>Phone Book Access Profile (pbap_lib)</li>
+    <li>Serial Port Profile (spp_lib)</li>
+  </ul>
+</body>
+</html>
+    ]]></desc>
+    <category>Bluetooth Libraries</category>
+    <req_capabilities>ble btsdk</req_capabilities>
+    <versions>
+      <version>
+        <num>2.0.0 release</num>
+        <commit>release-v2.0.0</commit>
+        <desc>2.0.0 release</desc>
+      </version>
+      <version>
+        <num>Latest 2.X release</num>
+        <commit>latest-v2.X</commit>
+        <desc>Latest 2.X release</desc>
+      </version>
+    </versions>
+  </middleware>
+</middleware>

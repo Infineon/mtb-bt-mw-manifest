@@ -19,6 +19,11 @@
     <req_capabilities>audio btsdk</req_capabilities>
     <versions>
       <version>
+        <num>2.5.0 release</num>
+        <commit>release-v2.5.0</commit>
+        <desc>2.5.0 release</desc>
+      </version>
+      <version>
         <num>2.4.0 release</num>
         <commit>release-v2.4.0</commit>
         <desc>2.4.0 release</desc>
@@ -70,6 +75,11 @@
     <req_capabilities>ble btsdk</req_capabilities>
     <versions>
       <version>
+        <num>2.5.0 release</num>
+        <commit>release-v2.5.0</commit>
+        <desc>2.5.0 release</desc>
+      </version>
+      <version>
         <num>2.4.0 release</num>
         <commit>release-v2.4.0</commit>
         <desc>2.4.0 release</desc>
@@ -104,6 +114,11 @@
     <category>Bluetooth Libraries</category>
     <req_capabilities>hid btsdk</req_capabilities>
     <versions>
+      <version>
+        <num>2.5.0 release</num>
+        <commit>release-v2.5.0</commit>
+        <desc>2.5.0 release</desc>
+      </version>
       <version>
         <num>2.4.0 release</num>
         <commit>release-v2.4.0</commit>
@@ -140,6 +155,11 @@
     <req_capabilities>mesh btsdk</req_capabilities>
     <versions>
       <version>
+        <num>2.5.0 release</num>
+        <commit>release-v2.5.0</commit>
+        <desc>2.5.0 release</desc>
+      </version>
+      <version>
         <num>2.4.0 release</num>
         <commit>release-v2.4.0</commit>
         <desc>2.4.0 release</desc>
@@ -174,6 +194,11 @@
     <category>Bluetooth Libraries</category>
     <req_capabilities>ble btsdk</req_capabilities>
     <versions>
+      <version>
+        <num>2.5.0 release</num>
+        <commit>release-v2.5.0</commit>
+        <desc>2.5.0 release</desc>
+      </version>
       <version>
         <num>2.4.0 release</num>
         <commit>release-v2.4.0</commit>
@@ -222,6 +247,11 @@
     <category>Bluetooth Libraries</category>
     <req_capabilities>ble btsdk</req_capabilities>
     <versions>
+      <version>
+        <num>2.5.0 release</num>
+        <commit>release-v2.5.0</commit>
+        <desc>2.5.0 release</desc>
+      </version>
       <version>
         <num>2.4.0 release</num>
         <commit>release-v2.4.0</commit>

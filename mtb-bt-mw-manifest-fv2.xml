@@ -1,0 +1,440 @@
+<middleware>
+  <middleware>
+    <name>BTSDK Shared Includes</name>
+    <id>btsdk-include-fv2</id>
+    <uri>https://github.com/cypresssemiconductorco/btsdk-include</uri>
+    <desc>BTSDK shared headers used for all WICED platforms.</desc>
+    <category>BTSDK core support</category>
+    <req_capabilities>btsdk</req_capabilities>
+    <versions>
+      <version tools_min_version="2.2.0" flow_version="2.0" prefix="wiced_btsdk/dev-kit">
+        <num>2.8.0 release</num>
+        <commit>release-v2.8.0</commit>
+        <desc>2.8.0 release</desc>
+      </version>
+    </versions>
+  </middleware>
+  <middleware>
+    <name>BTSDK Tools</name>
+    <id>btsdk-tools-fv2</id>
+    <uri>https://github.com/cypresssemiconductorco/btsdk-tools</uri>
+    <desc>BTSDK shared tools used for all WICED platforms.</desc>
+    <category>BTSDK core support</category>
+    <req_capabilities>btsdk</req_capabilities>
+    <versions>
+      <version tools_min_version="2.2.0" flow_version="2.0" prefix="wiced_btsdk/dev-kit">
+        <num>2.8.0 release</num>
+        <commit>release-v2.8.0</commit>
+        <desc>2.8.0 release</desc>
+      </version>
+    </versions>
+  </middleware>
+  <middleware>
+    <name>BTSDK Utilities</name>
+    <id>btsdk-utils-fv2</id>
+    <uri>https://github.com/cypresssemiconductorco/btsdk-utils</uri>
+    <desc><![CDATA[
+<html>
+<body>
+  <p>BTSDK shared utilities usable for all WICED platforms</p>
+  <h5>Utilities included:</h5>
+  <ul>
+    <li>BTSpy: Tracing utility to collect HCI and application traces, and BT snoop logs.</li>
+    <li>wmbt: WICED manufacturing Bluetooth test tool (WMBT) is used to test and verify the RF performance of Cypress SoC Bluetooth BR/EDR/LE devices</li>
+    <li>ecdsa256: Elliptic Curve Digital Signature Algorithm</li>
+  </ul>
+</body>
+</html>
+    ]]></desc>
+    <category>BTSDK utilities and host/peer apps</category>
+    <req_capabilities>btsdk</req_capabilities>
+    <versions>
+      <version tools_min_version="2.2.0" flow_version="2.0" prefix="wiced_btsdk/tools">
+        <num>2.8.0 release</num>
+        <commit>release-v2.8.0</commit>
+        <desc>2.8.0 release</desc>
+      </version>
+    </versions>
+  </middleware>
+  <middleware>
+    <name>BTSDK Host Apps for BT and BLE</name>
+    <id>btsdk-host-apps-bt-ble-fv2</id>
+    <uri>https://github.com/cypresssemiconductorco/btsdk-host-apps-bt-ble</uri>
+    <desc>Windows, Linux, and macOS based host apps for BT and BLE such as ClientControl.</desc>
+    <category>BTSDK utilities and host/peer apps</category>
+    <req_capabilities>btsdk</req_capabilities>
+    <versions>
+      <version tools_min_version="2.2.0" flow_version="2.0" prefix="wiced_btsdk/tools">
+        <num>2.8.0 release</num>
+        <commit>release-v2.8.0</commit>
+        <desc>2.8.0 release</desc>
+      </version>
+    </versions>
+  </middleware>
+  <middleware>
+    <name>BTSDK Host and Peer Apps for Mesh</name>
+    <id>btsdk-host-peer-apps-mesh-fv2</id>
+    <uri>https://github.com/cypresssemiconductorco/btsdk-host-peer-apps-mesh</uri>
+    <desc>Windows, Linux, and macOS based host apps to control BLE Mesh embedded apps; and Windows, Android, and iOS based peer apps to configure and provision BLE Mesh embedded apps.</desc>
+    <category>BTSDK utilities and host/peer apps</category>
+    <req_capabilities>btsdk</req_capabilities>
+    <versions>
+      <version tools_min_version="2.2.0" flow_version="2.0" prefix="wiced_btsdk/tools">
+        <num>2.8.0 release</num>
+        <commit>release-v2.8.0</commit>
+        <desc>2.8.0 release</desc>
+      </version>
+    </versions>
+  </middleware>
+  <middleware>
+    <name>BTSDK Peer Apps for BLE</name>
+    <id>btsdk-peer-apps-ble-fv2</id>
+    <uri>https://github.com/cypresssemiconductorco/btsdk-peer-apps-ble</uri>
+    <desc>Windows and Android based peer apps for BLE such as hello_sensor.</desc>
+    <category>BTSDK utilities and host/peer apps</category>
+    <req_capabilities>btsdk</req_capabilities>
+    <versions>
+      <version tools_min_version="2.2.0" flow_version="2.0" prefix="wiced_btsdk/tools">
+        <num>2.8.0 release</num>
+        <commit>release-v2.8.0</commit>
+        <desc>2.8.0 release</desc>
+      </version>
+    </versions>
+  </middleware>
+  <middleware>
+    <name>BTSDK Peer Apps for OTA</name>
+    <id>btsdk-peer-apps-ota-fv2</id>
+    <uri>https://github.com/cypresssemiconductorco/btsdk-peer-apps-ota</uri>
+    <desc>Windows, Android, and iOS based peer apps for OTA.</desc>
+    <category>BTSDK utilities and host/peer apps</category>
+    <req_capabilities>btsdk</req_capabilities>
+    <versions>
+      <version tools_min_version="2.2.0" flow_version="2.0" prefix="wiced_btsdk/tools">
+        <num>2.8.0 release</num>
+        <commit>release-v2.8.0</commit>
+        <desc>2.8.0 release</desc>
+      </version>
+    </versions>
+  </middleware>
+  <middleware>
+    <name>CYW20706A2</name>
+    <id>20706A2-fv2</id>
+    <uri>https://github.com/cypresssemiconductorco/20706A2</uri>
+    <desc>The Cypress CYW20706 is an ultra-low-power dual-mode Bluetooth 5.0 wireless MCU device. It has a stand-alone baseband processor with an integrated 2.4 GHz transceiver supporting BR/EDR/BLE.  Note: BTSDK projects only support 1 chip library at a time. To switch to a different chip library, deselect the current chip library.</desc>
+    <category>BTSDK chip libraries</category>
+    <req_capabilities>btsdk</req_capabilities>
+    <versions>
+      <version tools_min_version="2.2.0" flow_version="2.0" prefix="wiced_btsdk/dev-kit/baselib">
+        <num>2.8.0 release</num>
+        <commit>release-v2.8.0</commit>
+        <desc>2.8.0 release</desc>
+      </version>
+    </versions>
+  </middleware>
+  <middleware>
+    <name>CYW20819A1</name>
+    <id>20819A1-fv2</id>
+    <uri>https://github.com/cypresssemiconductorco/20819A1</uri>
+    <desc>The Cypress CYW20819, CYW20820, and CYW89820 are ultra-low-power dual-mode Bluetooth 5.0 wireless MCU devices. They have a stand-alone baseband processor with an integrated 2.4 GHz transceiver supporting BR/EDR/BLE.  They are identical except that the CYW20820 and CYW89820 have an internal Power Amplifier (iPA) with programmable BDR transmit power up to 10.5 dBm.  CYW208XX is used to refer to all those parts.  Note: BTSDK projects only support 1 chip library at a time. To switch to a different chip library, deselect the current chip library.</desc>
+    <category>BTSDK chip libraries</category>
+    <req_capabilities>btsdk</req_capabilities>
+    <versions>
+      <version tools_min_version="2.2.0" flow_version="2.0" prefix="wiced_btsdk/dev-kit/baselib">
+        <num>2.8.0 release</num>
+        <commit>release-v2.8.0</commit>
+        <desc>2.8.0 release</desc>
+      </version>
+    </versions>
+  </middleware>
+  <middleware>
+    <name>CYW20820A1</name>
+    <id>20820A1-fv2</id>
+    <uri>https://github.com/cypresssemiconductorco/20820A1</uri>
+    <desc>The Cypress CYW20819, CYW20820, and CYW89820 are ultra-low-power dual-mode Bluetooth 5.0 wireless MCU devices. They have a stand-alone baseband processor with an integrated 2.4 GHz transceiver supporting BR/EDR/BLE.  They are identical except that the CYW20820 and CYW89820 have an internal Power Amplifier (iPA) with programmable BDR transmit power up to 10.5 dBm.  CYW208XX is used to refer to all those parts.  Note: BTSDK projects only support 1 chip library at a time. To switch to a different chip library, deselect the current chip library.</desc>
+    <category>BTSDK chip libraries</category>
+    <req_capabilities>btsdk</req_capabilities>
+    <versions>
+      <version tools_min_version="2.2.0" flow_version="2.0" prefix="wiced_btsdk/dev-kit/baselib">
+        <num>2.8.0 release</num>
+        <commit>release-v2.8.0</commit>
+        <desc>2.8.0 release</desc>
+      </version>
+    </versions>
+  </middleware>
+  <middleware>
+    <name>CYW43012C0</name>
+    <id>43012C0-fv2</id>
+    <uri>https://github.com/cypresssemiconductorco/43012C0</uri>
+    <desc>The Cypress CYW43012 is a 28nm ultra-low power dual-mode Bluetooth 5.0 wireless MCU WiFi + Bluetooth Combo device. It has a stand-alone baseband processor with an integrated 2.4 GHz transceiver supporting BR, EDR, and BLE.  Note: BTSDK projects only support 1 chip library at a time. To switch to a different chip library, deselect the current chip library.</desc>
+    <category>BTSDK chip libraries</category>
+    <req_capabilities>btsdk</req_capabilities>
+    <versions>
+      <version tools_min_version="2.2.0" flow_version="2.0" prefix="wiced_btsdk/dev-kit/baselib">
+        <num>2.8.0 release</num>
+        <commit>release-v2.8.0</commit>
+        <desc>2.8.0 release</desc>
+      </version>
+    </versions>
+  </middleware>
+  <middleware>
+    <name>CYW20719B2</name>
+    <id>20719B2-fv2</id>
+    <uri>https://github.com/cypresssemiconductorco/20719B2</uri>
+    <desc>The Cypress CYW20719 is an ultra-low-power dual-mode Bluetooth 5.0 wireless MCU device. It has a stand-alone baseband processor with an integrated 2.4 GHz transceiver supporting BR/EDR/BLE.  Note: BTSDK projects only support 1 chip library at a time. To switch to a different chip library, deselect the current chip library.</desc>
+    <category>BTSDK chip libraries</category>
+    <req_capabilities>btsdk</req_capabilities>
+    <versions>
+      <version tools_min_version="2.2.0" flow_version="2.0" prefix="wiced_btsdk/dev-kit/baselib">
+        <num>2.8.0 release</num>
+        <commit>release-v2.8.0</commit>
+        <desc>2.8.0 release</desc>
+      </version>
+    </versions>
+  </middleware>
+  <middleware>
+    <name>CYW20721B2</name>
+    <id>20721B2-fv2</id>
+    <uri>https://github.com/cypresssemiconductorco/20721B2</uri>
+    <desc>The Cypress CYW20721 is an ultra-low-power dual-mode Bluetooth 5.0 wireless MCU device. It has a stand-alone baseband processor with an integrated 2.4 GHz transceiver supporting BR/EDR/BLE.  Note: BTSDK projects only support 1 chip library at a time. To switch to a different chip library, deselect the current chip library.</desc>
+    <category>BTSDK chip libraries</category>
+    <req_capabilities>btsdk</req_capabilities>
+    <versions>
+      <version tools_min_version="2.2.0" flow_version="2.0" prefix="wiced_btsdk/dev-kit/baselib">
+        <num>2.8.0 release</num>
+        <commit>release-v2.8.0</commit>
+        <desc>2.8.0 release</desc>
+      </version>
+    </versions>
+  </middleware>
+  <middleware>
+    <name>CYW20735B1</name>
+    <id>20735B1-fv2</id>
+    <uri>https://github.com/cypresssemiconductorco/20735B1</uri>
+    <desc>The Cypress CYW20735 is an ultra-low-power dual-mode Bluetooth 5.0 wireless MCU device. It has a stand-alone baseband processor with an integrated 2.4 GHz transceiver supporting BR and BLE. EDR is not supported.  Note: BTSDK projects only support 1 chip library at a time. To switch to a different chip library, deselect the current chip library.</desc>
+    <category>BTSDK chip libraries</category>
+    <req_capabilities>btsdk</req_capabilities>
+    <versions>
+      <version tools_min_version="2.2.0" flow_version="2.0" prefix="wiced_btsdk/dev-kit/baselib">
+        <num>2.8.0 release</num>
+        <commit>release-v2.8.0</commit>
+        <desc>2.8.0 release</desc>
+      </version>
+    </versions>
+  </middleware>
+  <middleware>
+    <name>CYW20835B1</name>
+    <id>20835B1-fv2</id>
+    <uri>https://github.com/cypresssemiconductorco/20835B1</uri>
+    <desc>The Cypress CYW20835 is an ultra-low-power Bluetooth Low Energy 5.0 wireless MCU device. It has a stand-alone baseband processor with an integrated 2.4 GHz transceiver supporting BLE. BR/EDR is not supported.  Note: BTSDK projects only support 1 chip library at a time. To switch to a different chip library, deselect the current chip library.</desc>
+    <category>BTSDK chip libraries</category>
+    <req_capabilities>btsdk</req_capabilities>
+    <versions>
+      <version tools_min_version="2.2.0" flow_version="2.0" prefix="wiced_btsdk/dev-kit/baselib">
+        <num>2.8.0 release</num>
+        <commit>release-v2.8.0</commit>
+        <desc>2.8.0 release</desc>
+      </version>
+    </versions>
+  </middleware>
+  <middleware>
+    <name>BTSDK Shared Source</name>
+    <id>btsdk-common-fv2</id>
+    <uri>https://github.com/cypresssemiconductorco/btsdk-common</uri>
+    <desc>BTSDK common shared source used by WICED apps</desc>
+    <category>BTSDK core support</category>
+    <req_capabilities>btsdk</req_capabilities>
+    <versions>
+      <version tools_min_version="2.2.0" flow_version="2.0" prefix="wiced_btsdk/dev-kit/libraries">
+        <num>2.8.0 release</num>
+        <commit>release-v2.8.0</commit>
+        <desc>2.8.0 release</desc>
+      </version>
+    </versions>
+  </middleware>
+  <middleware>
+    <name>Audio</name>
+    <id>Audio-fv2</id>
+    <uri>https://github.com/cypresssemiconductorco/btsdk-audio</uri>
+    <desc><![CDATA[
+<html>
+<body>
+  <p>WICED audio-related libraries.</p>
+  <h5>Libraries included:</h5>
+  <ul>
+    <li>AVRC Controller Profile (avrc_controller)</li>
+    <li>AVRC Target Profile (avrc_target)</li>
+    <li>Hands-free Profile (handsfree_profile)</li>
+    <li>Audio Gateway Profile (hfp_audio_gateway)</li>
+    <li>Audio Sink Profile (a2dp_sink_profile)</li>
+    <li>Apple Media Service (ams)</li>
+    <li>Apple Notification Center Service (ancs)</li>
+    <li>Audio Insert Funtionality (audio_insert_lib)</li>
+    <li>Button Management Support (button_manager)</li>
+    <li>LED Management Support (led_manager)</li>
+    <li>Google Fast Pair (gfps_provider)</li>
+    <li>Audio Manager (audiomanager)</li>
+    <li>Headset/Speaker Support (bt_hs_spk_lib)</li>
+    <li>AK4679 Codec Support (codec_ak4679_lib)</li>
+    <li>CYW9BT Audio Support (cyw9bt_audio and cyw9bt_audio2)</li>
+    <li>CS47l35 Codec Support (codec_cs47l35_lib)</li>
+    <li>Audio Record Support (audio_record_lib)</li>
+    <li>WICED HCI Control Of Audio Streaming (audio_uart)</li>
+  </ul>
+</body>
+</html>
+    ]]></desc>
+    <category>BTSDK shared source libraries</category>
+    <req_capabilities>audio btsdk</req_capabilities>
+    <versions>
+      <version tools_min_version="2.2.0" flow_version="2.0" prefix="wiced_btsdk/dev-kit/libraries">
+        <num>2.8.0 release</num>
+        <commit>release-v2.8.0</commit>
+        <desc>2.8.0 release</desc>
+      </version>
+    </versions>
+  </middleware>
+  <middleware>
+    <name>Bluetooth Low Energy</name>
+    <id>Bluetooth_Low_Energy-fv2</id>
+    <uri>https://github.com/cypresssemiconductorco/btsdk-ble</uri>
+    <desc><![CDATA[
+<html>
+<body>
+  <p>WICED Bluetooth Low Energy Profile libraries.</p>
+  <h5>Libraries included:</h5>
+  <ul>
+    <li>Alert Notification Client (anc_lib)</li>
+    <li>Alert Notification Server (ans_lib)</li>
+    <li>Battery Service Client (bat_client_lib)</li>
+    <li>Beacon support for both iBeacon and Eddystone (beacon_lib)</li>
+    <li>Heart Rate Client (hrc_lib)</li>
+    <li>Heart Rate Server (hrs_lib)</li>
+    <li>BLE GATT Utilities (gatt_utils_lib)</li>
+  </ul>
+</body>
+</html>
+    ]]></desc>
+    <category>BTSDK shared source libraries</category>
+    <req_capabilities>ble btsdk</req_capabilities>
+    <versions>
+      <version tools_min_version="2.2.0" flow_version="2.0" prefix="wiced_btsdk/dev-kit/libraries">
+        <num>2.8.0 release</num>
+        <commit>release-v2.8.0</commit>
+        <desc>2.8.0 release</desc>
+      </version>
+    </versions>
+  </middleware>
+  <middleware>
+    <name>Human Interface Device</name>
+    <id>Human_Interface_Device-fv2</id>
+    <uri>https://github.com/cypresssemiconductorco/btsdk-hid</uri>
+    <desc>HID Device library (hidd_lib2)</desc>
+    <category>BTSDK shared source libraries</category>
+    <req_capabilities>hid btsdk</req_capabilities>
+    <versions>
+      <version tools_min_version="2.2.0" flow_version="2.0" prefix="wiced_btsdk/dev-kit/libraries">
+        <num>2.8.0 release</num>
+        <commit>release-v2.8.0</commit>
+        <desc>2.8.0 release</desc>
+      </version>
+    </versions>
+  </middleware>
+  <middleware>
+    <name>Mesh</name>
+    <id>Mesh-fv2</id>
+    <uri>https://github.com/cypresssemiconductorco/btsdk-mesh</uri>
+    <desc><![CDATA[
+<html>
+<body>
+  <p>WICED Mesh libraries.</p>
+  <h5>Libraries included:</h5>
+  <ul>
+    <li>Mesh Application Library (mesh_app_lib)</li>
+  </ul>
+</body>
+</html>
+    ]]></desc>
+    <category>BTSDK shared source libraries</category>
+    <req_capabilities>mesh btsdk</req_capabilities>
+    <versions>
+      <version tools_min_version="2.2.0" flow_version="2.0" prefix="wiced_btsdk/dev-kit/libraries">
+        <num>2.8.0 release</num>
+        <commit>release-v2.8.0</commit>
+        <desc>2.8.0 release</desc>
+      </version>
+    </versions>
+  </middleware>
+  <middleware>
+    <name>Firmware Upgrade</name>
+    <id>Firmware_Upgrade-fv2</id>
+    <uri>https://github.com/cypresssemiconductorco/btsdk-ota</uri>
+    <desc>Over-The-Air Firmware Upgrade support (fw_upgrade_lib)</desc>
+    <category>BTSDK shared source libraries</category>
+    <req_capabilities>ble btsdk</req_capabilities>
+    <versions>
+      <version tools_min_version="2.2.0" flow_version="2.0" prefix="wiced_btsdk/dev-kit/libraries">
+        <num>2.8.0 release</num>
+        <commit>release-v2.8.0</commit>
+        <desc>2.8.0 release</desc>
+      </version>
+    </versions>
+  </middleware>
+  <middleware>
+    <name>RFCOMM</name>
+    <id>RFCOMM-fv2</id>
+    <uri>https://github.com/cypresssemiconductorco/btsdk-rfcomm</uri>
+    <desc><![CDATA[
+<html>
+<body>
+  <p>WICED Bluetooth RFCOMM Profile libraries.</p>
+  <h5>Libraries included:</h5>
+  <ul>
+    <li>Message Access Client Profile (map_lib)</li>
+    <li>Phone Book Access Profile (pbap_lib)</li>
+    <li>Serial Port Profile (spp_lib)</li>
+    <li>Object Push Profile (opp_lib)</li>
+    <li>Object Exchange Protocol (obex_lib)</li>
+  </ul>
+</body>
+</html>
+    ]]></desc>
+    <category>BTSDK shared source libraries</category>
+    <req_capabilities>ble btsdk</req_capabilities>
+    <versions>
+      <version tools_min_version="2.2.0" flow_version="2.0" prefix="wiced_btsdk/dev-kit/libraries">
+        <num>2.8.0 release</num>
+        <commit>release-v2.8.0</commit>
+        <desc>2.8.0 release</desc>
+      </version>
+    </versions>
+  </middleware>
+  <middleware>
+    <name>Drivers</name>
+    <id>Drivers-fv2</id>
+    <uri>https://github.com/cypresssemiconductorco/btsdk-drivers</uri>
+    <desc><![CDATA[
+<html>
+<body>
+  <p>WICED drivers libraries</p>
+  <h5>Libraries included:</h5>
+  <ul>
+    <li>Library to convert HSL Color to RGB Color values (hsl_rgb_lib)</li>
+    <li>Library providing API implementation for NCP15XV103E03RC thermistor (thermistor_ncp15xv103_lib)</li>
+    <li>ibrary providing API implementation for NCU15WF104F60RC thermistor (thermistor_ncu15wf104_lib)</li>
+    <li>Ambient Light Sensor library for Mesh kit CYBT-213043-MESH (ambient_light_sensor_lib)</li>
+    <li>PIR (Passive Infrared Motion Sensor) library for Mesh kit CYBT-213043-MESH (pir_motion_sensor_lib)</li>
+  </ul>
+</body>
+</html>
+    ]]></desc>
+    <category>BTSDK shared source libraries</category>
+    <req_capabilities>ble btsdk</req_capabilities>
+    <versions>
+      <version tools_min_version="2.2.0" flow_version="2.0" prefix="wiced_btsdk/dev-kit/libraries">
+        <num>2.8.0 release</num>
+        <commit>release-v2.8.0</commit>
+        <desc>2.8.0 release</desc>
+      </version>
+    </versions>
+  </middleware>
+</middleware>

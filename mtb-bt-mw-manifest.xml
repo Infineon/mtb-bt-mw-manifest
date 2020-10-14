@@ -15,45 +15,45 @@
 </body>
 </html>
     ]]></desc>
-    <category>Bluetooth Libraries</category>
+    <category>BTSDK shared source libraries</category>
     <req_capabilities>audio btsdk</req_capabilities>
     <versions>
-      <version>
+      <version flow_version="1.0">
         <num>2.7.1 release</num>
         <commit>release-v2.7.1</commit>
         <desc>2.7.1 release</desc>
       </version>
-      <version>
+      <version flow_version="1.0">
         <num>2.7.0 release</num>
         <commit>release-v2.7.0</commit>
         <desc>2.7.0 release</desc>
       </version>
-      <version>
+      <version flow_version="1.0">
         <num>2.6.0 release</num>
         <commit>release-v2.6.0</commit>
         <desc>2.6.0 release</desc>
       </version>
-      <version>
+      <version flow_version="1.0">
         <num>2.5.0 release</num>
         <commit>release-v2.5.0</commit>
         <desc>2.5.0 release</desc>
       </version>
-      <version>
+      <version flow_version="1.0">
         <num>2.4.0 release</num>
         <commit>release-v2.4.0</commit>
         <desc>2.4.0 release</desc>
       </version>
-      <version>
+      <version flow_version="1.0">
         <num>2.3.0 release</num>
         <commit>release-v2.3.0</commit>
         <desc>2.3.0 release</desc>
       </version>
-      <version>
+      <version flow_version="1.0">
         <num>2.1.0 release</num>
         <commit>release-v2.1.0</commit>
         <desc>2.1.0 release</desc>
       </version>
-      <version>
+      <version flow_version="1.0">
         <num>2.0.0 release</num>
         <commit>release-v2.0.0</commit>
         <desc>2.0.0 release</desc>
@@ -81,45 +81,45 @@
 </body>
 </html>
     ]]></desc>
-    <category>Bluetooth Libraries</category>
+    <category>BTSDK shared source libraries</category>
     <req_capabilities>ble btsdk</req_capabilities>
     <versions>
-      <version>
+      <version flow_version="1.0">
         <num>2.7.1 release</num>
         <commit>release-v2.7.1</commit>
         <desc>2.7.1 release</desc>
       </version>
-      <version>
+      <version flow_version="1.0">
         <num>2.7.0 release</num>
         <commit>release-v2.7.0</commit>
         <desc>2.7.0 release</desc>
       </version>
-      <version>
+      <version flow_version="1.0">
         <num>2.6.0 release</num>
         <commit>release-v2.6.0</commit>
         <desc>2.6.0 release</desc>
       </version>
-      <version>
+      <version flow_version="1.0">
         <num>2.5.0 release</num>
         <commit>release-v2.5.0</commit>
         <desc>2.5.0 release</desc>
       </version>
-      <version>
+      <version flow_version="1.0">
         <num>2.4.0 release</num>
         <commit>release-v2.4.0</commit>
         <desc>2.4.0 release</desc>
       </version>
-      <version>
+      <version flow_version="1.0">
         <num>2.3.0 release</num>
         <commit>release-v2.3.0</commit>
         <desc>2.3.0 release</desc>
       </version>
-      <version>
+      <version flow_version="1.0">
         <num>2.1.0 release</num>
         <commit>release-v2.1.0</commit>
         <desc>2.1.0 release</desc>
       </version>
-      <version>
+      <version flow_version="1.0">
         <num>2.0.0 release</num>
         <commit>release-v2.0.0</commit>
         <desc>2.0.0 release</desc>
@@ -131,45 +131,45 @@
     <id>Human_Interface_Device</id>
     <uri>https://github.com/cypresssemiconductorco/btsdk-hid</uri>
     <desc>HID Device middleware library (hidd_lib)</desc>
-    <category>Bluetooth Libraries</category>
+    <category>BTSDK shared source libraries</category>
     <req_capabilities>hid btsdk</req_capabilities>
     <versions>
-      <version>
+      <version flow_version="1.0">
         <num>2.7.1 release</num>
         <commit>release-v2.7.1</commit>
         <desc>2.7.1 release</desc>
       </version>
-      <version>
+      <version flow_version="1.0">
         <num>2.7.0 release</num>
         <commit>release-v2.7.0</commit>
         <desc>2.7.0 release</desc>
       </version>
-      <version>
+      <version flow_version="1.0">
         <num>2.6.0 release</num>
         <commit>release-v2.6.0</commit>
         <desc>2.6.0 release</desc>
       </version>
-      <version>
+      <version flow_version="1.0">
         <num>2.5.0 release</num>
         <commit>release-v2.5.0</commit>
         <desc>2.5.0 release</desc>
       </version>
-      <version>
+      <version flow_version="1.0">
         <num>2.4.0 release</num>
         <commit>release-v2.4.0</commit>
         <desc>2.4.0 release</desc>
       </version>
-      <version>
+      <version flow_version="1.0">
         <num>2.3.0 release</num>
         <commit>release-v2.3.0</commit>
         <desc>2.3.0 release</desc>
       </version>
-      <version>
+      <version flow_version="1.0">
         <num>2.1.0 release</num>
         <commit>release-v2.1.0</commit>
         <desc>2.1.0 release</desc>
       </version>
-      <version>
+      <version flow_version="1.0">
         <num>2.0.0 release</num>
         <commit>release-v2.0.0</commit>
         <desc>2.0.0 release</desc>
@@ -181,45 +181,45 @@
     <id>Mesh</id>
     <uri>https://github.com/cypresssemiconductorco/btsdk-mesh</uri>
     <desc>Mesh application base support library (mesh_app_lib)</desc>
-    <category>Bluetooth Libraries</category>
+    <category>BTSDK shared source libraries</category>
     <req_capabilities>mesh btsdk</req_capabilities>
     <versions>
-      <version>
+      <version flow_version="1.0">
         <num>2.7.1 release</num>
         <commit>release-v2.7.1</commit>
         <desc>2.7.1 release</desc>
       </version>
-      <version>
+      <version flow_version="1.0">
         <num>2.7.0 release</num>
         <commit>release-v2.7.0</commit>
         <desc>2.7.0 release</desc>
       </version>
-      <version>
+      <version flow_version="1.0">
         <num>2.6.0 release</num>
         <commit>release-v2.6.0</commit>
         <desc>2.6.0 release</desc>
       </version>
-      <version>
+      <version flow_version="1.0">
         <num>2.5.0 release</num>
         <commit>release-v2.5.0</commit>
         <desc>2.5.0 release</desc>
       </version>
-      <version>
+      <version flow_version="1.0">
         <num>2.4.0 release</num>
         <commit>release-v2.4.0</commit>
         <desc>2.4.0 release</desc>
       </version>
-      <version>
+      <version flow_version="1.0">
         <num>2.3.0 release</num>
         <commit>release-v2.3.0</commit>
         <desc>2.3.0 release</desc>
       </version>
-      <version>
+      <version flow_version="1.0">
         <num>2.1.0 release</num>
         <commit>release-v2.1.0</commit>
         <desc>2.1.0 release</desc>
       </version>
-      <version>
+      <version flow_version="1.0">
         <num>2.0.0 release</num>
         <commit>release-v2.0.0</commit>
         <desc>2.0.0 release</desc>
@@ -231,45 +231,45 @@
     <id>Firmware_Upgrade</id>
     <uri>https://github.com/cypresssemiconductorco/btsdk-ota</uri>
     <desc>Over-The-Air Firmware Upgrade support (fw_upgrade_lib)</desc>
-    <category>Bluetooth Libraries</category>
+    <category>BTSDK shared source libraries</category>
     <req_capabilities>ble btsdk</req_capabilities>
     <versions>
-      <version>
+      <version flow_version="1.0">
         <num>2.7.1 release</num>
         <commit>release-v2.7.1</commit>
         <desc>2.7.1 release</desc>
       </version>
-      <version>
+      <version flow_version="1.0">
         <num>2.7.0 release</num>
         <commit>release-v2.7.0</commit>
         <desc>2.7.0 release</desc>
       </version>
-      <version>
+      <version flow_version="1.0">
         <num>2.6.0 release</num>
         <commit>release-v2.6.0</commit>
         <desc>2.6.0 release</desc>
       </version>
-      <version>
+      <version flow_version="1.0">
         <num>2.5.0 release</num>
         <commit>release-v2.5.0</commit>
         <desc>2.5.0 release</desc>
       </version>
-      <version>
+      <version flow_version="1.0">
         <num>2.4.0 release</num>
         <commit>release-v2.4.0</commit>
         <desc>2.4.0 release</desc>
       </version>
-      <version>
+      <version flow_version="1.0">
         <num>2.3.0 release</num>
         <commit>release-v2.3.0</commit>
         <desc>2.3.0 release</desc>
       </version>
-      <version>
+      <version flow_version="1.0">
         <num>2.1.0 release</num>
         <commit>release-v2.1.0</commit>
         <desc>2.1.0 release</desc>
       </version>
-      <version>
+      <version flow_version="1.0">
         <num>2.0.0 release</num>
         <commit>release-v2.0.0</commit>
         <desc>2.0.0 release</desc>
@@ -287,52 +287,53 @@
   <h5>Libraries included:</h5>
   <ul>
     <li>Message Access Client Profile (map_lib)</li>
-    <li>Object Exchange (obex_lib)</li>
     <li>Phone Book Access Profile (pbap_lib)</li>
     <li>Serial Port Profile (spp_lib)</li>
+    <li>Object Push Profile (opp_lib)</li>
+    <li>Object Exchange Protocol (obex_lib)</li>
   </ul>
 </body>
 </html>
     ]]></desc>
-    <category>Bluetooth Libraries</category>
+    <category>BTSDK shared source libraries</category>
     <req_capabilities>ble btsdk</req_capabilities>
     <versions>
-      <version>
+      <version flow_version="1.0">
         <num>2.7.1 release</num>
         <commit>release-v2.7.1</commit>
         <desc>2.7.1 release</desc>
       </version>
-      <version>
+      <version flow_version="1.0">
         <num>2.7.0 release</num>
         <commit>release-v2.7.0</commit>
         <desc>2.7.0 release</desc>
       </version>
-      <version>
+      <version flow_version="1.0">
         <num>2.6.0 release</num>
         <commit>release-v2.6.0</commit>
         <desc>2.6.0 release</desc>
       </version>
-      <version>
+      <version flow_version="1.0">
         <num>2.5.0 release</num>
         <commit>release-v2.5.0</commit>
         <desc>2.5.0 release</desc>
       </version>
-      <version>
+      <version flow_version="1.0">
         <num>2.4.0 release</num>
         <commit>release-v2.4.0</commit>
         <desc>2.4.0 release</desc>
       </version>
-      <version>
+      <version flow_version="1.0">
         <num>2.3.0 release</num>
         <commit>release-v2.3.0</commit>
         <desc>2.3.0 release</desc>
       </version>
-      <version>
+      <version flow_version="1.0">
         <num>2.1.0 release</num>
         <commit>release-v2.1.0</commit>
         <desc>2.1.0 release</desc>
       </version>
-      <version>
+      <version flow_version="1.0">
         <num>2.0.0 release</num>
         <commit>release-v2.0.0</commit>
         <desc>2.0.0 release</desc>

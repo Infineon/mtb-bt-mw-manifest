@@ -76,7 +76,7 @@
     <li>Beacon support for both iBeacon and Eddystone (beacon_lib)</li>
     <li>Heart Rate Client (hrc_lib)</li>
     <li>Heart Rate Server (hrs_lib)</li>
-    <li>BLE GATT Utilities (gatt_utils_lib)</li>
+    <li>LE GATT Utilities (gatt_utils_lib)</li>
   </ul>
 </body>
 </html>

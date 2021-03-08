@@ -6,12 +6,7 @@
     <desc><![CDATA[
 <html>
 <body>
-  <p>WICED audio-related middleware libraries.</p>
-  <h5>Libraries included:</h5>
-  <ul>
-    <li>AVRC Controller (avrc_controller_lib)</li>
-    <li>AVRC Target (avrc_target_lib)</li>
-  </ul>
+  <p>WICED audio-related libraries.</p>
 </body>
 </html>
     ]]></desc>
@@ -21,42 +16,130 @@
       <version flow_version="1.0">
         <num>2.7.1 release</num>
         <commit>release-v2.7.1</commit>
-        <desc>2.7.1 release</desc>
+        <desc><![CDATA[
+<html>
+<body>
+  <p>2.7.1 release</p>
+  <h5>Libraries included:</h5>
+  <ul>
+    <li>AVRC Controller (avrc_controller_lib)</li>
+    <li>AVRC Target (avrc_target_lib)</li>
+  </ul>
+</body>
+</html>
+    ]]></desc>
       </version>
       <version flow_version="1.0">
         <num>2.7.0 release</num>
         <commit>release-v2.7.0</commit>
-        <desc>2.7.0 release</desc>
+        <desc><![CDATA[
+<html>
+<body>
+  <p>2.7.0 release</p>
+  <h5>Libraries included:</h5>
+  <ul>
+    <li>AVRC Controller (avrc_controller_lib)</li>
+    <li>AVRC Target (avrc_target_lib)</li>
+  </ul>
+</body>
+</html>
+    ]]></desc>
       </version>
       <version flow_version="1.0">
         <num>2.6.0 release</num>
         <commit>release-v2.6.0</commit>
-        <desc>2.6.0 release</desc>
+        <desc><![CDATA[
+<html>
+<body>
+  <p>2.6.0 release</p>
+  <h5>Libraries included:</h5>
+  <ul>
+    <li>AVRC Controller (avrc_controller_lib)</li>
+    <li>AVRC Target (avrc_target_lib)</li>
+  </ul>
+</body>
+</html>
+    ]]></desc>
       </version>
       <version flow_version="1.0">
         <num>2.5.0 release</num>
         <commit>release-v2.5.0</commit>
-        <desc>2.5.0 release</desc>
+        <desc><![CDATA[
+<html>
+<body>
+  <p>2.5.0 release</p>
+  <h5>Libraries included:</h5>
+  <ul>
+    <li>AVRC Controller (avrc_controller_lib)</li>
+    <li>AVRC Target (avrc_target_lib)</li>
+  </ul>
+</body>
+</html>
+    ]]></desc>
       </version>
       <version flow_version="1.0">
         <num>2.4.0 release</num>
         <commit>release-v2.4.0</commit>
-        <desc>2.4.0 release</desc>
+        <desc><![CDATA[
+<html>
+<body>
+  <p>2.4.0 release</p>
+  <h5>Libraries included:</h5>
+  <ul>
+    <li>AVRC Controller (avrc_controller_lib)</li>
+    <li>AVRC Target (avrc_target_lib)</li>
+  </ul>
+</body>
+</html>
+    ]]></desc>
       </version>
       <version flow_version="1.0">
         <num>2.3.0 release</num>
         <commit>release-v2.3.0</commit>
-        <desc>2.3.0 release</desc>
+        <desc><![CDATA[
+<html>
+<body>
+  <p>2.3.0 release</p>
+  <h5>Libraries included:</h5>
+  <ul>
+    <li>AVRC Controller (avrc_controller_lib)</li>
+    <li>AVRC Target (avrc_target_lib)</li>
+  </ul>
+</body>
+</html>
+    ]]></desc>
       </version>
       <version flow_version="1.0">
         <num>2.1.0 release</num>
         <commit>release-v2.1.0</commit>
-        <desc>2.1.0 release</desc>
+        <desc><![CDATA[
+<html>
+<body>
+  <p>2.1.0 release</p>
+  <h5>Libraries included:</h5>
+  <ul>
+    <li>AVRC Controller (avrc_controller_lib)</li>
+    <li>AVRC Target (avrc_target_lib)</li>
+  </ul>
+</body>
+</html>
+    ]]></desc>
       </version>
       <version flow_version="1.0">
         <num>2.0.0 release</num>
         <commit>release-v2.0.0</commit>
-        <desc>2.0.0 release</desc>
+        <desc><![CDATA[
+<html>
+<body>
+  <p>2.0.0 release</p>
+  <h5>Libraries included:</h5>
+  <ul>
+    <li>AVRC Controller (avrc_controller_lib)</li>
+    <li>AVRC Target (avrc_target_lib)</li>
+  </ul>
+</body>
+</html>
+    ]]></desc>
       </version>
     </versions>
   </middleware>
@@ -67,7 +150,7 @@
     <desc><![CDATA[
 <html>
 <body>
-  <p>WICED Bluetooth Low Energy Profile middleware libraries.</p>
+  <p>WICED Bluetooth Low Energy Profile libraries.</p>
   <h5>Libraries included:</h5>
   <ul>
     <li>Alert Notification Client (anc_lib)</li>
@@ -130,49 +213,49 @@
     <name>Human Interface Device</name>
     <id>Human_Interface_Device</id>
     <uri>https://github.com/cypresssemiconductorco/btsdk-hid</uri>
-    <desc>HID Device middleware library (hidd_lib)</desc>
+    <desc>HID Device library</desc>
     <category>BTSDK shared source libraries</category>
     <req_capabilities>hid btsdk</req_capabilities>
     <versions>
       <version flow_version="1.0">
         <num>2.7.1 release</num>
         <commit>release-v2.7.1</commit>
-        <desc>2.7.1 release</desc>
+        <desc>2.7.1 release (hidd_lib)</desc>
       </version>
       <version flow_version="1.0">
         <num>2.7.0 release</num>
         <commit>release-v2.7.0</commit>
-        <desc>2.7.0 release</desc>
+        <desc>2.7.0 release (hidd_lib)</desc>
       </version>
       <version flow_version="1.0">
         <num>2.6.0 release</num>
         <commit>release-v2.6.0</commit>
-        <desc>2.6.0 release</desc>
+        <desc>2.6.0 release (hidd_lib)</desc>
       </version>
       <version flow_version="1.0">
         <num>2.5.0 release</num>
         <commit>release-v2.5.0</commit>
-        <desc>2.5.0 release</desc>
+        <desc>2.5.0 release (hidd_lib)</desc>
       </version>
       <version flow_version="1.0">
         <num>2.4.0 release</num>
         <commit>release-v2.4.0</commit>
-        <desc>2.4.0 release</desc>
+        <desc>2.4.0 release (hidd_lib)</desc>
       </version>
       <version flow_version="1.0">
         <num>2.3.0 release</num>
         <commit>release-v2.3.0</commit>
-        <desc>2.3.0 release</desc>
+        <desc>2.3.0 release (hidd_lib)</desc>
       </version>
       <version flow_version="1.0">
         <num>2.1.0 release</num>
         <commit>release-v2.1.0</commit>
-        <desc>2.1.0 release</desc>
+        <desc>2.1.0 release (hidd_lib)</desc>
       </version>
       <version flow_version="1.0">
         <num>2.0.0 release</num>
         <commit>release-v2.0.0</commit>
-        <desc>2.0.0 release</desc>
+        <desc>2.0.0 release (hidd_lib)</desc>
       </version>
     </versions>
   </middleware>
@@ -180,7 +263,17 @@
     <name>Mesh</name>
     <id>Mesh</id>
     <uri>https://github.com/cypresssemiconductorco/btsdk-mesh</uri>
-    <desc>Mesh application base support library (mesh_app_lib)</desc>
+    <desc><![CDATA[
+<html>
+<body>
+  <p>WICED Mesh libraries.</p>
+  <h5>Libraries included:</h5>
+  <ul>
+    <li>Mesh Application Library (mesh_app_lib)</li>
+  </ul>
+</body>
+</html>
+    ]]></desc>
     <category>BTSDK shared source libraries</category>
     <req_capabilities>mesh btsdk</req_capabilities>
     <versions>
@@ -283,7 +376,7 @@
     <desc><![CDATA[
 <html>
 <body>
-  <p>WICED Bluetooth Profile middleware libraries.</p>
+  <p>WICED Bluetooth RFCOMM Profile libraries.</p>
   <h5>Libraries included:</h5>
   <ul>
     <li>Message Access Client Profile (map_lib)</li>

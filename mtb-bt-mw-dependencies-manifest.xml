@@ -3,27 +3,27 @@
     <id>20706A2</id>
     <versions>
       <version>
-        <commit>latest-v2.X</commit>
+        <commit>release-v3.0.0</commit>
         <dependees>
           <dependee>
             <id>btsdk-include</id>
-            <commit>latest-v2.X</commit>
+            <commit>release-v3.0.0</commit>
           </dependee>
           <dependee>
             <id>btsdk-tools</id>
-            <commit>latest-v2.X</commit>
+            <commit>release-v3.0.0</commit>
           </dependee>
           <dependee>
             <id>btsdk-utils</id>
-            <commit>latest-v2.X</commit>
+            <commit>release-v3.0.0</commit>
           </dependee>
           <dependee>
             <id>btsdk-common</id>
-            <commit>latest-v2.X</commit>
+            <commit>release-v3.0.0</commit>
           </dependee>
           <dependee>
             <id>core-make</id>
-            <commit>release-v1.6.0</commit>
+            <commit>release-v1.7.1</commit>
           </dependee>
         </dependees>
       </version>
@@ -74,6 +74,56 @@
           <dependee>
             <id>core-make</id>
             <commit>release-v1.5.0</commit>
+          </dependee>
+        </dependees>
+      </version>
+      <version>
+        <commit>latest-v3.X</commit>
+        <dependees>
+          <dependee>
+            <id>btsdk-include</id>
+            <commit>latest-v3.X</commit>
+          </dependee>
+          <dependee>
+            <id>btsdk-tools</id>
+            <commit>latest-v3.X</commit>
+          </dependee>
+          <dependee>
+            <id>btsdk-utils</id>
+            <commit>latest-v3.X</commit>
+          </dependee>
+          <dependee>
+            <id>btsdk-common</id>
+            <commit>latest-v3.X</commit>
+          </dependee>
+          <dependee>
+            <id>core-make</id>
+            <commit>release-v1.7.1</commit>
+          </dependee>
+        </dependees>
+      </version>
+      <version>
+        <commit>latest-v2.X</commit>
+        <dependees>
+          <dependee>
+            <id>btsdk-include</id>
+            <commit>latest-v2.X</commit>
+          </dependee>
+          <dependee>
+            <id>btsdk-tools</id>
+            <commit>latest-v2.X</commit>
+          </dependee>
+          <dependee>
+            <id>btsdk-utils</id>
+            <commit>latest-v2.X</commit>
+          </dependee>
+          <dependee>
+            <id>btsdk-common</id>
+            <commit>latest-v2.X</commit>
+          </dependee>
+          <dependee>
+            <id>core-make</id>
+            <commit>release-v1.6.0</commit>
           </dependee>
         </dependees>
       </version>
@@ -83,27 +133,27 @@
     <id>20819A1</id>
     <versions>
       <version>
-        <commit>latest-v2.X</commit>
+        <commit>release-v3.0.0</commit>
         <dependees>
           <dependee>
             <id>btsdk-include</id>
-            <commit>latest-v2.X</commit>
+            <commit>release-v3.0.0</commit>
           </dependee>
           <dependee>
             <id>btsdk-tools</id>
-            <commit>latest-v2.X</commit>
+            <commit>release-v3.0.0</commit>
           </dependee>
           <dependee>
             <id>btsdk-utils</id>
-            <commit>latest-v2.X</commit>
+            <commit>release-v3.0.0</commit>
           </dependee>
           <dependee>
             <id>btsdk-common</id>
-            <commit>latest-v2.X</commit>
+            <commit>release-v3.0.0</commit>
           </dependee>
           <dependee>
             <id>core-make</id>
-            <commit>release-v1.6.0</commit>
+            <commit>release-v1.7.1</commit>
           </dependee>
         </dependees>
       </version>
@@ -154,6 +204,56 @@
           <dependee>
             <id>core-make</id>
             <commit>release-v1.5.0</commit>
+          </dependee>
+        </dependees>
+      </version>
+      <version>
+        <commit>latest-v3.X</commit>
+        <dependees>
+          <dependee>
+            <id>btsdk-include</id>
+            <commit>latest-v3.X</commit>
+          </dependee>
+          <dependee>
+            <id>btsdk-tools</id>
+            <commit>latest-v3.X</commit>
+          </dependee>
+          <dependee>
+            <id>btsdk-utils</id>
+            <commit>latest-v3.X</commit>
+          </dependee>
+          <dependee>
+            <id>btsdk-common</id>
+            <commit>latest-v3.X</commit>
+          </dependee>
+          <dependee>
+            <id>core-make</id>
+            <commit>release-v1.7.1</commit>
+          </dependee>
+        </dependees>
+      </version>
+      <version>
+        <commit>latest-v2.X</commit>
+        <dependees>
+          <dependee>
+            <id>btsdk-include</id>
+            <commit>latest-v2.X</commit>
+          </dependee>
+          <dependee>
+            <id>btsdk-tools</id>
+            <commit>latest-v2.X</commit>
+          </dependee>
+          <dependee>
+            <id>btsdk-utils</id>
+            <commit>latest-v2.X</commit>
+          </dependee>
+          <dependee>
+            <id>btsdk-common</id>
+            <commit>latest-v2.X</commit>
+          </dependee>
+          <dependee>
+            <id>core-make</id>
+            <commit>release-v1.6.0</commit>
           </dependee>
         </dependees>
       </version>
@@ -163,27 +263,27 @@
     <id>20820A1</id>
     <versions>
       <version>
-        <commit>latest-v2.X</commit>
+        <commit>release-v3.0.0</commit>
         <dependees>
           <dependee>
             <id>btsdk-include</id>
-            <commit>latest-v2.X</commit>
+            <commit>release-v3.0.0</commit>
           </dependee>
           <dependee>
             <id>btsdk-tools</id>
-            <commit>latest-v2.X</commit>
+            <commit>release-v3.0.0</commit>
           </dependee>
           <dependee>
             <id>btsdk-utils</id>
-            <commit>latest-v2.X</commit>
+            <commit>release-v3.0.0</commit>
           </dependee>
           <dependee>
             <id>btsdk-common</id>
-            <commit>latest-v2.X</commit>
+            <commit>release-v3.0.0</commit>
           </dependee>
           <dependee>
             <id>core-make</id>
-            <commit>release-v1.6.0</commit>
+            <commit>release-v1.7.1</commit>
           </dependee>
         </dependees>
       </version>
@@ -234,6 +334,56 @@
           <dependee>
             <id>core-make</id>
             <commit>release-v1.5.0</commit>
+          </dependee>
+        </dependees>
+      </version>
+      <version>
+        <commit>latest-v3.X</commit>
+        <dependees>
+          <dependee>
+            <id>btsdk-include</id>
+            <commit>latest-v3.X</commit>
+          </dependee>
+          <dependee>
+            <id>btsdk-tools</id>
+            <commit>latest-v3.X</commit>
+          </dependee>
+          <dependee>
+            <id>btsdk-utils</id>
+            <commit>latest-v3.X</commit>
+          </dependee>
+          <dependee>
+            <id>btsdk-common</id>
+            <commit>latest-v3.X</commit>
+          </dependee>
+          <dependee>
+            <id>core-make</id>
+            <commit>release-v1.7.1</commit>
+          </dependee>
+        </dependees>
+      </version>
+      <version>
+        <commit>latest-v2.X</commit>
+        <dependees>
+          <dependee>
+            <id>btsdk-include</id>
+            <commit>latest-v2.X</commit>
+          </dependee>
+          <dependee>
+            <id>btsdk-tools</id>
+            <commit>latest-v2.X</commit>
+          </dependee>
+          <dependee>
+            <id>btsdk-utils</id>
+            <commit>latest-v2.X</commit>
+          </dependee>
+          <dependee>
+            <id>btsdk-common</id>
+            <commit>latest-v2.X</commit>
+          </dependee>
+          <dependee>
+            <id>core-make</id>
+            <commit>release-v1.6.0</commit>
           </dependee>
         </dependees>
       </version>
@@ -243,27 +393,27 @@
     <id>43012C0</id>
     <versions>
       <version>
-        <commit>latest-v2.X</commit>
+        <commit>release-v3.0.0</commit>
         <dependees>
           <dependee>
             <id>btsdk-include</id>
-            <commit>latest-v2.X</commit>
+            <commit>release-v3.0.0</commit>
           </dependee>
           <dependee>
             <id>btsdk-tools</id>
-            <commit>latest-v2.X</commit>
+            <commit>release-v3.0.0</commit>
           </dependee>
           <dependee>
             <id>btsdk-utils</id>
-            <commit>latest-v2.X</commit>
+            <commit>release-v3.0.0</commit>
           </dependee>
           <dependee>
             <id>btsdk-common</id>
-            <commit>latest-v2.X</commit>
+            <commit>release-v3.0.0</commit>
           </dependee>
           <dependee>
             <id>core-make</id>
-            <commit>release-v1.6.0</commit>
+            <commit>release-v1.7.1</commit>
           </dependee>
         </dependees>
       </version>
@@ -314,6 +464,56 @@
           <dependee>
             <id>core-make</id>
             <commit>release-v1.5.0</commit>
+          </dependee>
+        </dependees>
+      </version>
+      <version>
+        <commit>latest-v3.X</commit>
+        <dependees>
+          <dependee>
+            <id>btsdk-include</id>
+            <commit>latest-v3.X</commit>
+          </dependee>
+          <dependee>
+            <id>btsdk-tools</id>
+            <commit>latest-v3.X</commit>
+          </dependee>
+          <dependee>
+            <id>btsdk-utils</id>
+            <commit>latest-v3.X</commit>
+          </dependee>
+          <dependee>
+            <id>btsdk-common</id>
+            <commit>latest-v3.X</commit>
+          </dependee>
+          <dependee>
+            <id>core-make</id>
+            <commit>release-v1.7.1</commit>
+          </dependee>
+        </dependees>
+      </version>
+      <version>
+        <commit>latest-v2.X</commit>
+        <dependees>
+          <dependee>
+            <id>btsdk-include</id>
+            <commit>latest-v2.X</commit>
+          </dependee>
+          <dependee>
+            <id>btsdk-tools</id>
+            <commit>latest-v2.X</commit>
+          </dependee>
+          <dependee>
+            <id>btsdk-utils</id>
+            <commit>latest-v2.X</commit>
+          </dependee>
+          <dependee>
+            <id>btsdk-common</id>
+            <commit>latest-v2.X</commit>
+          </dependee>
+          <dependee>
+            <id>core-make</id>
+            <commit>release-v1.6.0</commit>
           </dependee>
         </dependees>
       </version>
@@ -323,27 +523,27 @@
     <id>20719B2</id>
     <versions>
       <version>
-        <commit>latest-v2.X</commit>
+        <commit>release-v3.0.0</commit>
         <dependees>
           <dependee>
             <id>btsdk-include</id>
-            <commit>latest-v2.X</commit>
+            <commit>release-v3.0.0</commit>
           </dependee>
           <dependee>
             <id>btsdk-tools</id>
-            <commit>latest-v2.X</commit>
+            <commit>release-v3.0.0</commit>
           </dependee>
           <dependee>
             <id>btsdk-utils</id>
-            <commit>latest-v2.X</commit>
+            <commit>release-v3.0.0</commit>
           </dependee>
           <dependee>
             <id>btsdk-common</id>
-            <commit>latest-v2.X</commit>
+            <commit>release-v3.0.0</commit>
           </dependee>
           <dependee>
             <id>core-make</id>
-            <commit>release-v1.6.0</commit>
+            <commit>release-v1.7.1</commit>
           </dependee>
         </dependees>
       </version>
@@ -394,6 +594,56 @@
           <dependee>
             <id>core-make</id>
             <commit>release-v1.5.0</commit>
+          </dependee>
+        </dependees>
+      </version>
+      <version>
+        <commit>latest-v3.X</commit>
+        <dependees>
+          <dependee>
+            <id>btsdk-include</id>
+            <commit>latest-v3.X</commit>
+          </dependee>
+          <dependee>
+            <id>btsdk-tools</id>
+            <commit>latest-v3.X</commit>
+          </dependee>
+          <dependee>
+            <id>btsdk-utils</id>
+            <commit>latest-v3.X</commit>
+          </dependee>
+          <dependee>
+            <id>btsdk-common</id>
+            <commit>latest-v3.X</commit>
+          </dependee>
+          <dependee>
+            <id>core-make</id>
+            <commit>release-v1.7.1</commit>
+          </dependee>
+        </dependees>
+      </version>
+      <version>
+        <commit>latest-v2.X</commit>
+        <dependees>
+          <dependee>
+            <id>btsdk-include</id>
+            <commit>latest-v2.X</commit>
+          </dependee>
+          <dependee>
+            <id>btsdk-tools</id>
+            <commit>latest-v2.X</commit>
+          </dependee>
+          <dependee>
+            <id>btsdk-utils</id>
+            <commit>latest-v2.X</commit>
+          </dependee>
+          <dependee>
+            <id>btsdk-common</id>
+            <commit>latest-v2.X</commit>
+          </dependee>
+          <dependee>
+            <id>core-make</id>
+            <commit>release-v1.6.0</commit>
           </dependee>
         </dependees>
       </version>
@@ -403,27 +653,27 @@
     <id>20721B2</id>
     <versions>
       <version>
-        <commit>latest-v2.X</commit>
+        <commit>release-v3.0.0</commit>
         <dependees>
           <dependee>
             <id>btsdk-include</id>
-            <commit>latest-v2.X</commit>
+            <commit>release-v3.0.0</commit>
           </dependee>
           <dependee>
             <id>btsdk-tools</id>
-            <commit>latest-v2.X</commit>
+            <commit>release-v3.0.0</commit>
           </dependee>
           <dependee>
             <id>btsdk-utils</id>
-            <commit>latest-v2.X</commit>
+            <commit>release-v3.0.0</commit>
           </dependee>
           <dependee>
             <id>btsdk-common</id>
-            <commit>latest-v2.X</commit>
+            <commit>release-v3.0.0</commit>
           </dependee>
           <dependee>
             <id>core-make</id>
-            <commit>release-v1.6.0</commit>
+            <commit>release-v1.7.1</commit>
           </dependee>
         </dependees>
       </version>
@@ -474,6 +724,56 @@
           <dependee>
             <id>core-make</id>
             <commit>release-v1.5.0</commit>
+          </dependee>
+        </dependees>
+      </version>
+      <version>
+        <commit>latest-v3.X</commit>
+        <dependees>
+          <dependee>
+            <id>btsdk-include</id>
+            <commit>latest-v3.X</commit>
+          </dependee>
+          <dependee>
+            <id>btsdk-tools</id>
+            <commit>latest-v3.X</commit>
+          </dependee>
+          <dependee>
+            <id>btsdk-utils</id>
+            <commit>latest-v3.X</commit>
+          </dependee>
+          <dependee>
+            <id>btsdk-common</id>
+            <commit>latest-v3.X</commit>
+          </dependee>
+          <dependee>
+            <id>core-make</id>
+            <commit>release-v1.7.1</commit>
+          </dependee>
+        </dependees>
+      </version>
+      <version>
+        <commit>latest-v2.X</commit>
+        <dependees>
+          <dependee>
+            <id>btsdk-include</id>
+            <commit>latest-v2.X</commit>
+          </dependee>
+          <dependee>
+            <id>btsdk-tools</id>
+            <commit>latest-v2.X</commit>
+          </dependee>
+          <dependee>
+            <id>btsdk-utils</id>
+            <commit>latest-v2.X</commit>
+          </dependee>
+          <dependee>
+            <id>btsdk-common</id>
+            <commit>latest-v2.X</commit>
+          </dependee>
+          <dependee>
+            <id>core-make</id>
+            <commit>release-v1.6.0</commit>
           </dependee>
         </dependees>
       </version>
@@ -483,27 +783,27 @@
     <id>20735B1</id>
     <versions>
       <version>
-        <commit>latest-v2.X</commit>
+        <commit>release-v3.0.0</commit>
         <dependees>
           <dependee>
             <id>btsdk-include</id>
-            <commit>latest-v2.X</commit>
+            <commit>release-v3.0.0</commit>
           </dependee>
           <dependee>
             <id>btsdk-tools</id>
-            <commit>latest-v2.X</commit>
+            <commit>release-v3.0.0</commit>
           </dependee>
           <dependee>
             <id>btsdk-utils</id>
-            <commit>latest-v2.X</commit>
+            <commit>release-v3.0.0</commit>
           </dependee>
           <dependee>
             <id>btsdk-common</id>
-            <commit>latest-v2.X</commit>
+            <commit>release-v3.0.0</commit>
           </dependee>
           <dependee>
             <id>core-make</id>
-            <commit>release-v1.6.0</commit>
+            <commit>release-v1.7.1</commit>
           </dependee>
         </dependees>
       </version>
@@ -554,6 +854,56 @@
           <dependee>
             <id>core-make</id>
             <commit>release-v1.5.0</commit>
+          </dependee>
+        </dependees>
+      </version>
+      <version>
+        <commit>latest-v3.X</commit>
+        <dependees>
+          <dependee>
+            <id>btsdk-include</id>
+            <commit>latest-v3.X</commit>
+          </dependee>
+          <dependee>
+            <id>btsdk-tools</id>
+            <commit>latest-v3.X</commit>
+          </dependee>
+          <dependee>
+            <id>btsdk-utils</id>
+            <commit>latest-v3.X</commit>
+          </dependee>
+          <dependee>
+            <id>btsdk-common</id>
+            <commit>latest-v3.X</commit>
+          </dependee>
+          <dependee>
+            <id>core-make</id>
+            <commit>release-v1.7.1</commit>
+          </dependee>
+        </dependees>
+      </version>
+      <version>
+        <commit>latest-v2.X</commit>
+        <dependees>
+          <dependee>
+            <id>btsdk-include</id>
+            <commit>latest-v2.X</commit>
+          </dependee>
+          <dependee>
+            <id>btsdk-tools</id>
+            <commit>latest-v2.X</commit>
+          </dependee>
+          <dependee>
+            <id>btsdk-utils</id>
+            <commit>latest-v2.X</commit>
+          </dependee>
+          <dependee>
+            <id>btsdk-common</id>
+            <commit>latest-v2.X</commit>
+          </dependee>
+          <dependee>
+            <id>core-make</id>
+            <commit>release-v1.6.0</commit>
           </dependee>
         </dependees>
       </version>
@@ -563,27 +913,27 @@
     <id>20835B1</id>
     <versions>
       <version>
-        <commit>latest-v2.X</commit>
+        <commit>release-v3.0.0</commit>
         <dependees>
           <dependee>
             <id>btsdk-include</id>
-            <commit>latest-v2.X</commit>
+            <commit>release-v3.0.0</commit>
           </dependee>
           <dependee>
             <id>btsdk-tools</id>
-            <commit>latest-v2.X</commit>
+            <commit>release-v3.0.0</commit>
           </dependee>
           <dependee>
             <id>btsdk-utils</id>
-            <commit>latest-v2.X</commit>
+            <commit>release-v3.0.0</commit>
           </dependee>
           <dependee>
             <id>btsdk-common</id>
-            <commit>latest-v2.X</commit>
+            <commit>release-v3.0.0</commit>
           </dependee>
           <dependee>
             <id>core-make</id>
-            <commit>release-v1.6.0</commit>
+            <commit>release-v1.7.1</commit>
           </dependee>
         </dependees>
       </version>
@@ -634,6 +984,56 @@
           <dependee>
             <id>core-make</id>
             <commit>release-v1.5.0</commit>
+          </dependee>
+        </dependees>
+      </version>
+      <version>
+        <commit>latest-v3.X</commit>
+        <dependees>
+          <dependee>
+            <id>btsdk-include</id>
+            <commit>latest-v3.X</commit>
+          </dependee>
+          <dependee>
+            <id>btsdk-tools</id>
+            <commit>latest-v3.X</commit>
+          </dependee>
+          <dependee>
+            <id>btsdk-utils</id>
+            <commit>latest-v3.X</commit>
+          </dependee>
+          <dependee>
+            <id>btsdk-common</id>
+            <commit>latest-v3.X</commit>
+          </dependee>
+          <dependee>
+            <id>core-make</id>
+            <commit>release-v1.7.1</commit>
+          </dependee>
+        </dependees>
+      </version>
+      <version>
+        <commit>latest-v2.X</commit>
+        <dependees>
+          <dependee>
+            <id>btsdk-include</id>
+            <commit>latest-v2.X</commit>
+          </dependee>
+          <dependee>
+            <id>btsdk-tools</id>
+            <commit>latest-v2.X</commit>
+          </dependee>
+          <dependee>
+            <id>btsdk-utils</id>
+            <commit>latest-v2.X</commit>
+          </dependee>
+          <dependee>
+            <id>btsdk-common</id>
+            <commit>latest-v2.X</commit>
+          </dependee>
+          <dependee>
+            <id>core-make</id>
+            <commit>release-v1.6.0</commit>
           </dependee>
         </dependees>
       </version>

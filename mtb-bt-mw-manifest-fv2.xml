@@ -3,14 +3,14 @@
     <name>BTSDK Shared Includes</name>
     <id>btsdk-include</id>
     <uri>https://github.com/cypresssemiconductorco/btsdk-include</uri>
-    <desc>BTSDK shared headers used for all WICED platforms.</desc>
+    <desc>BTSDK shared headers used by all WICED applications.</desc>
     <category>BTSDK core support</category>
     <req_capabilities>btsdk</req_capabilities>
     <versions>
       <version tools_min_version="2.2.0" flow_version="2.0" prefix="wiced_btsdk/dev-kit">
-        <num>Latest v2.X release</num>
-        <commit>latest-v2.X</commit>
-        <desc>2.9.0 release</desc>
+        <num>3.0.0 release</num>
+        <commit>release-v3.0.0</commit>
+        <desc>3.0.0 release</desc>
       </version>
       <version tools_min_version="2.2.0" flow_version="2.0" prefix="wiced_btsdk/dev-kit">
         <num>2.9.0 release</num>
@@ -21,6 +21,16 @@
         <num>2.8.0 release</num>
         <commit>release-v2.8.0</commit>
         <desc>2.8.0 release</desc>
+      </version>
+      <version tools_min_version="2.2.0" flow_version="2.0" prefix="wiced_btsdk/dev-kit">
+        <num>Latest v3.X release</num>
+        <commit>latest-v3.X</commit>
+        <desc>Latest v3.X release</desc>
+      </version>
+      <version tools_min_version="2.2.0" flow_version="2.0" prefix="wiced_btsdk/dev-kit">
+        <num>Latest v2.X release</num>
+        <commit>latest-v2.X</commit>
+        <desc>Latest v2.X release</desc>
       </version>
     </versions>
   </middleware>
@@ -28,14 +38,14 @@
     <name>BTSDK Tools</name>
     <id>btsdk-tools</id>
     <uri>https://github.com/cypresssemiconductorco/btsdk-tools</uri>
-    <desc>BTSDK shared tools used for all WICED platforms.</desc>
+    <desc>BTSDK shared tools used by all WICED applications.</desc>
     <category>BTSDK core support</category>
     <req_capabilities>btsdk</req_capabilities>
     <versions>
       <version tools_min_version="2.2.0" flow_version="2.0" prefix="wiced_btsdk/dev-kit">
-        <num>Latest v2.X release</num>
-        <commit>latest-v2.X</commit>
-        <desc>2.9.0 release</desc>
+        <num>3.0.0 release</num>
+        <commit>release-v3.0.0</commit>
+        <desc>3.0.0 release</desc>
       </version>
       <version tools_min_version="2.2.0" flow_version="2.0" prefix="wiced_btsdk/dev-kit">
         <num>2.9.0 release</num>
@@ -46,6 +56,16 @@
         <num>2.8.0 release</num>
         <commit>release-v2.8.0</commit>
         <desc>2.8.0 release</desc>
+      </version>
+      <version tools_min_version="2.2.0" flow_version="2.0" prefix="wiced_btsdk/dev-kit">
+        <num>Latest v3.X release</num>
+        <commit>latest-v3.X</commit>
+        <desc>Latest v3.X release</desc>
+      </version>
+      <version tools_min_version="2.2.0" flow_version="2.0" prefix="wiced_btsdk/dev-kit">
+        <num>Latest v2.X release</num>
+        <commit>latest-v2.X</commit>
+        <desc>Latest v2.X release</desc>
       </version>
     </versions>
   </middleware>
@@ -56,11 +76,11 @@
     <desc><![CDATA[
 <html>
 <body>
-  <p>BTSDK shared utilities usable for all WICED platforms</p>
+  <p>BTSDK shared utilities usable for all WICED applications</p>
   <h5>Utilities included:</h5>
   <ul>
     <li>BTSpy: Tracing utility to collect HCI and application traces, and Bluetooth snoop logs.</li>
-    <li>wmbt: WICED manufacturing Bluetooth test tool (WMBT) is used to test and verify the RF performance of Cypress SoC Bluetooth BR/EDR/LE devices</li>
+    <li>wmbt: WICED manufacturing Bluetooth test tool (WMBT) is used to test and verify the RF performance of Infineon SoC Bluetooth BR/EDR/LE devices</li>
     <li>ecdsa256: Elliptic Curve Digital Signature Algorithm</li>
   </ul>
 </body>
@@ -70,9 +90,9 @@
     <req_capabilities>btsdk</req_capabilities>
     <versions>
       <version tools_min_version="2.2.0" flow_version="2.0" prefix="wiced_btsdk/tools">
-        <num>Latest v2.X release</num>
-        <commit>latest-v2.X</commit>
-        <desc>2.9.0 release</desc>
+        <num>3.0.0 release</num>
+        <commit>release-v3.0.0</commit>
+        <desc>3.0.0 release</desc>
       </version>
       <version tools_min_version="2.2.0" flow_version="2.0" prefix="wiced_btsdk/tools">
         <num>2.9.0 release</num>
@@ -83,6 +103,16 @@
         <num>2.8.0 release</num>
         <commit>release-v2.8.0</commit>
         <desc>2.8.0 release</desc>
+      </version>
+      <version tools_min_version="2.2.0" flow_version="2.0" prefix="wiced_btsdk/tools">
+        <num>Latest v3.X release</num>
+        <commit>latest-v3.X</commit>
+        <desc>Latest v3.X release</desc>
+      </version>
+      <version tools_min_version="2.2.0" flow_version="2.0" prefix="wiced_btsdk/tools">
+        <num>Latest v2.X release</num>
+        <commit>latest-v2.X</commit>
+        <desc>Latest v2.X release</desc>
       </version>
     </versions>
   </middleware>
@@ -95,9 +125,9 @@
     <req_capabilities>btsdk</req_capabilities>
     <versions>
       <version tools_min_version="2.2.0" flow_version="2.0" prefix="wiced_btsdk/tools">
-        <num>Latest v2.X release</num>
-        <commit>latest-v2.X</commit>
-        <desc>2.9.0 release</desc>
+        <num>3.0.0 release</num>
+        <commit>release-v3.0.0</commit>
+        <desc>3.0.0 release</desc>
       </version>
       <version tools_min_version="2.2.0" flow_version="2.0" prefix="wiced_btsdk/tools">
         <num>2.9.0 release</num>
@@ -108,6 +138,16 @@
         <num>2.8.0 release</num>
         <commit>release-v2.8.0</commit>
         <desc>2.8.0 release</desc>
+      </version>
+      <version tools_min_version="2.2.0" flow_version="2.0" prefix="wiced_btsdk/tools">
+        <num>Latest v3.X release</num>
+        <commit>latest-v3.X</commit>
+        <desc>Latest v3.X release</desc>
+      </version>
+      <version tools_min_version="2.2.0" flow_version="2.0" prefix="wiced_btsdk/tools">
+        <num>Latest v2.X release</num>
+        <commit>latest-v2.X</commit>
+        <desc>Latest v2.X release</desc>
       </version>
     </versions>
   </middleware>
@@ -120,9 +160,9 @@
     <req_capabilities>btsdk</req_capabilities>
     <versions>
       <version tools_min_version="2.2.0" flow_version="2.0" prefix="wiced_btsdk/tools">
-        <num>Latest v2.X release</num>
-        <commit>latest-v2.X</commit>
-        <desc>2.9.0 release</desc>
+        <num>3.0.0 release</num>
+        <commit>release-v3.0.0</commit>
+        <desc>3.0.0 release</desc>
       </version>
       <version tools_min_version="2.2.0" flow_version="2.0" prefix="wiced_btsdk/tools">
         <num>2.9.0 release</num>
@@ -133,6 +173,16 @@
         <num>2.8.0 release</num>
         <commit>release-v2.8.0</commit>
         <desc>2.8.0 release</desc>
+      </version>
+      <version tools_min_version="2.2.0" flow_version="2.0" prefix="wiced_btsdk/tools">
+        <num>Latest v3.X release</num>
+        <commit>latest-v3.X</commit>
+        <desc>Latest v3.X release</desc>
+      </version>
+      <version tools_min_version="2.2.0" flow_version="2.0" prefix="wiced_btsdk/tools">
+        <num>Latest v2.X release</num>
+        <commit>latest-v2.X</commit>
+        <desc>Latest v2.X release</desc>
       </version>
     </versions>
   </middleware>
@@ -145,9 +195,9 @@
     <req_capabilities>btsdk</req_capabilities>
     <versions>
       <version tools_min_version="2.2.0" flow_version="2.0" prefix="wiced_btsdk/tools">
-        <num>Latest v2.X release</num>
-        <commit>latest-v2.X</commit>
-        <desc>2.9.0 release</desc>
+        <num>3.0.0 release</num>
+        <commit>release-v3.0.0</commit>
+        <desc>3.0.0 release</desc>
       </version>
       <version tools_min_version="2.2.0" flow_version="2.0" prefix="wiced_btsdk/tools">
         <num>2.9.0 release</num>
@@ -158,6 +208,16 @@
         <num>2.8.0 release</num>
         <commit>release-v2.8.0</commit>
         <desc>2.8.0 release</desc>
+      </version>
+      <version tools_min_version="2.2.0" flow_version="2.0" prefix="wiced_btsdk/tools">
+        <num>Latest v3.X release</num>
+        <commit>latest-v3.X</commit>
+        <desc>Latest v3.X release</desc>
+      </version>
+      <version tools_min_version="2.2.0" flow_version="2.0" prefix="wiced_btsdk/tools">
+        <num>Latest v2.X release</num>
+        <commit>latest-v2.X</commit>
+        <desc>Latest v2.X release</desc>
       </version>
     </versions>
   </middleware>
@@ -170,9 +230,9 @@
     <req_capabilities>btsdk</req_capabilities>
     <versions>
       <version tools_min_version="2.2.0" flow_version="2.0" prefix="wiced_btsdk/tools">
-        <num>Latest v2.X release</num>
-        <commit>latest-v2.X</commit>
-        <desc>2.9.0 release</desc>
+        <num>3.0.0 release</num>
+        <commit>release-v3.0.0</commit>
+        <desc>3.0.0 release</desc>
       </version>
       <version tools_min_version="2.2.0" flow_version="2.0" prefix="wiced_btsdk/tools">
         <num>2.9.0 release</num>
@@ -183,6 +243,16 @@
         <num>2.8.0 release</num>
         <commit>release-v2.8.0</commit>
         <desc>2.8.0 release</desc>
+      </version>
+      <version tools_min_version="2.2.0" flow_version="2.0" prefix="wiced_btsdk/tools">
+        <num>Latest v3.X release</num>
+        <commit>latest-v3.X</commit>
+        <desc>Latest v3.X release</desc>
+      </version>
+      <version tools_min_version="2.2.0" flow_version="2.0" prefix="wiced_btsdk/tools">
+        <num>Latest v2.X release</num>
+        <commit>latest-v2.X</commit>
+        <desc>Latest v2.X release</desc>
       </version>
     </versions>
   </middleware>
@@ -190,14 +260,14 @@
     <name>CYW20706A2</name>
     <id>20706A2</id>
     <uri>https://github.com/cypresssemiconductorco/20706A2</uri>
-    <desc>The Cypress CYW20706 is an ultra-low-power dual-mode Bluetooth 5.0 wireless MCU device. It has a stand-alone baseband processor with an integrated 2.4 GHz transceiver supporting LE/BR/EDR.  Note: BTSDK projects only support 1 chip library at a time. To switch to a different chip library, deselect the current chip library.</desc>
+    <desc>The Infineon CYW20706 is an ultra-low-power dual-mode Bluetooth 5.0 wireless MCU device. It has a stand-alone baseband processor with an integrated 2.4 GHz transceiver supporting LE/BR/EDR.</desc>
     <category>BTSDK chip libraries</category>
     <req_capabilities>btsdk</req_capabilities>
     <versions>
       <version tools_min_version="2.2.0" flow_version="2.0" prefix="wiced_btsdk/dev-kit/baselib">
-        <num>Latest v2.X release</num>
-        <commit>latest-v2.X</commit>
-        <desc>2.9.0 release</desc>
+        <num>3.0.0 release</num>
+        <commit>release-v3.0.0</commit>
+        <desc>3.0.0 release</desc>
       </version>
       <version tools_min_version="2.2.0" flow_version="2.0" prefix="wiced_btsdk/dev-kit/baselib">
         <num>2.9.0 release</num>
@@ -208,6 +278,16 @@
         <num>2.8.0 release</num>
         <commit>release-v2.8.0</commit>
         <desc>2.8.0 release</desc>
+      </version>
+      <version tools_min_version="2.2.0" flow_version="2.0" prefix="wiced_btsdk/dev-kit/baselib">
+        <num>Latest v3.X release</num>
+        <commit>latest-v3.X</commit>
+        <desc>Latest v3.X release</desc>
+      </version>
+      <version tools_min_version="2.2.0" flow_version="2.0" prefix="wiced_btsdk/dev-kit/baselib">
+        <num>Latest v2.X release</num>
+        <commit>latest-v2.X</commit>
+        <desc>Latest v2.X release</desc>
       </version>
     </versions>
   </middleware>
@@ -215,14 +295,14 @@
     <name>CYW20819A1</name>
     <id>20819A1</id>
     <uri>https://github.com/cypresssemiconductorco/20819A1</uri>
-    <desc>The Cypress CYW20819, CYW20820, and CYW89820 are ultra-low-power dual-mode Bluetooth 5.0 wireless MCU devices. They have a stand-alone baseband processor with an integrated 2.4 GHz transceiver supporting LE/BR/EDR.  They are identical except that the CYW20820 and CYW89820 have an internal Power Amplifier (iPA) with programmable BDR transmit power up to 10.5 dBm.  CYW208XX is used to refer to all those parts.  Note: BTSDK projects only support 1 chip library at a time. To switch to a different chip library, deselect the current chip library.</desc>
+    <desc>The Infineon CYW20819, CYW20820, and CYW89820 are ultra-low-power dual-mode Bluetooth 5.0 wireless MCU devices. They have a stand-alone baseband processor with an integrated 2.4 GHz transceiver supporting LE/BR/EDR.  They are identical except that the CYW20820 and CYW89820 have an internal Power Amplifier (iPA) with programmable BDR transmit power up to 10.5 dBm.  CYW208XX is used to refer to all those parts.</desc>
     <category>BTSDK chip libraries</category>
     <req_capabilities>btsdk</req_capabilities>
     <versions>
       <version tools_min_version="2.2.0" flow_version="2.0" prefix="wiced_btsdk/dev-kit/baselib">
-        <num>Latest v2.X release</num>
-        <commit>latest-v2.X</commit>
-        <desc>2.9.0 release</desc>
+        <num>3.0.0 release</num>
+        <commit>release-v3.0.0</commit>
+        <desc>3.0.0 release</desc>
       </version>
       <version tools_min_version="2.2.0" flow_version="2.0" prefix="wiced_btsdk/dev-kit/baselib">
         <num>2.9.0 release</num>
@@ -233,6 +313,16 @@
         <num>2.8.0 release</num>
         <commit>release-v2.8.0</commit>
         <desc>2.8.0 release</desc>
+      </version>
+      <version tools_min_version="2.2.0" flow_version="2.0" prefix="wiced_btsdk/dev-kit/baselib">
+        <num>Latest v3.X release</num>
+        <commit>latest-v3.X</commit>
+        <desc>Latest v3.X release</desc>
+      </version>
+      <version tools_min_version="2.2.0" flow_version="2.0" prefix="wiced_btsdk/dev-kit/baselib">
+        <num>Latest v2.X release</num>
+        <commit>latest-v2.X</commit>
+        <desc>Latest v2.X release</desc>
       </version>
     </versions>
   </middleware>
@@ -240,14 +330,14 @@
     <name>CYW20820A1</name>
     <id>20820A1</id>
     <uri>https://github.com/cypresssemiconductorco/20820A1</uri>
-    <desc>The Cypress CYW20819, CYW20820, and CYW89820 are ultra-low-power dual-mode Bluetooth 5.0 wireless MCU devices. They have a stand-alone baseband processor with an integrated 2.4 GHz transceiver supporting LE/BR/EDR.  They are identical except that the CYW20820 and CYW89820 have an internal Power Amplifier (iPA) with programmable BDR transmit power up to 10.5 dBm.  CYW208XX is used to refer to all those parts.  Note: BTSDK projects only support 1 chip library at a time. To switch to a different chip library, deselect the current chip library.</desc>
+    <desc>The Infineon CYW20819, CYW20820, and CYW89820 are ultra-low-power dual-mode Bluetooth 5.0 wireless MCU devices. They have a stand-alone baseband processor with an integrated 2.4 GHz transceiver supporting LE/BR/EDR.  They are identical except that the CYW20820 and CYW89820 have an internal Power Amplifier (iPA) with programmable BDR transmit power up to 10.5 dBm.  CYW208XX is used to refer to all those parts.</desc>
     <category>BTSDK chip libraries</category>
     <req_capabilities>btsdk</req_capabilities>
     <versions>
       <version tools_min_version="2.2.0" flow_version="2.0" prefix="wiced_btsdk/dev-kit/baselib">
-        <num>Latest v2.X release</num>
-        <commit>latest-v2.X</commit>
-        <desc>2.9.0 release</desc>
+        <num>3.0.0 release</num>
+        <commit>release-v3.0.0</commit>
+        <desc>3.0.0 release</desc>
       </version>
       <version tools_min_version="2.2.0" flow_version="2.0" prefix="wiced_btsdk/dev-kit/baselib">
         <num>2.9.0 release</num>
@@ -258,6 +348,16 @@
         <num>2.8.0 release</num>
         <commit>release-v2.8.0</commit>
         <desc>2.8.0 release</desc>
+      </version>
+      <version tools_min_version="2.2.0" flow_version="2.0" prefix="wiced_btsdk/dev-kit/baselib">
+        <num>Latest v3.X release</num>
+        <commit>latest-v3.X</commit>
+        <desc>Latest v3.X release</desc>
+      </version>
+      <version tools_min_version="2.2.0" flow_version="2.0" prefix="wiced_btsdk/dev-kit/baselib">
+        <num>Latest v2.X release</num>
+        <commit>latest-v2.X</commit>
+        <desc>Latest v2.X release</desc>
       </version>
     </versions>
   </middleware>
@@ -265,14 +365,14 @@
     <name>CYW43012C0</name>
     <id>43012C0</id>
     <uri>https://github.com/cypresssemiconductorco/43012C0</uri>
-    <desc>The Cypress CYW43012 is a 28nm ultra-low power dual-mode Bluetooth 5.0 wireless MCU Wi-Fi + Bluetooth Combo device. It has a stand-alone baseband processor with an integrated 2.4 GHz transceiver supporting BR, EDR, and LE.  Note: BTSDK projects only support 1 chip library at a time. To switch to a different chip library, deselect the current chip library.</desc>
+    <desc>The Infineon CYW43012 is a 28nm ultra-low power dual-mode Bluetooth 5.0 wireless MCU Wi-Fi + Bluetooth Combo device. It has a stand-alone baseband processor with an integrated 2.4 GHz transceiver supporting BR, EDR, and LE.</desc>
     <category>BTSDK chip libraries</category>
     <req_capabilities>btsdk</req_capabilities>
     <versions>
       <version tools_min_version="2.2.0" flow_version="2.0" prefix="wiced_btsdk/dev-kit/baselib">
-        <num>Latest v2.X release</num>
-        <commit>latest-v2.X</commit>
-        <desc>2.9.0 release</desc>
+        <num>3.0.0 release</num>
+        <commit>release-v3.0.0</commit>
+        <desc>3.0.0 release</desc>
       </version>
       <version tools_min_version="2.2.0" flow_version="2.0" prefix="wiced_btsdk/dev-kit/baselib">
         <num>2.9.0 release</num>
@@ -283,6 +383,16 @@
         <num>2.8.0 release</num>
         <commit>release-v2.8.0</commit>
         <desc>2.8.0 release</desc>
+      </version>
+      <version tools_min_version="2.2.0" flow_version="2.0" prefix="wiced_btsdk/dev-kit/baselib">
+        <num>Latest v3.X release</num>
+        <commit>latest-v3.X</commit>
+        <desc>Latest v3.X release</desc>
+      </version>
+      <version tools_min_version="2.2.0" flow_version="2.0" prefix="wiced_btsdk/dev-kit/baselib">
+        <num>Latest v2.X release</num>
+        <commit>latest-v2.X</commit>
+        <desc>Latest v2.X release</desc>
       </version>
     </versions>
   </middleware>
@@ -290,14 +400,14 @@
     <name>CYW20719B2</name>
     <id>20719B2</id>
     <uri>https://github.com/cypresssemiconductorco/20719B2</uri>
-    <desc>The Cypress CYW20719 is an ultra-low-power dual-mode Bluetooth 5.0 wireless MCU device. It has a stand-alone baseband processor with an integrated 2.4 GHz transceiver supporting LE/BR/EDR.  Note: BTSDK projects only support 1 chip library at a time. To switch to a different chip library, deselect the current chip library.</desc>
+    <desc>The Infineon CYW20719 is an ultra-low-power dual-mode Bluetooth 5.0 wireless MCU device. It has a stand-alone baseband processor with an integrated 2.4 GHz transceiver supporting LE/BR/EDR.</desc>
     <category>BTSDK chip libraries</category>
     <req_capabilities>btsdk</req_capabilities>
     <versions>
       <version tools_min_version="2.2.0" flow_version="2.0" prefix="wiced_btsdk/dev-kit/baselib">
-        <num>Latest v2.X release</num>
-        <commit>latest-v2.X</commit>
-        <desc>2.9.0 release</desc>
+        <num>3.0.0 release</num>
+        <commit>release-v3.0.0</commit>
+        <desc>3.0.0 release</desc>
       </version>
       <version tools_min_version="2.2.0" flow_version="2.0" prefix="wiced_btsdk/dev-kit/baselib">
         <num>2.9.0 release</num>
@@ -308,6 +418,16 @@
         <num>2.8.0 release</num>
         <commit>release-v2.8.0</commit>
         <desc>2.8.0 release</desc>
+      </version>
+      <version tools_min_version="2.2.0" flow_version="2.0" prefix="wiced_btsdk/dev-kit/baselib">
+        <num>Latest v3.X release</num>
+        <commit>latest-v3.X</commit>
+        <desc>Latest v3.X release</desc>
+      </version>
+      <version tools_min_version="2.2.0" flow_version="2.0" prefix="wiced_btsdk/dev-kit/baselib">
+        <num>Latest v2.X release</num>
+        <commit>latest-v2.X</commit>
+        <desc>Latest v2.X release</desc>
       </version>
     </versions>
   </middleware>
@@ -315,14 +435,14 @@
     <name>CYW20721B2</name>
     <id>20721B2</id>
     <uri>https://github.com/cypresssemiconductorco/20721B2</uri>
-    <desc>The Cypress CYW20721 is an ultra-low-power dual-mode Bluetooth 5.0 wireless MCU device. It has a stand-alone baseband processor with an integrated 2.4 GHz transceiver supporting LE/BR/EDR.  Note: BTSDK projects only support 1 chip library at a time. To switch to a different chip library, deselect the current chip library.</desc>
+    <desc>The Infineon CYW20721 is an ultra-low-power dual-mode Bluetooth 5.0 wireless MCU device. It has a stand-alone baseband processor with an integrated 2.4 GHz transceiver supporting LE/BR/EDR.</desc>
     <category>BTSDK chip libraries</category>
     <req_capabilities>btsdk</req_capabilities>
     <versions>
       <version tools_min_version="2.2.0" flow_version="2.0" prefix="wiced_btsdk/dev-kit/baselib">
-        <num>Latest v2.X release</num>
-        <commit>latest-v2.X</commit>
-        <desc>2.9.0 release</desc>
+        <num>3.0.0 release</num>
+        <commit>release-v3.0.0</commit>
+        <desc>3.0.0 release</desc>
       </version>
       <version tools_min_version="2.2.0" flow_version="2.0" prefix="wiced_btsdk/dev-kit/baselib">
         <num>2.9.0 release</num>
@@ -333,6 +453,16 @@
         <num>2.8.0 release</num>
         <commit>release-v2.8.0</commit>
         <desc>2.8.0 release</desc>
+      </version>
+      <version tools_min_version="2.2.0" flow_version="2.0" prefix="wiced_btsdk/dev-kit/baselib">
+        <num>Latest v3.X release</num>
+        <commit>latest-v3.X</commit>
+        <desc>Latest v3.X release</desc>
+      </version>
+      <version tools_min_version="2.2.0" flow_version="2.0" prefix="wiced_btsdk/dev-kit/baselib">
+        <num>Latest v2.X release</num>
+        <commit>latest-v2.X</commit>
+        <desc>Latest v2.X release</desc>
       </version>
     </versions>
   </middleware>
@@ -340,14 +470,14 @@
     <name>CYW20735B1</name>
     <id>20735B1</id>
     <uri>https://github.com/cypresssemiconductorco/20735B1</uri>
-    <desc>The Cypress CYW20735 is an ultra-low-power dual-mode Bluetooth 5.0 wireless MCU device. It has a stand-alone baseband processor with an integrated 2.4 GHz transceiver supporting BR and LE. EDR is not supported.  Note: BTSDK projects only support 1 chip library at a time. To switch to a different chip library, deselect the current chip library.</desc>
+    <desc>The Infineon CYW20735 is an ultra-low-power dual-mode Bluetooth 5.0 wireless MCU device. It has a stand-alone baseband processor with an integrated 2.4 GHz transceiver supporting BR and LE. EDR is not supported.</desc>
     <category>BTSDK chip libraries</category>
     <req_capabilities>btsdk</req_capabilities>
     <versions>
       <version tools_min_version="2.2.0" flow_version="2.0" prefix="wiced_btsdk/dev-kit/baselib">
-        <num>Latest v2.X release</num>
-        <commit>latest-v2.X</commit>
-        <desc>2.9.0 release</desc>
+        <num>3.0.0 release</num>
+        <commit>release-v3.0.0</commit>
+        <desc>3.0.0 release</desc>
       </version>
       <version tools_min_version="2.2.0" flow_version="2.0" prefix="wiced_btsdk/dev-kit/baselib">
         <num>2.9.0 release</num>
@@ -358,6 +488,16 @@
         <num>2.8.0 release</num>
         <commit>release-v2.8.0</commit>
         <desc>2.8.0 release</desc>
+      </version>
+      <version tools_min_version="2.2.0" flow_version="2.0" prefix="wiced_btsdk/dev-kit/baselib">
+        <num>Latest v3.X release</num>
+        <commit>latest-v3.X</commit>
+        <desc>Latest v3.X release</desc>
+      </version>
+      <version tools_min_version="2.2.0" flow_version="2.0" prefix="wiced_btsdk/dev-kit/baselib">
+        <num>Latest v2.X release</num>
+        <commit>latest-v2.X</commit>
+        <desc>Latest v2.X release</desc>
       </version>
     </versions>
   </middleware>
@@ -365,14 +505,14 @@
     <name>CYW20835B1</name>
     <id>20835B1</id>
     <uri>https://github.com/cypresssemiconductorco/20835B1</uri>
-    <desc>The Cypress CYW20835 is an ultra-low-power Bluetooth Low Energy 5.0 wireless MCU device. It has a stand-alone baseband processor with an integrated 2.4 GHz transceiver supporting LE. BR/EDR is not supported.  Note: BTSDK projects only support 1 chip library at a time. To switch to a different chip library, deselect the current chip library.</desc>
+    <desc>The Infineon CYW20835 is an ultra-low-power Bluetooth Low Energy 5.0 wireless MCU device. It has a stand-alone baseband processor with an integrated 2.4 GHz transceiver supporting LE. BR/EDR is not supported.</desc>
     <category>BTSDK chip libraries</category>
     <req_capabilities>btsdk</req_capabilities>
     <versions>
       <version tools_min_version="2.2.0" flow_version="2.0" prefix="wiced_btsdk/dev-kit/baselib">
-        <num>Latest v2.X release</num>
-        <commit>latest-v2.X</commit>
-        <desc>2.9.0 release</desc>
+        <num>3.0.0 release</num>
+        <commit>release-v3.0.0</commit>
+        <desc>3.0.0 release</desc>
       </version>
       <version tools_min_version="2.2.0" flow_version="2.0" prefix="wiced_btsdk/dev-kit/baselib">
         <num>2.9.0 release</num>
@@ -383,6 +523,16 @@
         <num>2.8.0 release</num>
         <commit>release-v2.8.0</commit>
         <desc>2.8.0 release</desc>
+      </version>
+      <version tools_min_version="2.2.0" flow_version="2.0" prefix="wiced_btsdk/dev-kit/baselib">
+        <num>Latest v3.X release</num>
+        <commit>latest-v3.X</commit>
+        <desc>Latest v3.X release</desc>
+      </version>
+      <version tools_min_version="2.2.0" flow_version="2.0" prefix="wiced_btsdk/dev-kit/baselib">
+        <num>Latest v2.X release</num>
+        <commit>latest-v2.X</commit>
+        <desc>Latest v2.X release</desc>
       </version>
     </versions>
   </middleware>
@@ -390,14 +540,14 @@
     <name>BTSDK Shared Source</name>
     <id>btsdk-common</id>
     <uri>https://github.com/cypresssemiconductorco/btsdk-common</uri>
-    <desc>BTSDK common shared source used by WICED apps</desc>
+    <desc>BTSDK common shared source used by all WICED applications.</desc>
     <category>BTSDK core support</category>
     <req_capabilities>btsdk</req_capabilities>
     <versions>
       <version tools_min_version="2.2.0" flow_version="2.0" prefix="wiced_btsdk/dev-kit/libraries">
-        <num>Latest v2.X release</num>
-        <commit>latest-v2.X</commit>
-        <desc>2.9.0 release</desc>
+        <num>3.0.0 release</num>
+        <commit>release-v3.0.0</commit>
+        <desc>3.0.0 release</desc>
       </version>
       <version tools_min_version="2.2.0" flow_version="2.0" prefix="wiced_btsdk/dev-kit/libraries">
         <num>2.9.0 release</num>
@@ -408,6 +558,16 @@
         <num>2.8.0 release</num>
         <commit>release-v2.8.0</commit>
         <desc>2.8.0 release</desc>
+      </version>
+      <version tools_min_version="2.2.0" flow_version="2.0" prefix="wiced_btsdk/dev-kit/libraries">
+        <num>Latest v3.X release</num>
+        <commit>latest-v3.X</commit>
+        <desc>Latest v3.X release</desc>
+      </version>
+      <version tools_min_version="2.2.0" flow_version="2.0" prefix="wiced_btsdk/dev-kit/libraries">
+        <num>Latest v2.X release</num>
+        <commit>latest-v2.X</commit>
+        <desc>Latest v2.X release</desc>
       </version>
     </versions>
   </middleware>
@@ -426,12 +586,12 @@
     <req_capabilities>audio btsdk</req_capabilities>
     <versions>
       <version tools_min_version="2.2.0" flow_version="2.0" prefix="wiced_btsdk/dev-kit/libraries">
-        <num>Latest v2.X release</num>
-        <commit>latest-v2.X</commit>
+        <num>3.0.0 release</num>
+        <commit>release-v3.0.0</commit>
         <desc><![CDATA[
 <html>
 <body>
-  <p>2.9.0 release</p>
+  <p>3.0.0 release</p>
   <h5>Libraries included:</h5>
   <ul>
     <li>AVRC Controller Profile (avrc_controller)</li>
@@ -518,6 +678,68 @@
 </html>
     ]]></desc>
       </version>
+      <version tools_min_version="2.2.0" flow_version="2.0" prefix="wiced_btsdk/dev-kit/libraries">
+        <num>Latest v3.X release</num>
+        <commit>latest-v3.X</commit>
+        <desc><![CDATA[
+<html>
+<body>
+  <p>Latest v3.X release</p>
+  <h5>Libraries included:</h5>
+  <ul>
+    <li>AVRC Controller Profile (avrc_controller)</li>
+    <li>AVRC Target Profile (avrc_target)</li>
+    <li>Hands-free Profile (handsfree_profile)</li>
+    <li>Audio Gateway Profile (hfp_audio_gateway)</li>
+    <li>Audio Sink Profile (a2dp_sink_profile)</li>
+    <li>Apple Media Service (ams)</li>
+    <li>Apple Notification Center Service (ancs)</li>
+    <li>Audio Insert Funtionality (audio_insert_lib)</li>
+    <li>Button Management Support (button_manager)</li>
+    <li>LED Management Support (led_manager)</li>
+    <li>Audio Manager (audiomanager)</li>
+    <li>Headset/Speaker Support (bt_hs_spk_lib)</li>
+    <li>AK4679 Codec Support (codec_ak4679_lib)</li>
+    <li>CYW9BT Audio Support (cyw9bt_audio and cyw9bt_audio2)</li>
+    <li>CS47l35 Codec Support (codec_cs47l35_lib)</li>
+    <li>Audio Record Support (audio_record_lib)</li>
+    <li>WICED HCI Control Of Audio Streaming (audio_uart)</li>
+  </ul>
+</body>
+</html>
+    ]]></desc>
+      </version>
+      <version tools_min_version="2.2.0" flow_version="2.0" prefix="wiced_btsdk/dev-kit/libraries">
+        <num>Latest v2.X release</num>
+        <commit>latest-v2.X</commit>
+        <desc><![CDATA[
+<html>
+<body>
+  <p>Latest v2.X release</p>
+  <h5>Libraries included:</h5>
+  <ul>
+    <li>AVRC Controller Profile (avrc_controller)</li>
+    <li>AVRC Target Profile (avrc_target)</li>
+    <li>Hands-free Profile (handsfree_profile)</li>
+    <li>Audio Gateway Profile (hfp_audio_gateway)</li>
+    <li>Audio Sink Profile (a2dp_sink_profile)</li>
+    <li>Apple Media Service (ams)</li>
+    <li>Apple Notification Center Service (ancs)</li>
+    <li>Audio Insert Funtionality (audio_insert_lib)</li>
+    <li>Button Management Support (button_manager)</li>
+    <li>LED Management Support (led_manager)</li>
+    <li>Audio Manager (audiomanager)</li>
+    <li>Headset/Speaker Support (bt_hs_spk_lib)</li>
+    <li>AK4679 Codec Support (codec_ak4679_lib)</li>
+    <li>CYW9BT Audio Support (cyw9bt_audio and cyw9bt_audio2)</li>
+    <li>CS47l35 Codec Support (codec_cs47l35_lib)</li>
+    <li>Audio Record Support (audio_record_lib)</li>
+    <li>WICED HCI Control Of Audio Streaming (audio_uart)</li>
+  </ul>
+</body>
+</html>
+    ]]></desc>
+      </version>
     </versions>
   </middleware>
   <middleware>
@@ -545,9 +767,9 @@
     <req_capabilities>ble btsdk</req_capabilities>
     <versions>
       <version tools_min_version="2.2.0" flow_version="2.0" prefix="wiced_btsdk/dev-kit/libraries">
-        <num>Latest v2.X release</num>
-        <commit>latest-v2.X</commit>
-        <desc>2.9.0 release</desc>
+        <num>3.0.0 release</num>
+        <commit>release-v3.0.0</commit>
+        <desc>3.0.0 release</desc>
       </version>
       <version tools_min_version="2.2.0" flow_version="2.0" prefix="wiced_btsdk/dev-kit/libraries">
         <num>2.9.0 release</num>
@@ -558,6 +780,16 @@
         <num>2.8.0 release</num>
         <commit>release-v2.8.0</commit>
         <desc>2.8.0 release</desc>
+      </version>
+      <version tools_min_version="2.2.0" flow_version="2.0" prefix="wiced_btsdk/dev-kit/libraries">
+        <num>Latest v3.X release</num>
+        <commit>latest-v3.X</commit>
+        <desc>Latest v3.X release</desc>
+      </version>
+      <version tools_min_version="2.2.0" flow_version="2.0" prefix="wiced_btsdk/dev-kit/libraries">
+        <num>Latest v2.X release</num>
+        <commit>latest-v2.X</commit>
+        <desc>Latest v2.X release</desc>
       </version>
     </versions>
   </middleware>
@@ -570,6 +802,11 @@
     <req_capabilities>hid btsdk</req_capabilities>
     <versions>
       <version tools_min_version="2.2.0" flow_version="2.0" prefix="wiced_btsdk/dev-kit/libraries">
+        <num>3.0.0 release</num>
+        <commit>release-v3.0.0</commit>
+        <desc>3.0.0 release (hidd_lib2)</desc>
+      </version>
+      <version tools_min_version="2.2.0" flow_version="2.0" prefix="wiced_btsdk/dev-kit/libraries">
         <num>2.9.0 release</num>
         <commit>release-v2.9.0</commit>
         <desc>2.9.0 release (hidd_lib2)</desc>
@@ -578,6 +815,16 @@
         <num>2.8.0 release</num>
         <commit>release-v2.8.0</commit>
         <desc>2.8.0 release (hidd_lib2)</desc>
+      </version>
+      <version tools_min_version="2.2.0" flow_version="2.0" prefix="wiced_btsdk/dev-kit/libraries">
+        <num>Latest v3.X release</num>
+        <commit>latest-v3.X</commit>
+        <desc>Latest v3.X release (hidd_lib2)</desc>
+      </version>
+      <version tools_min_version="2.2.0" flow_version="2.0" prefix="wiced_btsdk/dev-kit/libraries">
+        <num>Latest v2.X release</num>
+        <commit>latest-v2.X</commit>
+        <desc>Latest v2.X release (hidd_lib2)</desc>
       </version>
     </versions>
   </middleware>
@@ -590,14 +837,24 @@
     <req_capabilities>btsdk</req_capabilities>
     <versions>
       <version tools_min_version="2.2.0" flow_version="2.0" prefix="wiced_btsdk/dev-kit/libraries">
-        <num>Latest v2.X release</num>
-        <commit>latest-v2.X</commit>
-        <desc>2.9.0 release</desc>
+        <num>3.0.0 release</num>
+        <commit>release-v3.0.0</commit>
+        <desc>3.0.0 release</desc>
       </version>
       <version tools_min_version="2.2.0" flow_version="2.0" prefix="wiced_btsdk/dev-kit/libraries">
         <num>2.9.0 release</num>
         <commit>release-v2.9.0</commit>
         <desc>2.9.0 release</desc>
+      </version>
+      <version tools_min_version="2.2.0" flow_version="2.0" prefix="wiced_btsdk/dev-kit/libraries">
+        <num>Latest v3.X release</num>
+        <commit>latest-v3.X</commit>
+        <desc>Latest v3.X release</desc>
+      </version>
+      <version tools_min_version="2.2.0" flow_version="2.0" prefix="wiced_btsdk/dev-kit/libraries">
+        <num>Latest v2.X release</num>
+        <commit>latest-v2.X</commit>
+        <desc>Latest v2.X release</desc>
       </version>
     </versions>
   </middleware>
@@ -620,9 +877,9 @@
     <req_capabilities>mesh btsdk</req_capabilities>
     <versions>
       <version tools_min_version="2.2.0" flow_version="2.0" prefix="wiced_btsdk/dev-kit/libraries">
-        <num>Latest v2.X release</num>
-        <commit>latest-v2.X</commit>
-        <desc>2.9.0 release</desc>
+        <num>3.0.0 release</num>
+        <commit>release-v3.0.0</commit>
+        <desc>3.0.0 release</desc>
       </version>
       <version tools_min_version="2.2.0" flow_version="2.0" prefix="wiced_btsdk/dev-kit/libraries">
         <num>2.9.0 release</num>
@@ -633,6 +890,16 @@
         <num>2.8.0 release</num>
         <commit>release-v2.8.0</commit>
         <desc>2.8.0 release</desc>
+      </version>
+      <version tools_min_version="2.2.0" flow_version="2.0" prefix="wiced_btsdk/dev-kit/libraries">
+        <num>Latest v3.X release</num>
+        <commit>latest-v3.X</commit>
+        <desc>Latest v3.X release</desc>
+      </version>
+      <version tools_min_version="2.2.0" flow_version="2.0" prefix="wiced_btsdk/dev-kit/libraries">
+        <num>Latest v2.X release</num>
+        <commit>latest-v2.X</commit>
+        <desc>Latest v2.X release</desc>
       </version>
     </versions>
   </middleware>
@@ -645,9 +912,9 @@
     <req_capabilities>ble btsdk</req_capabilities>
     <versions>
       <version tools_min_version="2.2.0" flow_version="2.0" prefix="wiced_btsdk/dev-kit/libraries">
-        <num>Latest v2.X release</num>
-        <commit>latest-v2.X</commit>
-        <desc>2.9.0 release</desc>
+        <num>3.0.0 release</num>
+        <commit>release-v3.0.0</commit>
+        <desc>3.0.0 release</desc>
       </version>
       <version tools_min_version="2.2.0" flow_version="2.0" prefix="wiced_btsdk/dev-kit/libraries">
         <num>2.9.0 release</num>
@@ -658,6 +925,16 @@
         <num>2.8.0 release</num>
         <commit>release-v2.8.0</commit>
         <desc>2.8.0 release</desc>
+      </version>
+      <version tools_min_version="2.2.0" flow_version="2.0" prefix="wiced_btsdk/dev-kit/libraries">
+        <num>Latest v3.X release</num>
+        <commit>latest-v3.X</commit>
+        <desc>Latest v3.X release</desc>
+      </version>
+      <version tools_min_version="2.2.0" flow_version="2.0" prefix="wiced_btsdk/dev-kit/libraries">
+        <num>Latest v2.X release</num>
+        <commit>latest-v2.X</commit>
+        <desc>Latest v2.X release</desc>
       </version>
     </versions>
   </middleware>
@@ -684,9 +961,9 @@
     <req_capabilities>ble btsdk</req_capabilities>
     <versions>
       <version tools_min_version="2.2.0" flow_version="2.0" prefix="wiced_btsdk/dev-kit/libraries">
-        <num>Latest v2.X release</num>
-        <commit>latest-v2.X</commit>
-        <desc>2.9.0 release</desc>
+        <num>3.0.0 release</num>
+        <commit>release-v3.0.0</commit>
+        <desc>3.0.0 release</desc>
       </version>
       <version tools_min_version="2.2.0" flow_version="2.0" prefix="wiced_btsdk/dev-kit/libraries">
         <num>2.9.0 release</num>
@@ -697,6 +974,16 @@
         <num>2.8.0 release</num>
         <commit>release-v2.8.0</commit>
         <desc>2.8.0 release</desc>
+      </version>
+      <version tools_min_version="2.2.0" flow_version="2.0" prefix="wiced_btsdk/dev-kit/libraries">
+        <num>Latest v3.X release</num>
+        <commit>latest-v3.X</commit>
+        <desc>Latest v3.X release</desc>
+      </version>
+      <version tools_min_version="2.2.0" flow_version="2.0" prefix="wiced_btsdk/dev-kit/libraries">
+        <num>Latest v2.X release</num>
+        <commit>latest-v2.X</commit>
+        <desc>Latest v2.X release</desc>
       </version>
     </versions>
   </middleware>
@@ -712,9 +999,9 @@
   <ul>
     <li>Library to convert HSL Color to RGB Color values (hsl_rgb_lib)</li>
     <li>Library providing API implementation for NCP15XV103E03RC thermistor (thermistor_ncp15xv103_lib)</li>
-    <li>ibrary providing API implementation for NCU15WF104F60RC thermistor (thermistor_ncu15wf104_lib)</li>
-    <li>Ambient Light Sensor library for Mesh kit CYBT-213043-MESH (ambient_light_sensor_lib)</li>
-    <li>PIR (Passive Infrared Motion Sensor) library for Mesh kit CYBT-213043-MESH (pir_motion_sensor_lib)</li>
+    <li>Library providing API implementation for NCU15WF104F60RC thermistor (thermistor_ncu15wf104_lib)</li>
+    <li>ALS (Ambient Light Sensor) library for MAX44009 ALS (ambient_light_sensor_lib)</li>
+    <li>PIR (Passive Infrared Motion Sensor) library for e93196 motion sensor (pir_motion_sensor_lib)</li>
   </ul>
 </body>
 </html>
@@ -723,9 +1010,9 @@
     <req_capabilities>ble btsdk</req_capabilities>
     <versions>
       <version tools_min_version="2.2.0" flow_version="2.0" prefix="wiced_btsdk/dev-kit/libraries">
-        <num>Latest v2.X release</num>
-        <commit>latest-v2.X</commit>
-        <desc>2.9.0 release</desc>
+        <num>3.0.0 release</num>
+        <commit>release-v3.0.0</commit>
+        <desc>3.0.0 release</desc>
       </version>
       <version tools_min_version="2.2.0" flow_version="2.0" prefix="wiced_btsdk/dev-kit/libraries">
         <num>2.9.0 release</num>
@@ -736,6 +1023,16 @@
         <num>2.8.0 release</num>
         <commit>release-v2.8.0</commit>
         <desc>2.8.0 release</desc>
+      </version>
+      <version tools_min_version="2.2.0" flow_version="2.0" prefix="wiced_btsdk/dev-kit/libraries">
+        <num>Latest v3.X release</num>
+        <commit>latest-v3.X</commit>
+        <desc>Latest v3.X release</desc>
+      </version>
+      <version tools_min_version="2.2.0" flow_version="2.0" prefix="wiced_btsdk/dev-kit/libraries">
+        <num>Latest v2.X release</num>
+        <commit>latest-v2.X</commit>
+        <desc>Latest v2.X release</desc>
       </version>
     </versions>
   </middleware>

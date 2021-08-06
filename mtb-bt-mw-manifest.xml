@@ -2,7 +2,7 @@
   <middleware>
     <name>Audio</name>
     <id>Audio</id>
-    <uri>https://github.com/cypresssemiconductorco/btsdk-audio</uri>
+    <uri>https://github.com/Infineon/btsdk-audio</uri>
     <desc><![CDATA[
 <html>
 <body>
@@ -10,7 +10,7 @@
 </body>
 </html>
     ]]></desc>
-    <category>BTSDK shared source libraries</category>
+    <category>Bluetooth</category>
     <req_capabilities>audio btsdk</req_capabilities>
     <versions>
       <version flow_version="1.0">
@@ -146,7 +146,7 @@
   <middleware>
     <name>Bluetooth Low Energy</name>
     <id>Bluetooth_Low_Energy</id>
-    <uri>https://github.com/cypresssemiconductorco/btsdk-ble</uri>
+    <uri>https://github.com/Infineon/btsdk-ble</uri>
     <desc><![CDATA[
 <html>
 <body>
@@ -164,7 +164,7 @@
 </body>
 </html>
     ]]></desc>
-    <category>BTSDK shared source libraries</category>
+    <category>Bluetooth</category>
     <req_capabilities>ble btsdk</req_capabilities>
     <versions>
       <version flow_version="1.0">
@@ -212,9 +212,9 @@
   <middleware>
     <name>Human Interface Device</name>
     <id>Human_Interface_Device</id>
-    <uri>https://github.com/cypresssemiconductorco/btsdk-hid</uri>
+    <uri>https://github.com/Infineon/btsdk-hid</uri>
     <desc>HID Device library</desc>
-    <category>BTSDK shared source libraries</category>
+    <category>Bluetooth</category>
     <req_capabilities>hid btsdk</req_capabilities>
     <versions>
       <version flow_version="1.0">
@@ -262,7 +262,7 @@
   <middleware>
     <name>Mesh</name>
     <id>Mesh</id>
-    <uri>https://github.com/cypresssemiconductorco/btsdk-mesh</uri>
+    <uri>https://github.com/Infineon/btsdk-mesh</uri>
     <desc><![CDATA[
 <html>
 <body>
@@ -274,7 +274,7 @@
 </body>
 </html>
     ]]></desc>
-    <category>BTSDK shared source libraries</category>
+    <category>Bluetooth</category>
     <req_capabilities>mesh btsdk</req_capabilities>
     <versions>
       <version flow_version="1.0">
@@ -322,9 +322,9 @@
   <middleware>
     <name>Firmware Upgrade</name>
     <id>Firmware_Upgrade</id>
-    <uri>https://github.com/cypresssemiconductorco/btsdk-ota</uri>
+    <uri>https://github.com/Infineon/btsdk-ota</uri>
     <desc>Over-The-Air Firmware Upgrade support (fw_upgrade_lib)</desc>
-    <category>BTSDK shared source libraries</category>
+    <category>Bluetooth</category>
     <req_capabilities>ble btsdk</req_capabilities>
     <versions>
       <version flow_version="1.0">
@@ -372,7 +372,7 @@
   <middleware>
     <name>RFCOMM</name>
     <id>RFCOMM</id>
-    <uri>https://github.com/cypresssemiconductorco/btsdk-rfcomm</uri>
+    <uri>https://github.com/Infineon/btsdk-rfcomm</uri>
     <desc><![CDATA[
 <html>
 <body>
@@ -388,7 +388,7 @@
 </body>
 </html>
     ]]></desc>
-    <category>BTSDK shared source libraries</category>
+    <category>Bluetooth</category>
     <req_capabilities>ble btsdk</req_capabilities>
     <versions>
       <version flow_version="1.0">

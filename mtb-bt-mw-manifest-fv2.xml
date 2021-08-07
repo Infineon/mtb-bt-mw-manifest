@@ -534,7 +534,7 @@
   <middleware>
     <name>CYW20739B2</name>
     <id>20739B2</id>
-    <uri>https://github.com/cypresssemiconductorco/20739B2</uri>
+    <uri>https://github.com/Infineon/20739B2</uri>
     <desc>The Infineon CYW20739 is an ultra-low-power dual-mode Bluetooth 5.1 wireless MCU device. It has a stand-alone baseband processor with an integrated 2.4 GHz transceiver supporting LE/BR/EDR.</desc>
     <category>BTSDK chip libraries</category>
     <req_capabilities>btsdk</req_capabilities>
@@ -619,7 +619,7 @@
   <middleware>
     <name>CYW20736A1</name>
     <id>20736A1</id>
-    <uri>https://github.com/cypresssemiconductorco/20736A1</uri>
+    <uri>https://github.com/Infineon/20736A1</uri>
     <desc>The Infineon CYW20736 is an ultra-low-power dual-mode Bluetooth 5.0 wireless MCU device. It has a stand-alone baseband processor with an integrated 2.4 GHz transceiver supporting BR and LE. EDR is not supported.</desc>
     <category>Core</category>
     <req_capabilities>btsdk</req_capabilities>

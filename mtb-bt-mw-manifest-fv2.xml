@@ -2,7 +2,7 @@
   <middleware>
     <name>BTSDK Shared Includes</name>
     <id>btsdk-include</id>
-    <uri>https://github.com/Infineon/btsdk-include</uri>
+    <uri>https://github.com/cypresssemiconductorco/btsdk-include</uri>
     <desc>BTSDK shared headers used by all WICED applications.</desc>
     <category>Core</category>
     <req_capabilities>btsdk</req_capabilities>
@@ -42,7 +42,7 @@
   <middleware>
     <name>BTSDK Tools</name>
     <id>btsdk-tools</id>
-    <uri>https://github.com/Infineon/btsdk-tools</uri>
+    <uri>https://github.com/cypresssemiconductorco/btsdk-tools</uri>
     <desc>BTSDK shared tools used by all WICED applications.</desc>
     <category>Core</category>
     <req_capabilities>btsdk</req_capabilities>
@@ -82,7 +82,7 @@
   <middleware>
     <name>BTSDK Utilities</name>
     <id>btsdk-utils</id>
-    <uri>https://github.com/Infineon/btsdk-utils</uri>
+    <uri>https://github.com/cypresssemiconductorco/btsdk-utils</uri>
     <desc><![CDATA[
 <html>
 <body>
@@ -134,7 +134,7 @@
   <middleware>
     <name>BTSDK Host Apps for Bluetooth Classic and Bluetooth Low Energy</name>
     <id>btsdk-host-apps-bt-ble</id>
-    <uri>https://github.com/Infineon/btsdk-host-apps-bt-ble</uri>
+    <uri>https://github.com/cypresssemiconductorco/btsdk-host-apps-bt-ble</uri>
     <desc>Windows, Linux, and macOS based host apps for Bluetooth such as ClientControl.</desc>
     <category>Utilities</category>
     <req_capabilities>btsdk</req_capabilities>
@@ -174,7 +174,7 @@
   <middleware>
     <name>BTSDK Host and Peer Apps for Mesh</name>
     <id>btsdk-host-peer-apps-mesh</id>
-    <uri>https://github.com/Infineon/btsdk-host-peer-apps-mesh</uri>
+    <uri>https://github.com/cypresssemiconductorco/btsdk-host-peer-apps-mesh</uri>
     <desc>Windows, Linux, and macOS based host apps to control LE Mesh embedded apps; and Windows, Android, and iOS based peer apps to configure and provision LE Mesh embedded apps.</desc>
     <category>Utilities</category>
     <req_capabilities>btsdk</req_capabilities>
@@ -214,7 +214,7 @@
   <middleware>
     <name>BTSDK Peer Apps for LE</name>
     <id>btsdk-peer-apps-ble</id>
-    <uri>https://github.com/Infineon/btsdk-peer-apps-ble</uri>
+    <uri>https://github.com/cypresssemiconductorco/btsdk-peer-apps-ble</uri>
     <desc>Windows and Android based peer apps for LE such as hello_sensor.</desc>
     <category>Utilities</category>
     <req_capabilities>btsdk</req_capabilities>
@@ -254,7 +254,7 @@
   <middleware>
     <name>BTSDK Peer Apps for OTA</name>
     <id>btsdk-peer-apps-ota</id>
-    <uri>https://github.com/Infineon/btsdk-peer-apps-ota</uri>
+    <uri>https://github.com/cypresssemiconductorco/btsdk-peer-apps-ota</uri>
     <desc>Windows, Android, and iOS based peer apps for OTA.</desc>
     <category>Utilities</category>
     <req_capabilities>btsdk</req_capabilities>
@@ -294,7 +294,7 @@
   <middleware>
     <name>CYW20706A2</name>
     <id>20706A2</id>
-    <uri>https://github.com/Infineon/20706A2</uri>
+    <uri>https://github.com/cypresssemiconductorco/20706A2</uri>
     <desc>The Infineon CYW20706 is an ultra-low-power dual-mode Bluetooth 5.0 wireless MCU device. It has a stand-alone baseband processor with an integrated 2.4 GHz transceiver supporting LE/BR/EDR.</desc>
     <category>Core</category>
     <req_capabilities>btsdk</req_capabilities>
@@ -334,7 +334,7 @@
   <middleware>
     <name>CYW20819A1</name>
     <id>20819A1</id>
-    <uri>https://github.com/Infineon/20819A1</uri>
+    <uri>https://github.com/cypresssemiconductorco/20819A1</uri>
     <desc>The Infineon CYW20819, CYW20820, and CYW89820 are ultra-low-power dual-mode Bluetooth 5.0 wireless MCU devices. They have a stand-alone baseband processor with an integrated 2.4 GHz transceiver supporting LE/BR/EDR.  They are identical except that the CYW20820 and CYW89820 have an internal Power Amplifier (iPA) with programmable BDR transmit power up to 10.5 dBm.  CYW208XX is used to refer to all those parts.</desc>
     <category>Core</category>
     <req_capabilities>btsdk</req_capabilities>
@@ -374,7 +374,7 @@
   <middleware>
     <name>CYW20820A1</name>
     <id>20820A1</id>
-    <uri>https://github.com/Infineon/20820A1</uri>
+    <uri>https://github.com/cypresssemiconductorco/20820A1</uri>
     <desc>The Infineon CYW20819, CYW20820, and CYW89820 are ultra-low-power dual-mode Bluetooth 5.0 wireless MCU devices. They have a stand-alone baseband processor with an integrated 2.4 GHz transceiver supporting LE/BR/EDR.  They are identical except that the CYW20820 and CYW89820 have an internal Power Amplifier (iPA) with programmable BDR transmit power up to 10.5 dBm.  CYW208XX is used to refer to all those parts.</desc>
     <category>Core</category>
     <req_capabilities>btsdk</req_capabilities>
@@ -414,7 +414,7 @@
   <middleware>
     <name>CYW43012C0</name>
     <id>43012C0</id>
-    <uri>https://github.com/Infineon/43012C0</uri>
+    <uri>https://github.com/cypresssemiconductorco/43012C0</uri>
     <desc>The Infineon CYW43012 is a 28nm ultra-low power dual-mode Bluetooth 5.0 wireless MCU Wi-Fi + Bluetooth Combo device. It has a stand-alone baseband processor with an integrated 2.4 GHz transceiver supporting BR, EDR, and LE.</desc>
     <category>Core</category>
     <req_capabilities>btsdk</req_capabilities>
@@ -454,7 +454,7 @@
   <middleware>
     <name>CYW20719B2</name>
     <id>20719B2</id>
-    <uri>https://github.com/Infineon/20719B2</uri>
+    <uri>https://github.com/cypresssemiconductorco/20719B2</uri>
     <desc>The Infineon CYW20719 is an ultra-low-power dual-mode Bluetooth 5.0 wireless MCU device. It has a stand-alone baseband processor with an integrated 2.4 GHz transceiver supporting LE/BR/EDR.</desc>
     <category>Core</category>
     <req_capabilities>btsdk</req_capabilities>
@@ -494,7 +494,7 @@
   <middleware>
     <name>CYW20721B2</name>
     <id>20721B2</id>
-    <uri>https://github.com/Infineon/20721B2</uri>
+    <uri>https://github.com/cypresssemiconductorco/20721B2</uri>
     <desc>The Infineon CYW20721 is an ultra-low-power dual-mode Bluetooth 5.0 wireless MCU device. It has a stand-alone baseband processor with an integrated 2.4 GHz transceiver supporting LE/BR/EDR.</desc>
     <category>Core</category>
     <req_capabilities>btsdk</req_capabilities>
@@ -534,7 +534,7 @@
   <middleware>
     <name>CYW20739B2</name>
     <id>20739B2</id>
-    <uri>https://github.com/Infineon/20739B2</uri>
+    <uri>https://github.com/cypresssemiconductorco/20739B2</uri>
     <desc>The Infineon CYW20739 is an ultra-low-power dual-mode Bluetooth 5.1 wireless MCU device. It has a stand-alone baseband processor with an integrated 2.4 GHz transceiver supporting LE/BR/EDR.</desc>
     <category>BTSDK chip libraries</category>
     <req_capabilities>btsdk</req_capabilities>
@@ -554,7 +554,7 @@
   <middleware>
     <name>CYW55572A1</name>
     <id>55572A1</id>
-    <uri>https://github.com/Infineon/55572A1</uri>
+    <uri>https://github.com/cypresssemiconductorco/55572A1</uri>
     <desc>The Infineon CYW55572 is an ultra-low-power dual-mode Bluetooth 5.2 wireless MCU device. It has a stand-alone baseband processor with an integrated 2.4 GHz transceiver supporting LE/BR/EDR.</desc>
     <category>Core</category>
     <req_capabilities>btsdk</req_capabilities>
@@ -579,7 +579,7 @@
   <middleware>
     <name>CYW20735B1</name>
     <id>20735B1</id>
-    <uri>https://github.com/Infineon/20735B1</uri>
+    <uri>https://github.com/cypresssemiconductorco/20735B1</uri>
     <desc>The Infineon CYW20735 is an ultra-low-power dual-mode Bluetooth 5.0 wireless MCU device. It has a stand-alone baseband processor with an integrated 2.4 GHz transceiver supporting BR and LE. EDR is not supported.</desc>
     <category>Core</category>
     <req_capabilities>btsdk</req_capabilities>
@@ -619,7 +619,7 @@
   <middleware>
     <name>CYW20736A1</name>
     <id>20736A1</id>
-    <uri>https://github.com/Infineon/20736A1</uri>
+    <uri>https://github.com/cypresssemiconductorco/20736A1</uri>
     <desc>The Infineon CYW20736 is an ultra-low-power dual-mode Bluetooth 5.0 wireless MCU device. It has a stand-alone baseband processor with an integrated 2.4 GHz transceiver supporting BR and LE. EDR is not supported.</desc>
     <category>Core</category>
     <req_capabilities>btsdk</req_capabilities>
@@ -639,7 +639,7 @@
   <middleware>
     <name>CYW20835B1</name>
     <id>20835B1</id>
-    <uri>https://github.com/Infineon/20835B1</uri>
+    <uri>https://github.com/cypresssemiconductorco/20835B1</uri>
     <desc>The Infineon CYW20835 is an ultra-low-power Bluetooth Low Energy 5.0 wireless MCU device. It has a stand-alone baseband processor with an integrated 2.4 GHz transceiver supporting LE. BR/EDR is not supported.</desc>
     <category>Core</category>
     <req_capabilities>btsdk</req_capabilities>
@@ -679,7 +679,7 @@
   <middleware>
     <name>BTSDK Shared Source</name>
     <id>btsdk-common</id>
-    <uri>https://github.com/Infineon/btsdk-common</uri>
+    <uri>https://github.com/cypresssemiconductorco/btsdk-common</uri>
     <desc>BTSDK common shared source used by all WICED applications.</desc>
     <category>Core</category>
     <req_capabilities>btsdk</req_capabilities>
@@ -719,7 +719,7 @@
   <middleware>
     <name>Audio</name>
     <id>Audio</id>
-    <uri>https://github.com/Infineon/btsdk-audio</uri>
+    <uri>https://github.com/cypresssemiconductorco/btsdk-audio</uri>
     <desc><![CDATA[
 <html>
 <body>
@@ -921,7 +921,7 @@
   <middleware>
     <name>Bluetooth Low Energy</name>
     <id>Bluetooth_Low_Energy</id>
-    <uri>https://github.com/Infineon/btsdk-ble</uri>
+    <uri>https://github.com/cypresssemiconductorco/btsdk-ble</uri>
     <desc><![CDATA[
 <html>
 <body>
@@ -977,7 +977,7 @@
   <middleware>
     <name>Human Interface Device</name>
     <id>Human_Interface_Device</id>
-    <uri>https://github.com/Infineon/btsdk-hid</uri>
+    <uri>https://github.com/cypresssemiconductorco/btsdk-hid</uri>
     <desc>HID Device library</desc>
     <category>Bluetooth</category>
     <req_capabilities>hid btsdk</req_capabilities>
@@ -1017,7 +1017,7 @@
   <middleware>
     <name>Google Fast Pairing Service</name>
     <id>GFPS</id>
-    <uri>https://github.com/Infineon/btsdk-gfps</uri>
+    <uri>https://github.com/cypresssemiconductorco/btsdk-gfps</uri>
     <desc>Google Fast Pairing Service (gfps_provider)</desc>
     <category>Bluetooth</category>
     <req_capabilities>btsdk</req_capabilities>
@@ -1052,7 +1052,7 @@
   <middleware>
     <name>Mesh</name>
     <id>Mesh</id>
-    <uri>https://github.com/Infineon/btsdk-mesh</uri>
+    <uri>https://github.com/cypresssemiconductorco/btsdk-mesh</uri>
     <desc><![CDATA[
 <html>
 <body>
@@ -1102,7 +1102,7 @@
   <middleware>
     <name>Firmware Upgrade</name>
     <id>Firmware_Upgrade</id>
-    <uri>https://github.com/Infineon/btsdk-ota</uri>
+    <uri>https://github.com/cypresssemiconductorco/btsdk-ota</uri>
     <desc>Over-The-Air Firmware Upgrade support (fw_upgrade_lib)</desc>
     <category>Bluetooth</category>
     <req_capabilities>ble btsdk</req_capabilities>
@@ -1142,7 +1142,7 @@
   <middleware>
     <name>RFCOMM</name>
     <id>RFCOMM</id>
-    <uri>https://github.com/Infineon/btsdk-rfcomm</uri>
+    <uri>https://github.com/cypresssemiconductorco/btsdk-rfcomm</uri>
     <desc><![CDATA[
 <html>
 <body>
@@ -1196,7 +1196,7 @@
   <middleware>
     <name>Drivers</name>
     <id>Drivers</id>
-    <uri>https://github.com/Infineon/btsdk-drivers</uri>
+    <uri>https://github.com/cypresssemiconductorco/btsdk-drivers</uri>
     <desc><![CDATA[
 <html>
 <body>

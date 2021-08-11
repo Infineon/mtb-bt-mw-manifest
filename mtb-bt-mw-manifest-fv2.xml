@@ -552,31 +552,6 @@
     </versions>
   </middleware>
   <middleware>
-    <name>CYW55572A1</name>
-    <id>55572A1</id>
-    <uri>https://github.com/cypresssemiconductorco/55572A1</uri>
-    <desc>The Infineon CYW55572 is an ultra-low-power dual-mode Bluetooth 5.2 wireless MCU device. It has a stand-alone baseband processor with an integrated 2.4 GHz transceiver supporting LE/BR/EDR.</desc>
-    <category>Core</category>
-    <req_capabilities>btsdk</req_capabilities>
-    <versions>
-      <version tools_min_version="2.2.0" flow_version="2.0" prefix="wiced_btsdk/dev-kit/baselib">
-        <num>3.1.0 release</num>
-        <commit>release-v3.1.0</commit>
-        <desc>3.1.0 release</desc>
-      </version>
-      <version tools_min_version="2.2.0" flow_version="2.0" prefix="wiced_btsdk/dev-kit/baselib">
-        <num>3.0.0 release</num>
-        <commit>release-v3.0.0</commit>
-        <desc>3.0.0 release</desc>
-      </version>
-      <version tools_min_version="2.2.0" flow_version="2.0" prefix="wiced_btsdk/dev-kit/baselib">
-        <num>Latest v3.X release</num>
-        <commit>latest-v3.X</commit>
-        <desc>Latest v3.X release</desc>
-      </version>
-    </versions>
-  </middleware>
-  <middleware>
     <name>CYW20735B1</name>
     <id>20735B1</id>
     <uri>https://github.com/cypresssemiconductorco/20735B1</uri>

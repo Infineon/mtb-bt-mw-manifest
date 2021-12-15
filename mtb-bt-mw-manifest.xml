@@ -6,11 +6,11 @@
     <desc><![CDATA[
 <html>
 <body>
-  <p>WICED audio-related libraries.</p>
+  <p>AIROC&#8482; audio-related libraries.</p>
 </body>
 </html>
     ]]></desc>
-    <category>Bluetooth</category>
+    <category>Bluetooth&#174;</category>
     <req_capabilities>audio btsdk</req_capabilities>
     <versions>
       <version flow_version="1.0">
@@ -144,13 +144,13 @@
     </versions>
   </middleware>
   <middleware>
-    <name>Bluetooth Low Energy</name>
+    <name>Bluetooth&#174; Low Energy</name>
     <id>Bluetooth_Low_Energy</id>
     <uri>https://github.com/cypresssemiconductorco/btsdk-ble</uri>
     <desc><![CDATA[
 <html>
 <body>
-  <p>WICED Bluetooth Low Energy Profile libraries.</p>
+  <p>AIROC&#8482; Bluetooth&#174; Low Energy Profile libraries.</p>
   <h5>Libraries included:</h5>
   <ul>
     <li>Alert Notification Client (anc_lib)</li>
@@ -164,7 +164,7 @@
 </body>
 </html>
     ]]></desc>
-    <category>Bluetooth</category>
+    <category>Bluetooth&#174;</category>
     <req_capabilities>ble btsdk</req_capabilities>
     <versions>
       <version flow_version="1.0">
@@ -214,7 +214,7 @@
     <id>Human_Interface_Device</id>
     <uri>https://github.com/cypresssemiconductorco/btsdk-hid</uri>
     <desc>HID Device library</desc>
-    <category>Bluetooth</category>
+    <category>Bluetooth&#174;</category>
     <req_capabilities>hid btsdk</req_capabilities>
     <versions>
       <version flow_version="1.0">
@@ -266,7 +266,7 @@
     <desc><![CDATA[
 <html>
 <body>
-  <p>WICED Mesh libraries.</p>
+  <p>AIROC&#8482; Mesh libraries.</p>
   <h5>Libraries included:</h5>
   <ul>
     <li>Mesh Application Library (mesh_app_lib)</li>
@@ -274,7 +274,7 @@
 </body>
 </html>
     ]]></desc>
-    <category>Bluetooth</category>
+    <category>Bluetooth&#174;</category>
     <req_capabilities>mesh btsdk</req_capabilities>
     <versions>
       <version flow_version="1.0">
@@ -324,7 +324,7 @@
     <id>Firmware_Upgrade</id>
     <uri>https://github.com/cypresssemiconductorco/btsdk-ota</uri>
     <desc>Over-The-Air Firmware Upgrade support (fw_upgrade_lib)</desc>
-    <category>Bluetooth</category>
+    <category>Bluetooth&#174;</category>
     <req_capabilities>ble btsdk</req_capabilities>
     <versions>
       <version flow_version="1.0">
@@ -376,7 +376,7 @@
     <desc><![CDATA[
 <html>
 <body>
-  <p>WICED Bluetooth RFCOMM Profile libraries.</p>
+  <p>AIROC&#8482; Bluetooth&#174; RFCOMM Profile libraries.</p>
   <h5>Libraries included:</h5>
   <ul>
     <li>Message Access Client Profile (map_lib)</li>
@@ -388,7 +388,7 @@
 </body>
 </html>
     ]]></desc>
-    <category>Bluetooth</category>
+    <category>Bluetooth&#174;</category>
     <req_capabilities>ble btsdk</req_capabilities>
     <versions>
       <version flow_version="1.0">

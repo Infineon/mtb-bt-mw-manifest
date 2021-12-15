@@ -1,9 +1,9 @@
-# ModusToolbox Bluetooth Middleware Manifest
+# ModusToolbox&#8482; Bluetooth&#174; Middleware Manifest
 
 ### Overview
-The Bluetooth Middleware manifest file contains a list of URIs that the ModusToolbox software uses to load Bluetooth middleware data.
+The Bluetooth&#174; Middleware manifest file contains a list of URIs that the ModusToolbox&#8482; software uses to load AIROC&#8482; Bluetooth&#174; middleware data.
 
-This manifest is used by the ModusToolbox software. There is no reason to use this file directly.
+This manifest is used by the ModusToolbox&#8482; software. There is no reason to use this file directly.
 
 ---
-© Cypress Semiconductor Corporation, 2019-2021.
+&#169; Infineon Technologies, 2019-2021.

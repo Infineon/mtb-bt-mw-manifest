@@ -18,6 +18,11 @@ For API documentation, see:<br>
     <req_capabilities>btsdk</req_capabilities>
     <versions>
       <version tools_min_version="2.2.0" flow_version="2.0" prefix="wiced_btsdk/dev-kit">
+        <num>3.3.0 release</num>
+        <commit>release-v3.3.0</commit>
+        <desc>3.3.0 release</desc>
+      </version>
+      <version tools_min_version="2.2.0" flow_version="2.0" prefix="wiced_btsdk/dev-kit">
         <num>3.2.0 release</num>
         <commit>release-v3.2.0</commit>
         <desc>3.2.0 release</desc>
@@ -70,6 +75,11 @@ To browse the repo, see:<br>
     <category>Core</category>
     <req_capabilities>btsdk</req_capabilities>
     <versions>
+      <version tools_min_version="2.2.0" flow_version="2.0" prefix="wiced_btsdk/dev-kit">
+        <num>3.3.0 release</num>
+        <commit>release-v3.3.0</commit>
+        <desc>3.3.0 release</desc>
+      </version>
       <version tools_min_version="2.2.0" flow_version="2.0" prefix="wiced_btsdk/dev-kit">
         <num>3.2.0 release</num>
         <commit>release-v3.2.0</commit>
@@ -129,6 +139,11 @@ To browse the repo, see:<br>
     <category>Utilities</category>
     <req_capabilities>btsdk</req_capabilities>
     <versions>
+      <version tools_min_version="2.2.0" flow_version="2.0" prefix="wiced_btsdk/tools">
+        <num>3.3.0 release</num>
+        <commit>release-v3.3.0</commit>
+        <desc>3.3.0 release</desc>
+      </version>
       <version tools_min_version="2.2.0" flow_version="2.0" prefix="wiced_btsdk/tools">
         <num>3.2.0 release</num>
         <commit>release-v3.2.0</commit>
@@ -192,6 +207,11 @@ To browse the repo, see:<br>
     <req_capabilities>btsdk</req_capabilities>
     <versions>
       <version tools_min_version="2.2.0" flow_version="2.0" prefix="wiced_btsdk/tools">
+        <num>3.3.0 release</num>
+        <commit>release-v3.3.0</commit>
+        <desc>3.3.0 release</desc>
+      </version>
+      <version tools_min_version="2.2.0" flow_version="2.0" prefix="wiced_btsdk/tools">
         <num>3.2.0 release</num>
         <commit>release-v3.2.0</commit>
         <desc>3.2.0 release</desc>
@@ -252,6 +272,11 @@ To browse the repo, see:<br>
     <req_capabilities>btsdk</req_capabilities>
     <versions>
       <version tools_min_version="2.2.0" flow_version="2.0" prefix="wiced_btsdk/tools">
+        <num>3.3.0 release</num>
+        <commit>release-v3.3.0</commit>
+        <desc>3.3.0 release</desc>
+      </version>
+      <version tools_min_version="2.2.0" flow_version="2.0" prefix="wiced_btsdk/tools">
         <num>3.2.0 release</num>
         <commit>release-v3.2.0</commit>
         <desc>3.2.0 release</desc>
@@ -307,6 +332,11 @@ To browse the HelloClient app repo, see:<br>
     <category>Utilities</category>
     <req_capabilities>btsdk</req_capabilities>
     <versions>
+      <version tools_min_version="2.2.0" flow_version="2.0" prefix="wiced_btsdk/tools">
+        <num>3.3.0 release</num>
+        <commit>release-v3.3.0</commit>
+        <desc>3.3.0 release</desc>
+      </version>
       <version tools_min_version="2.2.0" flow_version="2.0" prefix="wiced_btsdk/tools">
         <num>3.2.0 release</num>
         <commit>release-v3.2.0</commit>
@@ -364,6 +394,11 @@ To browse the peer app repo, see:<br>
     <req_capabilities>btsdk</req_capabilities>
     <versions>
       <version tools_min_version="2.2.0" flow_version="2.0" prefix="wiced_btsdk/tools">
+        <num>3.3.0 release</num>
+        <commit>release-v3.3.0</commit>
+        <desc>3.3.0 release</desc>
+      </version>
+      <version tools_min_version="2.2.0" flow_version="2.0" prefix="wiced_btsdk/tools">
         <num>3.2.0 release</num>
         <commit>release-v3.2.0</commit>
         <desc>3.2.0 release</desc>
@@ -416,6 +451,11 @@ To browse the repo, see:<br>
     <category>Core</category>
     <req_capabilities>btsdk</req_capabilities>
     <versions>
+      <version tools_min_version="2.2.0" flow_version="2.0" prefix="wiced_btsdk/dev-kit/baselib">
+        <num>3.3.0 release</num>
+        <commit>release-v3.3.0</commit>
+        <desc>3.3.0 release</desc>
+      </version>
       <version tools_min_version="2.2.0" flow_version="2.0" prefix="wiced_btsdk/dev-kit/baselib">
         <num>3.2.0 release</num>
         <commit>release-v3.2.0</commit>
@@ -470,6 +510,11 @@ To browse the repo, see:<br>
     <req_capabilities>btsdk</req_capabilities>
     <versions>
       <version tools_min_version="2.2.0" flow_version="2.0" prefix="wiced_btsdk/dev-kit/baselib">
+        <num>3.3.0 release</num>
+        <commit>release-v3.3.0</commit>
+        <desc>3.3.0 release</desc>
+      </version>
+      <version tools_min_version="2.2.0" flow_version="2.0" prefix="wiced_btsdk/dev-kit/baselib">
         <num>3.2.0 release</num>
         <commit>release-v3.2.0</commit>
         <desc>3.2.0 release</desc>
@@ -522,6 +567,11 @@ To browse the repo, see:<br>
     <category>Core</category>
     <req_capabilities>btsdk</req_capabilities>
     <versions>
+      <version tools_min_version="2.2.0" flow_version="2.0" prefix="wiced_btsdk/dev-kit/baselib">
+        <num>3.3.0 release</num>
+        <commit>release-v3.3.0</commit>
+        <desc>3.3.0 release</desc>
+      </version>
       <version tools_min_version="2.2.0" flow_version="2.0" prefix="wiced_btsdk/dev-kit/baselib">
         <num>3.2.0 release</num>
         <commit>release-v3.2.0</commit>
@@ -576,6 +626,11 @@ To browse the repo, see:<br>
     <req_capabilities>btsdk</req_capabilities>
     <versions>
       <version tools_min_version="2.2.0" flow_version="2.0" prefix="wiced_btsdk/dev-kit/baselib">
+        <num>3.3.0 release</num>
+        <commit>release-v3.3.0</commit>
+        <desc>3.3.0 release</desc>
+      </version>
+      <version tools_min_version="2.2.0" flow_version="2.0" prefix="wiced_btsdk/dev-kit/baselib">
         <num>3.2.0 release</num>
         <commit>release-v3.2.0</commit>
         <desc>3.2.0 release</desc>
@@ -628,6 +683,11 @@ To browse the repo, see:<br>
     <category>Core</category>
     <req_capabilities>btsdk</req_capabilities>
     <versions>
+      <version tools_min_version="2.2.0" flow_version="2.0" prefix="wiced_btsdk/dev-kit/baselib">
+        <num>3.3.0 release</num>
+        <commit>release-v3.3.0</commit>
+        <desc>3.3.0 release</desc>
+      </version>
       <version tools_min_version="2.2.0" flow_version="2.0" prefix="wiced_btsdk/dev-kit/baselib">
         <num>3.2.0 release</num>
         <commit>release-v3.2.0</commit>
@@ -682,6 +742,11 @@ To browse the repo, see:<br>
     <req_capabilities>btsdk</req_capabilities>
     <versions>
       <version tools_min_version="2.2.0" flow_version="2.0" prefix="wiced_btsdk/dev-kit/baselib">
+        <num>3.3.0 release</num>
+        <commit>release-v3.3.0</commit>
+        <desc>3.3.0 release</desc>
+      </version>
+      <version tools_min_version="2.2.0" flow_version="2.0" prefix="wiced_btsdk/dev-kit/baselib">
         <num>3.2.0 release</num>
         <commit>release-v3.2.0</commit>
         <desc>3.2.0 release</desc>
@@ -735,6 +800,11 @@ To browse the repo, see:<br>
     <req_capabilities>btsdk</req_capabilities>
     <versions>
       <version tools_min_version="2.2.0" flow_version="2.0" prefix="wiced_btsdk/dev-kit/baselib">
+        <num>3.3.0 release</num>
+        <commit>release-v3.3.0</commit>
+        <desc>3.3.0 release</desc>
+      </version>
+      <version tools_min_version="2.2.0" flow_version="2.0" prefix="wiced_btsdk/dev-kit/baselib">
         <num>3.2.0 release</num>
         <commit>release-v3.2.0</commit>
         <desc>3.2.0 release</desc>
@@ -763,6 +833,11 @@ To browse the repo, see:<br>
     <req_capabilities>btsdk</req_capabilities>
     <versions>
       <version tools_min_version="2.2.0" flow_version="2.0" prefix="wiced_btsdk/dev-kit/baselib">
+        <num>3.3.0 release</num>
+        <commit>release-v3.3.0</commit>
+        <desc>3.3.0 release</desc>
+      </version>
+      <version tools_min_version="2.2.0" flow_version="2.0" prefix="wiced_btsdk/dev-kit/baselib">
         <num>3.2.0 release</num>
         <commit>release-v3.2.0</commit>
         <desc>3.2.0 release</desc>
@@ -790,6 +865,11 @@ To browse the repo, see:<br>
     <category>Core</category>
     <req_capabilities>btsdk</req_capabilities>
     <versions>
+      <version tools_min_version="2.2.0" flow_version="2.0" prefix="wiced_btsdk/dev-kit/baselib">
+        <num>3.3.0 release</num>
+        <commit>release-v3.3.0</commit>
+        <desc>3.3.0 release</desc>
+      </version>
       <version tools_min_version="2.2.0" flow_version="2.0" prefix="wiced_btsdk/dev-kit/baselib">
         <num>3.2.0 release</num>
         <commit>release-v3.2.0</commit>
@@ -844,6 +924,11 @@ To browse the repo, see:<br>
     <req_capabilities>btsdk</req_capabilities>
     <versions>
       <version tools_min_version="2.2.0" flow_version="2.0" prefix="wiced_btsdk/dev-kit/baselib">
+        <num>3.3.0 release</num>
+        <commit>release-v3.3.0</commit>
+        <desc>3.3.0 release</desc>
+      </version>
+      <version tools_min_version="2.2.0" flow_version="2.0" prefix="wiced_btsdk/dev-kit/baselib">
         <num>3.2.0 release</num>
         <commit>release-v3.2.0</commit>
         <desc>3.2.0 release</desc>
@@ -876,6 +961,11 @@ To browse the repo, see:<br>
     <category>Core</category>
     <req_capabilities>btsdk</req_capabilities>
     <versions>
+      <version tools_min_version="2.2.0" flow_version="2.0" prefix="wiced_btsdk/dev-kit/baselib">
+        <num>3.3.0 release</num>
+        <commit>release-v3.3.0</commit>
+        <desc>3.3.0 release</desc>
+      </version>
       <version tools_min_version="2.2.0" flow_version="2.0" prefix="wiced_btsdk/dev-kit/baselib">
         <num>3.2.0 release</num>
         <commit>release-v3.2.0</commit>
@@ -929,6 +1019,11 @@ To browse the repo, see:<br>
     <category>Core</category>
     <req_capabilities>btsdk</req_capabilities>
     <versions>
+      <version tools_min_version="2.2.0" flow_version="2.0" prefix="wiced_btsdk/dev-kit/libraries">
+        <num>3.3.0 release</num>
+        <commit>release-v3.3.0</commit>
+        <desc>3.3.0 release</desc>
+      </version>
       <version tools_min_version="2.2.0" flow_version="2.0" prefix="wiced_btsdk/dev-kit/libraries">
         <num>3.2.0 release</num>
         <commit>release-v3.2.0</commit>
@@ -987,6 +1082,35 @@ For API documentation, see:<br>
     <category>Bluetooth&#174;</category>
     <req_capabilities>audio btsdk</req_capabilities>
     <versions>
+      <version tools_min_version="2.2.0" flow_version="2.0" prefix="wiced_btsdk/dev-kit/libraries">
+        <num>3.3.0 release</num>
+        <commit>release-v3.3.0</commit>
+        <desc><![CDATA[
+<html>
+<body>
+  <p>3.3.0 release</p>
+  <h5>Libraries included:</h5>
+  <ul>
+    <li>AVRC Controller Profile (avrc_controller)</li>
+    <li>AVRC Target Profile (avrc_target)</li>
+    <li>Hands-free Profile (handsfree_profile)</li>
+    <li>Audio Gateway Profile (hfp_audio_gateway)</li>
+    <li>Audio Sink Profile (a2dp_sink_profile)</li>
+    <li>Apple Media Service (ams)</li>
+    <li>Apple Notification Center Service (ancs)</li>
+    <li>Audio Insert Funtionality (audio_insert_lib)</li>
+    <li>Audio Manager (audiomanager)</li>
+    <li>Headset/Speaker Support (bt_hs_spk_lib)</li>
+    <li>AK4679 Codec Support (codec_ak4679_lib)</li>
+    <li>CYW9BT Audio Support (cyw9bt_audio and cyw9bt_audio2)</li>
+    <li>CS47l35 Codec Support (codec_cs47l35_lib)</li>
+    <li>Audio Record Support (audio_record_lib)</li>
+    <li>AIROC&#8482; HCI Control Of Audio Streaming (audio_uart)</li>
+  </ul>
+</body>
+</html>
+    ]]></desc>
+      </version>
       <version tools_min_version="2.2.0" flow_version="2.0" prefix="wiced_btsdk/dev-kit/libraries">
         <num>3.2.0 release</num>
         <commit>release-v3.2.0</commit>
@@ -1202,7 +1326,7 @@ For API documentation, see:<br>
       </version>
     </versions>
   </middleware>
-  <middleware>
+  <middleware req_capabilities_v2="[btsdk,cyw20829]">
     <name>Bluetooth&#174; Low Energy</name>
     <id>Bluetooth_Low_Energy</id>
     <uri>https://github.com/cypresssemiconductorco/btsdk-ble</uri>
@@ -1242,8 +1366,13 @@ For API documentation, see:<br>
 </html>
     ]]></desc>
     <category>Bluetooth&#174;</category>
-    <req_capabilities>ble btsdk</req_capabilities>
+    <req_capabilities>ble</req_capabilities>
     <versions>
+      <version tools_min_version="2.2.0" flow_version="2.0" prefix="wiced_btsdk/dev-kit/libraries">
+        <num>3.3.0 release</num>
+        <commit>release-v3.3.0</commit>
+        <desc>3.3.0 release</desc>
+      </version>
       <version tools_min_version="2.2.0" flow_version="2.0" prefix="wiced_btsdk/dev-kit/libraries">
         <num>3.2.0 release</num>
         <commit>release-v3.2.0</commit>
@@ -1303,6 +1432,11 @@ For API documentation, see:<br>
     <req_capabilities>hid btsdk</req_capabilities>
     <versions>
       <version tools_min_version="2.2.0" flow_version="2.0" prefix="wiced_btsdk/dev-kit/libraries">
+        <num>3.3.0 release</num>
+        <commit>release-v3.3.0</commit>
+        <desc>3.3.0 release (hidd_lib2)</desc>
+      </version>
+      <version tools_min_version="2.2.0" flow_version="2.0" prefix="wiced_btsdk/dev-kit/libraries">
         <num>3.2.0 release</num>
         <commit>release-v3.2.0</commit>
         <desc>3.2.0 release (hidd_lib2)</desc>
@@ -1361,6 +1495,11 @@ For API documentation, see:<br>
     <req_capabilities>btsdk</req_capabilities>
     <versions>
       <version tools_min_version="2.2.0" flow_version="2.0" prefix="wiced_btsdk/dev-kit/libraries">
+        <num>3.3.0 release</num>
+        <commit>release-v3.3.0</commit>
+        <desc>3.3.0 release</desc>
+      </version>
+      <version tools_min_version="2.2.0" flow_version="2.0" prefix="wiced_btsdk/dev-kit/libraries">
         <num>3.2.0 release</num>
         <commit>release-v3.2.0</commit>
         <desc>3.2.0 release</desc>
@@ -1414,6 +1553,11 @@ For API documentation, see:<br>
     <category>Bluetooth&#174;</category>
     <req_capabilities>mesh btsdk</req_capabilities>
     <versions>
+      <version tools_min_version="2.2.0" flow_version="2.0" prefix="wiced_btsdk/dev-kit/libraries">
+        <num>3.3.0 release</num>
+        <commit>release-v3.3.0</commit>
+        <desc>3.3.0 release</desc>
+      </version>
       <version tools_min_version="2.2.0" flow_version="2.0" prefix="wiced_btsdk/dev-kit/libraries">
         <num>3.2.0 release</num>
         <commit>release-v3.2.0</commit>
@@ -1472,6 +1616,11 @@ For API documentation, see:<br>
     <category>Bluetooth&#174;</category>
     <req_capabilities>ble btsdk</req_capabilities>
     <versions>
+      <version tools_min_version="2.2.0" flow_version="2.0" prefix="wiced_btsdk/dev-kit/libraries">
+        <num>3.3.0 release</num>
+        <commit>release-v3.3.0</commit>
+        <desc>3.3.0 release</desc>
+      </version>
       <version tools_min_version="2.2.0" flow_version="2.0" prefix="wiced_btsdk/dev-kit/libraries">
         <num>3.2.0 release</num>
         <commit>release-v3.2.0</commit>
@@ -1546,6 +1695,11 @@ For API documentation, see:<br>
     <req_capabilities>ble btsdk</req_capabilities>
     <versions>
       <version tools_min_version="2.2.0" flow_version="2.0" prefix="wiced_btsdk/dev-kit/libraries">
+        <num>3.3.0 release</num>
+        <commit>release-v3.3.0</commit>
+        <desc>3.3.0 release</desc>
+      </version>
+      <version tools_min_version="2.2.0" flow_version="2.0" prefix="wiced_btsdk/dev-kit/libraries">
         <num>3.2.0 release</num>
         <commit>release-v3.2.0</commit>
         <desc>3.2.0 release</desc>
@@ -1604,6 +1758,11 @@ For API documentation, see:<br>
     <req_capabilities>btsdk</req_capabilities>
     <versions>
       <version tools_min_version="2.2.0" flow_version="2.0" prefix="wiced_btsdk/dev-kit/libraries">
+        <num>3.3.0 release</num>
+        <commit>release-v3.3.0</commit>
+        <desc>3.3.0 release</desc>
+      </version>
+      <version tools_min_version="2.2.0" flow_version="2.0" prefix="wiced_btsdk/dev-kit/libraries">
         <num>3.2.0 release</num>
         <commit>release-v3.2.0</commit>
         <desc>3.2.0 release</desc>
@@ -1656,6 +1815,11 @@ For API documentation, see:<br>
     <req_capabilities>ble btsdk</req_capabilities>
     <versions>
       <version tools_min_version="2.2.0" flow_version="2.0" prefix="wiced_btsdk/dev-kit/libraries">
+        <num>3.3.0 release</num>
+        <commit>release-v3.3.0</commit>
+        <desc>3.3.0 release</desc>
+      </version>
+      <version tools_min_version="2.2.0" flow_version="2.0" prefix="wiced_btsdk/dev-kit/libraries">
         <num>3.2.0 release</num>
         <commit>release-v3.2.0</commit>
         <desc>3.2.0 release</desc>
@@ -1689,6 +1853,68 @@ For API documentation, see:<br>
         <num>Latest v2.X release</num>
         <commit>latest-v2.X</commit>
         <desc>Latest v2.X release</desc>
+      </version>
+    </versions>
+  </middleware>
+  <middleware>
+    <name>LE Audio Profiles Library</name>
+    <id>le-audio-profiles</id>
+    <uri>https://github.com/Infineon/le-audio-profiles</uri>
+    <desc><![CDATA[
+<html>
+<body>
+This is a collection of all the LE Audio profiles (CAP, BAP, ASCS, PACS, VCS, VCP, MCS, MCP, TBS, CCP)<br><br>
+To browse the repo, see:<br>
+<a href="https://github.com/Infineon/le-audio-profiles">https://github.com/Infineon/le-audio-profiles</a>
+</body>
+</html>
+    ]]></desc>
+    <category>Bluetooth&#174;</category>
+    <req_capabilities>btsdk btstack30</req_capabilities>
+    <versions>
+      <version tools_min_version="2.2.0" flow_version="2.0" prefix="wiced_btsdk/dev-kit/libraries">
+        <num>3.3.0 release</num>
+        <commit>release-v3.3.0</commit>
+        <desc>3.3.0 release</desc>
+      </version>
+      <version tools_min_version="2.2.0" flow_version="2.0" prefix="wiced_btsdk/dev-kit/libraries">
+        <num>Latest v3.X release</num>
+        <commit>latest-v3.X</commit>
+        <desc>Latest v3.X release</desc>
+      </version>
+    </versions>
+  </middleware>
+  <middleware>
+    <name>LE GATT Interface</name>
+    <id>gatt-interface</id>
+    <uri>https://github.com/Infineon/gatt-interface</uri>
+    <desc><![CDATA[
+<html>
+<body>
+Definitions for interface between Bluetooth&#174; LE stack GATT and service/application. The GATT interface is responsible for routing the incoming GATT commands to the appropriate service/services or application. This library provides support for applications to:
+  <ul>
+    <li>Discover remote services, included services, characteristics and descriptors, and map them to the registered service implementations</li>
+    <li>Setup local services, included services, characteristics and descriptors, and map them to the registered service implementations</li>
+    <li>Perform basic operations such as configuring notifications, notifying remote clients or reading characteristics</li>
+    <li>Organize non-volatile data for storing and reading back from NVRAM</li>
+  </ul>
+To browse the repo, see:<br>
+<a href="https://github.com/Infineon/gatt-interface">https://github.com/Infineon/gatt-interface</a>
+</body>
+</html>
+    ]]></desc>
+    <category>Bluetooth&#174;</category>
+    <req_capabilities>btsdk btstack30</req_capabilities>
+    <versions>
+      <version tools_min_version="2.2.0" flow_version="2.0" prefix="wiced_btsdk/dev-kit/libraries">
+        <num>3.3.0 release</num>
+        <commit>release-v3.3.0</commit>
+        <desc>3.3.0 release</desc>
+      </version>
+      <version tools_min_version="2.2.0" flow_version="2.0" prefix="wiced_btsdk/dev-kit/libraries">
+        <num>Latest v3.X release</num>
+        <commit>latest-v3.X</commit>
+        <desc>Latest v3.X release</desc>
       </version>
     </versions>
   </middleware>

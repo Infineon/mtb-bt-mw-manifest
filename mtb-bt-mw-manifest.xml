@@ -1,7 +1,7 @@
 <middleware>
   <middleware>
     <name>Audio</name>
-    <id>Audio</id>
+    <id>btsdk-audio</id>
     <uri>https://github.com/cypresssemiconductorco/btsdk-audio</uri>
     <desc><![CDATA[
 <html>
@@ -145,7 +145,7 @@
   </middleware>
   <middleware>
     <name>Bluetooth&#174; Low Energy</name>
-    <id>Bluetooth_Low_Energy</id>
+    <id>btsdk-ble</id>
     <uri>https://github.com/cypresssemiconductorco/btsdk-ble</uri>
     <desc><![CDATA[
 <html>
@@ -211,7 +211,7 @@
   </middleware>
   <middleware>
     <name>Human Interface Device</name>
-    <id>Human_Interface_Device</id>
+    <id>btsdk-hid</id>
     <uri>https://github.com/cypresssemiconductorco/btsdk-hid</uri>
     <desc>HID Device library</desc>
     <category>Bluetooth&#174;</category>
@@ -261,7 +261,7 @@
   </middleware>
   <middleware>
     <name>Mesh</name>
-    <id>Mesh</id>
+    <id>btsdk-mesh</id>
     <uri>https://github.com/cypresssemiconductorco/btsdk-mesh</uri>
     <desc><![CDATA[
 <html>
@@ -321,7 +321,7 @@
   </middleware>
   <middleware>
     <name>Firmware Upgrade</name>
-    <id>Firmware_Upgrade</id>
+    <id>btsdk-ota</id>
     <uri>https://github.com/cypresssemiconductorco/btsdk-ota</uri>
     <desc>Over-The-Air Firmware Upgrade support (fw_upgrade_lib)</desc>
     <category>Bluetooth&#174;</category>
@@ -371,7 +371,7 @@
   </middleware>
   <middleware>
     <name>RFCOMM</name>
-    <id>RFCOMM</id>
+    <id>btsdk-rfcomm</id>
     <uri>https://github.com/cypresssemiconductorco/btsdk-rfcomm</uri>
     <desc><![CDATA[
 <html>

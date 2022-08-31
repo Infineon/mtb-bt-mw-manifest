@@ -18,6 +18,11 @@ For API documentation, see:<br>
     <req_capabilities>btsdk</req_capabilities>
     <versions>
       <version tools_min_version="2.2.0" flow_version="2.0" prefix="wiced_btsdk/dev-kit">
+        <num>4.0.0 release</num>
+        <commit>release-v4.0.0</commit>
+        <desc>4.0.0 release</desc>
+      </version>
+      <version tools_min_version="2.2.0" flow_version="2.0" prefix="wiced_btsdk/dev-kit">
         <num>3.3.0 release</num>
         <commit>release-v3.3.0</commit>
         <desc>3.3.0 release</desc>
@@ -46,6 +51,11 @@ For API documentation, see:<br>
         <num>2.8.0 release</num>
         <commit>release-v2.8.0</commit>
         <desc>2.8.0 release</desc>
+      </version>
+      <version tools_min_version="2.2.0" flow_version="2.0" prefix="wiced_btsdk/dev-kit">
+        <num>Latest v4.X release</num>
+        <commit>latest-v4.X</commit>
+        <desc>Latest v4.X release</desc>
       </version>
       <version tools_min_version="2.2.0" flow_version="2.0" prefix="wiced_btsdk/dev-kit">
         <num>Latest v3.X release</num>
@@ -272,6 +282,11 @@ To browse the repo, see:<br>
     <req_capabilities>btsdk</req_capabilities>
     <versions>
       <version tools_min_version="2.2.0" flow_version="2.0" prefix="wiced_btsdk/tools">
+        <num>4.0.0 release</num>
+        <commit>release-v4.0.0</commit>
+        <desc>4.0.0 release</desc>
+      </version>
+      <version tools_min_version="2.2.0" flow_version="2.0" prefix="wiced_btsdk/tools">
         <num>3.3.0 release</num>
         <commit>release-v3.3.0</commit>
         <desc>3.3.0 release</desc>
@@ -300,6 +315,11 @@ To browse the repo, see:<br>
         <num>2.8.0 release</num>
         <commit>release-v2.8.0</commit>
         <desc>2.8.0 release</desc>
+      </version>
+      <version tools_min_version="2.2.0" flow_version="2.0" prefix="wiced_btsdk/tools">
+        <num>Latest v4.X release</num>
+        <commit>latest-v4.X</commit>
+        <desc>Latest v4.X release</desc>
       </version>
       <version tools_min_version="2.2.0" flow_version="2.0" prefix="wiced_btsdk/tools">
         <num>Latest v3.X release</num>
@@ -452,6 +472,11 @@ To browse the repo, see:<br>
     <req_capabilities>btsdk</req_capabilities>
     <versions>
       <version tools_min_version="2.2.0" flow_version="2.0" prefix="wiced_btsdk/dev-kit/baselib">
+        <num>4.0.0 release</num>
+        <commit>release-v4.0.0</commit>
+        <desc>4.0.0 release</desc>
+      </version>
+      <version tools_min_version="2.2.0" flow_version="2.0" prefix="wiced_btsdk/dev-kit/baselib">
         <num>3.3.0 release</num>
         <commit>release-v3.3.0</commit>
         <desc>3.3.0 release</desc>
@@ -480,6 +505,11 @@ To browse the repo, see:<br>
         <num>2.8.0 release</num>
         <commit>release-v2.8.0</commit>
         <desc>2.8.0 release</desc>
+      </version>
+      <version tools_min_version="2.2.0" flow_version="2.0" prefix="wiced_btsdk/dev-kit/baselib">
+        <num>Latest v4.X release</num>
+        <commit>latest-v4.X</commit>
+        <desc>Latest v4.X release</desc>
       </version>
       <version tools_min_version="2.2.0" flow_version="2.0" prefix="wiced_btsdk/dev-kit/baselib">
         <num>Latest v3.X release</num>
@@ -510,6 +540,11 @@ To browse the repo, see:<br>
     <req_capabilities>btsdk</req_capabilities>
     <versions>
       <version tools_min_version="2.2.0" flow_version="2.0" prefix="wiced_btsdk/dev-kit/baselib">
+        <num>4.0.0 release</num>
+        <commit>release-v4.0.0</commit>
+        <desc>4.0.0 release</desc>
+      </version>
+      <version tools_min_version="2.2.0" flow_version="2.0" prefix="wiced_btsdk/dev-kit/baselib">
         <num>3.3.0 release</num>
         <commit>release-v3.3.0</commit>
         <desc>3.3.0 release</desc>
@@ -538,6 +573,11 @@ To browse the repo, see:<br>
         <num>2.8.0 release</num>
         <commit>release-v2.8.0</commit>
         <desc>2.8.0 release</desc>
+      </version>
+      <version tools_min_version="2.2.0" flow_version="2.0" prefix="wiced_btsdk/dev-kit/baselib">
+        <num>Latest v4.X release</num>
+        <commit>latest-v4.X</commit>
+        <desc>Latest v4.X release</desc>
       </version>
       <version tools_min_version="2.2.0" flow_version="2.0" prefix="wiced_btsdk/dev-kit/baselib">
         <num>Latest v3.X release</num>
@@ -568,6 +608,11 @@ To browse the repo, see:<br>
     <req_capabilities>btsdk</req_capabilities>
     <versions>
       <version tools_min_version="2.2.0" flow_version="2.0" prefix="wiced_btsdk/dev-kit/baselib">
+        <num>4.0.0 release</num>
+        <commit>release-v4.0.0</commit>
+        <desc>4.0.0 release</desc>
+      </version>
+      <version tools_min_version="2.2.0" flow_version="2.0" prefix="wiced_btsdk/dev-kit/baselib">
         <num>3.3.0 release</num>
         <commit>release-v3.3.0</commit>
         <desc>3.3.0 release</desc>
@@ -596,6 +641,11 @@ To browse the repo, see:<br>
         <num>2.8.0 release</num>
         <commit>release-v2.8.0</commit>
         <desc>2.8.0 release</desc>
+      </version>
+      <version tools_min_version="2.2.0" flow_version="2.0" prefix="wiced_btsdk/dev-kit/baselib">
+        <num>Latest v4.X release</num>
+        <commit>latest-v4.X</commit>
+        <desc>Latest v4.X release</desc>
       </version>
       <version tools_min_version="2.2.0" flow_version="2.0" prefix="wiced_btsdk/dev-kit/baselib">
         <num>Latest v3.X release</num>
@@ -684,6 +734,11 @@ To browse the repo, see:<br>
     <req_capabilities>btsdk</req_capabilities>
     <versions>
       <version tools_min_version="2.2.0" flow_version="2.0" prefix="wiced_btsdk/dev-kit/baselib">
+        <num>4.0.0 release</num>
+        <commit>release-v4.0.0</commit>
+        <desc>4.0.0 release</desc>
+      </version>
+      <version tools_min_version="2.2.0" flow_version="2.0" prefix="wiced_btsdk/dev-kit/baselib">
         <num>3.3.0 release</num>
         <commit>release-v3.3.0</commit>
         <desc>3.3.0 release</desc>
@@ -712,6 +767,11 @@ To browse the repo, see:<br>
         <num>2.8.0 release</num>
         <commit>release-v2.8.0</commit>
         <desc>2.8.0 release</desc>
+      </version>
+      <version tools_min_version="2.2.0" flow_version="2.0" prefix="wiced_btsdk/dev-kit/baselib">
+        <num>Latest v4.X release</num>
+        <commit>latest-v4.X</commit>
+        <desc>Latest v4.X release</desc>
       </version>
       <version tools_min_version="2.2.0" flow_version="2.0" prefix="wiced_btsdk/dev-kit/baselib">
         <num>Latest v3.X release</num>
@@ -742,6 +802,11 @@ To browse the repo, see:<br>
     <req_capabilities>btsdk</req_capabilities>
     <versions>
       <version tools_min_version="2.2.0" flow_version="2.0" prefix="wiced_btsdk/dev-kit/baselib">
+        <num>4.0.0 release</num>
+        <commit>release-v4.0.0</commit>
+        <desc>4.0.0 release</desc>
+      </version>
+      <version tools_min_version="2.2.0" flow_version="2.0" prefix="wiced_btsdk/dev-kit/baselib">
         <num>3.3.0 release</num>
         <commit>release-v3.3.0</commit>
         <desc>3.3.0 release</desc>
@@ -770,6 +835,11 @@ To browse the repo, see:<br>
         <num>2.8.0 release</num>
         <commit>release-v2.8.0</commit>
         <desc>2.8.0 release</desc>
+      </version>
+      <version tools_min_version="2.2.0" flow_version="2.0" prefix="wiced_btsdk/dev-kit/baselib">
+        <num>Latest v4.X release</num>
+        <commit>latest-v4.X</commit>
+        <desc>Latest v4.X release</desc>
       </version>
       <version tools_min_version="2.2.0" flow_version="2.0" prefix="wiced_btsdk/dev-kit/baselib">
         <num>Latest v3.X release</num>
@@ -850,64 +920,6 @@ To browse the repo, see:<br>
     </versions>
   </middleware>
   <middleware>
-    <name>CYW20735B1</name>
-    <id>20735B1</id>
-    <uri>https://github.com/cypresssemiconductorco/20735B1</uri>
-    <desc><![CDATA[
-<html>
-<body>
-<p>This repo contains the Chip Support Package (CSP) library for the Infineon CYW20735B1 wireless MCU device supporting Bluetooth&#174; BR and LE.  EDR is not supported.  The library contains the base startup code and header files necessary to build for the target device.  It is downloaded automatically as a dependency of the selected board.</p>
-To browse the repo, see:<br>
-<a href="https://github.com/Infineon/20735B1">https://github.com/cypresssemiconductorco/20735B1</a>
-</body>
-</html>
-    ]]></desc>
-    <category>Core</category>
-    <req_capabilities>btsdk</req_capabilities>
-    <versions>
-      <version tools_min_version="2.2.0" flow_version="2.0" prefix="wiced_btsdk/dev-kit/baselib">
-        <num>3.3.0 release</num>
-        <commit>release-v3.3.0</commit>
-        <desc>3.3.0 release</desc>
-      </version>
-      <version tools_min_version="2.2.0" flow_version="2.0" prefix="wiced_btsdk/dev-kit/baselib">
-        <num>3.2.0 release</num>
-        <commit>release-v3.2.0</commit>
-        <desc>3.2.0 release</desc>
-      </version>
-      <version tools_min_version="2.2.0" flow_version="2.0" prefix="wiced_btsdk/dev-kit/baselib">
-        <num>3.1.0 release</num>
-        <commit>release-v3.1.0</commit>
-        <desc>3.1.0 release</desc>
-      </version>
-      <version tools_min_version="2.2.0" flow_version="2.0" prefix="wiced_btsdk/dev-kit/baselib">
-        <num>3.0.0 release</num>
-        <commit>release-v3.0.0</commit>
-        <desc>3.0.0 release</desc>
-      </version>
-      <version tools_min_version="2.2.0" flow_version="2.0" prefix="wiced_btsdk/dev-kit/baselib">
-        <num>2.9.0 release</num>
-        <commit>release-v2.9.0</commit>
-        <desc>2.9.0 release</desc>
-      </version>
-      <version tools_min_version="2.2.0" flow_version="2.0" prefix="wiced_btsdk/dev-kit/baselib">
-        <num>2.8.0 release</num>
-        <commit>release-v2.8.0</commit>
-        <desc>2.8.0 release</desc>
-      </version>
-      <version tools_min_version="2.2.0" flow_version="2.0" prefix="wiced_btsdk/dev-kit/baselib">
-        <num>Latest v3.X release</num>
-        <commit>latest-v3.X</commit>
-        <desc>Latest v3.X release</desc>
-      </version>
-      <version tools_min_version="2.2.0" flow_version="2.0" prefix="wiced_btsdk/dev-kit/baselib">
-        <num>Latest v2.X release</num>
-        <commit>latest-v2.X</commit>
-        <desc>Latest v2.X release</desc>
-      </version>
-    </versions>
-  </middleware>
-  <middleware>
     <name>CYW20736A1</name>
     <id>20736A1</id>
     <uri>https://github.com/Infineon/20736A1</uri>
@@ -962,6 +974,11 @@ To browse the repo, see:<br>
     <req_capabilities>btsdk</req_capabilities>
     <versions>
       <version tools_min_version="2.2.0" flow_version="2.0" prefix="wiced_btsdk/dev-kit/baselib">
+        <num>4.0.0 release</num>
+        <commit>release-v4.0.0</commit>
+        <desc>4.0.0 release</desc>
+      </version>
+      <version tools_min_version="2.2.0" flow_version="2.0" prefix="wiced_btsdk/dev-kit/baselib">
         <num>3.3.0 release</num>
         <commit>release-v3.3.0</commit>
         <desc>3.3.0 release</desc>
@@ -990,6 +1007,11 @@ To browse the repo, see:<br>
         <num>2.8.0 release</num>
         <commit>release-v2.8.0</commit>
         <desc>2.8.0 release</desc>
+      </version>
+      <version tools_min_version="2.2.0" flow_version="2.0" prefix="wiced_btsdk/dev-kit/baselib">
+        <num>Latest v4.X release</num>
+        <commit>latest-v4.X</commit>
+        <desc>Latest v4.X release</desc>
       </version>
       <version tools_min_version="2.2.0" flow_version="2.0" prefix="wiced_btsdk/dev-kit/baselib">
         <num>Latest v3.X release</num>
@@ -1063,7 +1085,7 @@ To browse the repo, see:<br>
   </middleware>
   <middleware>
     <name>Audio</name>
-    <id>Audio</id>
+    <id>btsdk-audio</id>
     <uri>https://github.com/cypresssemiconductorco/btsdk-audio</uri>
     <desc><![CDATA[
 <html>
@@ -1328,7 +1350,7 @@ For API documentation, see:<br>
   </middleware>
   <middleware req_capabilities_v2="[btsdk,cyw20829]">
     <name>Bluetooth&#174; Low Energy</name>
-    <id>Bluetooth_Low_Energy</id>
+    <id>btsdk-ble</id>
     <uri>https://github.com/cypresssemiconductorco/btsdk-ble</uri>
     <desc><![CDATA[
 <html>
@@ -1412,7 +1434,7 @@ For API documentation, see:<br>
   </middleware>
   <middleware>
     <name>Human Interface Device</name>
-    <id>Human_Interface_Device</id>
+    <id>btsdk-hid</id>
     <uri>https://github.com/cypresssemiconductorco/btsdk-hid</uri>
     <desc><![CDATA[
 <html>
@@ -1475,7 +1497,7 @@ For API documentation, see:<br>
   </middleware>
   <middleware>
     <name>Google Fast Pairing Service</name>
-    <id>GFPS</id>
+    <id>btsdk-gfps</id>
     <uri>https://github.com/cypresssemiconductorco/btsdk-gfps</uri>
     <desc><![CDATA[
 <html>
@@ -1533,7 +1555,7 @@ For API documentation, see:<br>
   </middleware>
   <middleware>
     <name>Mesh</name>
-    <id>Mesh</id>
+    <id>btsdk-mesh</id>
     <uri>https://github.com/cypresssemiconductorco/btsdk-mesh</uri>
     <desc><![CDATA[
 <html>
@@ -1553,6 +1575,11 @@ For API documentation, see:<br>
     <category>Bluetooth&#174;</category>
     <req_capabilities>mesh btsdk</req_capabilities>
     <versions>
+      <version tools_min_version="2.2.0" flow_version="2.0" prefix="wiced_btsdk/dev-kit/libraries">
+        <num>4.0.0 release</num>
+        <commit>release-v4.0.0</commit>
+        <desc>4.0.0 release</desc>
+      </version>
       <version tools_min_version="2.2.0" flow_version="2.0" prefix="wiced_btsdk/dev-kit/libraries">
         <num>3.3.0 release</num>
         <commit>release-v3.3.0</commit>
@@ -1584,6 +1611,11 @@ For API documentation, see:<br>
         <desc>2.8.0 release</desc>
       </version>
       <version tools_min_version="2.2.0" flow_version="2.0" prefix="wiced_btsdk/dev-kit/libraries">
+        <num>Latest v4.X release</num>
+        <commit>latest-v4.X</commit>
+        <desc>Latest v4.X release</desc>
+      </version>
+      <version tools_min_version="2.2.0" flow_version="2.0" prefix="wiced_btsdk/dev-kit/libraries">
         <num>Latest v3.X release</num>
         <commit>latest-v3.X</commit>
         <desc>Latest v3.X release</desc>
@@ -1597,7 +1629,7 @@ For API documentation, see:<br>
   </middleware>
   <middleware>
     <name>Firmware Upgrade</name>
-    <id>Firmware_Upgrade</id>
+    <id>btsdk-ota</id>
     <uri>https://github.com/cypresssemiconductorco/btsdk-ota</uri>
     <desc><![CDATA[
 <html>
@@ -1660,7 +1692,7 @@ For API documentation, see:<br>
   </middleware>
   <middleware>
     <name>RFCOMM</name>
-    <id>RFCOMM</id>
+    <id>btsdk-rfcomm</id>
     <uri>https://github.com/cypresssemiconductorco/btsdk-rfcomm</uri>
     <desc><![CDATA[
 <html>
@@ -1738,7 +1770,7 @@ For API documentation, see:<br>
   </middleware>
   <middleware>
     <name>PAN</name>
-    <id>PAN</id>
+    <id>btsdk-pan</id>
     <uri>https://github.com/Infineon/btsdk-pan</uri>
     <desc><![CDATA[
 <html>
@@ -1776,7 +1808,7 @@ For API documentation, see:<br>
   </middleware>
   <middleware>
     <name>Drivers</name>
-    <id>Drivers</id>
+    <id>btsdk-drivers</id>
     <uri>https://github.com/cypresssemiconductorco/btsdk-drivers</uri>
     <desc><![CDATA[
 <html>

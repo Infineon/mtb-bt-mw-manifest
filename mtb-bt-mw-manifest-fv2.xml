@@ -8,7 +8,7 @@
 <body>
 This is a collection of BTSDK common header files used by all AIROC&#8482; applications.  It is downloaded automatically as a dependency of all AIROC&#8482; Chip Support Package (CSP) libraries.<br><br>
 To browse the repo, see:<br>
-<a href="https://github.com/Infineon/btsdk-include">https://github.com/cypresssemiconductorco/btsdk-include</a><br>
+<a href="https://github.com/Infineon/btsdk-include">https://github.com/Infineon/btsdk-include</a><br>
 For API documentation, see:<br>
 <a href="https://infineon.github.io/btsdk-docs/BT-SDK/index.html">https://infineon.github.io/btsdk-docs/BT-SDK/index.html</a>
 </body>
@@ -78,7 +78,7 @@ For API documentation, see:<br>
 <body>
 This is a collection of BTSDK common tools used by all AIROC&#8482; applications to generate embedded application images and program them to a board.  It is downloaded automatically as a dependency of all AIROC&#8482; Chip Support Package (CSP) libraries.<br><br>
 To browse the repo, see:<br>
-<a href="https://github.com/Infineon/btsdk-tools">https://github.com/cypresssemiconductorco/btsdk-tools</a>
+<a href="https://github.com/Infineon/btsdk-tools">https://github.com/Infineon/btsdk-tools</a>
 </body>
 </html>
     ]]></desc>
@@ -142,7 +142,7 @@ To browse the repo, see:<br>
     <li>ecdsa256: Elliptic Curve Digital Signature Algorithm</li>
   </ul>
 To browse the repo, see:<br>
-<a href="https://github.com/Infineon/btsdk-utils">https://github.com/cypresssemiconductorco/btsdk-utils</a>
+<a href="https://github.com/Infineon/btsdk-utils">https://github.com/Infineon/btsdk-utils</a>
 </body>
 </html>
     ]]></desc>
@@ -209,7 +209,7 @@ To browse the repo, see:<br>
 Any embedded app that configures traces over AIROC&#8482;  HCI would also need to use the ClientControl app to view traces in the BTSpy utility.<br><br>
 Supported OS: Windows, Linux, and Android.<br><br>
 To browse the repo, see:<br>
-<a href="https://github.com/Infineon/btsdk-host-apps-bt-ble">https://github.com/cypresssemiconductorco/btsdk-host-apps-bt-ble</a>
+<a href="https://github.com/Infineon/btsdk-host-apps-bt-ble">https://github.com/Infineon/btsdk-host-apps-bt-ble</a>
 </body>
 </html>
     ]]></desc>
@@ -274,7 +274,7 @@ To browse the repo, see:<br>
     <li>mesh_client_lib/: Mesh client support library used by both host and peer apps.</li>
   </ul>
 To browse the repo, see:<br>
-<a href="https://github.com/Infineon/btsdk-host-peer-apps-mesh">https://github.com/cypresssemiconductorco/btsdk-host-peer-apps-mesh</a>
+<a href="https://github.com/Infineon/btsdk-host-peer-apps-mesh">https://github.com/Infineon/btsdk-host-peer-apps-mesh</a>
 </body>
 </html>
     ]]></desc>
@@ -345,7 +345,7 @@ Supported OS: Android and Windows<br><br>
 The Hello Sensor embedded app can be found here:<br>
 <a href="https://github.com/Infineon/mtb-example-btsdk-ble-hello-sensor">https://github.com/Infineon/mtb-example-btsdk-ble-hello-sensor</a><br>
 To browse the HelloClient app repo, see:<br>
-<a href="https://github.com/Infineon/btsdk-peer-apps-ble">https://github.com/cypresssemiconductorco/btsdk-peer-apps-ble</a>
+<a href="https://github.com/Infineon/btsdk-peer-apps-ble">https://github.com/Infineon/btsdk-peer-apps-ble</a>
 </body>
 </html>
     ]]></desc>
@@ -406,7 +406,7 @@ Separate apps are supplied for Android, iOS, and Windows<br><br>
 The OTA Firmware Upgrade BTSDK embedded application can be found here:<br>
 <a href="https://github.com/Infineon/mtb-example-btsdk-ota-firmware-upgrade">https://github.com/Infineon/mtb-example-btsdk-ota-firmware-upgrade</a><br>
 To browse the peer app repo, see:<br>
-<a href="https://github.com/Infineon/btsdk-peer-apps-ota">https://github.com/cypresssemiconductorco/btsdk-peer-apps-ota</a>
+<a href="https://github.com/Infineon/btsdk-peer-apps-ota">https://github.com/Infineon/btsdk-peer-apps-ota</a>
 </body>
 </html>
     ]]></desc>
@@ -464,7 +464,7 @@ To browse the peer app repo, see:<br>
 <body>
 <p>This repo contains the Chip Support Package (CSP) library for the Infineon CYW20706A2 wireless MCU device supporting Bluetooth&#174; LE/BR/EDR.  The library contains the base startup code and header files necessary to build for the target device.  It is downloaded automatically as a dependency of the selected board.</p>
 To browse the repo, see:<br>
-<a href="https://github.com/Infineon/20706A2">https://github.com/cypresssemiconductorco/20706A2</a>
+<a href="https://github.com/Infineon/20706A2">https://github.com/Infineon/20706A2</a>
 </body>
 </html>
     ]]></desc>
@@ -532,7 +532,7 @@ To browse the repo, see:<br>
 <body>
 <p>This repo contains the Chip Support Package (CSP) library for the Infineon CYW20819A1 wireless MCU device supporting Bluetooth&#174; LE/BR/EDR.  The library contains the base startup code and header files necessary to build for the target device.  It is downloaded automatically as a dependency of the selected board.</p>
 To browse the repo, see:<br>
-<a href="https://github.com/Infineon/20819A1">https://github.com/cypresssemiconductorco/20819A1</a>
+<a href="https://github.com/Infineon/20819A1">https://github.com/Infineon/20819A1</a>
 </body>
 </html>
     ]]></desc>
@@ -600,7 +600,7 @@ To browse the repo, see:<br>
 <body>
 <p>This repo contains the Chip Support Package (CSP) library for the Infineon CYW20820A1 wireless MCU device supporting Bluetooth&#174; LE/BR/EDR.  The library contains the base startup code and header files necessary to build for the target device.  It is downloaded automatically as a dependency of the selected board.</p>
 To browse the repo, see:<br>
-<a href="https://github.com/Infineon/20820A1">https://github.com/cypresssemiconductorco/20820A1</a>
+<a href="https://github.com/Infineon/20820A1">https://github.com/Infineon/20820A1</a>
 </body>
 </html>
     ]]></desc>
@@ -668,7 +668,7 @@ To browse the repo, see:<br>
 <body>
 <p>This repo contains the Chip Support Package (CSP) library for the Infineon CYW43012C0 wireless MCU Wi-Fi + Bluetooth&#174; combo device supporting LE/BR/EDR.  The library contains the base startup code and header files necessary to build for the target device.  It is downloaded automatically as a dependency of the selected board.</p>
 To browse the repo, see:<br>
-<a href="https://github.com/Infineon/43012C0">https://github.com/cypresssemiconductorco/43012C0</a>
+<a href="https://github.com/Infineon/43012C0">https://github.com/Infineon/43012C0</a>
 </body>
 </html>
     ]]></desc>
@@ -726,7 +726,7 @@ To browse the repo, see:<br>
 <body>
 <p>This repo contains the Chip Support Package (CSP) library for the Infineon CYW20719B2 wireless MCU device supporting Bluetooth&#174; LE/BR/EDR.  The library contains the base startup code and header files necessary to build for the target device.  It is downloaded automatically as a dependency of the selected board.</p>
 To browse the repo, see:<br>
-<a href="https://github.com/Infineon/20719B2">https://github.com/cypresssemiconductorco/20719B2</a>
+<a href="https://github.com/Infineon/20719B2">https://github.com/Infineon/20719B2</a>
 </body>
 </html>
     ]]></desc>
@@ -794,7 +794,7 @@ To browse the repo, see:<br>
 <body>
 <p>This repo contains the Chip Support Package (CSP) library for the Infineon CYW20721B2 wireless MCU device supporting Bluetooth&#174; LE/BR/EDR.  The library contains the base startup code and header files necessary to build for the target device.  It is downloaded automatically as a dependency of the selected board.</p>
 To browse the repo, see:<br>
-<a href="https://github.com/Infineon/20721B2">https://github.com/cypresssemiconductorco/20721B2</a>
+<a href="https://github.com/Infineon/20721B2">https://github.com/Infineon/20721B2</a>
 </body>
 </html>
     ]]></desc>
@@ -895,7 +895,7 @@ To browse the repo, see:<br>
 <body>
 <p>This repo contains the Chip Support Package (CSP) library for the Infineon CYW55572A1 wireless MCU device supporting Bluetooth&#174; LE/BR/EDR.  The library contains the base startup code and header files necessary to build for the target device.  It is downloaded automatically as a dependency of the selected board.</p>
 To browse the repo, see:<br>
-<a href="https://github.com/Infineon/55572A1">https://github.com/cypresssemiconductorco/55572A1</a>
+<a href="https://github.com/Infineon/55572A1">https://github.com/Infineon/55572A1</a>
 </body>
 </html>
     ]]></desc>
@@ -966,7 +966,7 @@ To browse the repo, see:<br>
 <body>
 <p>This repo contains the Chip Support Package (CSP) library for the Infineon CYW20835B1 wireless MCU device supporting Bluetooth&#174; LE.  BR/EDR is not supported.  The library contains the base startup code and header files necessary to build for the target device.  It is downloaded automatically as a dependency of the selected board.</p>
 To browse the repo, see:<br>
-<a href="https://github.com/Infineon/20835B1">https://github.com/cypresssemiconductorco/20835B1</a>
+<a href="https://github.com/Infineon/20835B1">https://github.com/Infineon/20835B1</a>
 </body>
 </html>
     ]]></desc>
@@ -1034,7 +1034,7 @@ To browse the repo, see:<br>
 <body>
 <p>This repo contains a collection of common utility functions usable by all AIROC&#8482; applications.  It is downloaded automatically as a dependency of every board's associated Chip Support Package.</p>
 To browse the repo, see:<br>
-<a href="https://github.com/Infineon/btsdk-common">https://github.com/cypresssemiconductorco/btsdk-common</a>
+<a href="https://github.com/Infineon/btsdk-common">https://github.com/Infineon/btsdk-common</a>
 </body>
 </html>
     ]]></desc>
@@ -1093,7 +1093,7 @@ To browse the repo, see:<br>
 <p>This repo contains a collection of AIROC&#8482; audio-related libraries.  It is downloaded automatically as a dependency of BTSDK applications that require one or more of the libraries.</p>
 <p>Each library is found under a COMPONENT_(folder_name) folder in the btsdk-audio repo, see the library list below for the folder names for each library.  To use the libraries in an application, add the folder name to the COMPONENTS variable in the application makefile.  For example, to use the Hands-free Profile library, add the following to the application makefile:<br><code>COMPONENTS+=handsfree_profile</code></p>
 To browse the repo, see:<br>
-<a href="https://github.com/Infineon/btsdk-audio">https://github.com/cypresssemiconductorco/btsdk-audio</a><br>
+<a href="https://github.com/Infineon/btsdk-audio">https://github.com/Infineon/btsdk-audio</a><br>
 To see an application using these libraries:<br>
 <a href="https://github.com/Infineon/mtb-example-btsdk-audio-watch">https://github.com/Infineon/mtb-example-btsdk-audio-watch</a><br>
 For API documentation, see:<br>
@@ -1368,7 +1368,7 @@ For API documentation, see:<br>
     <li>LE GATT Utilities (gatt_utils_lib)</li>
   </ul>
 To browse the repo, see:<br>
-<a href="https://github.com/Infineon/btsdk-ble">https://github.com/cypresssemiconductorco/btsdk-ble</a><br>
+<a href="https://github.com/Infineon/btsdk-ble">https://github.com/Infineon/btsdk-ble</a><br>
 To see an application using these libraries:<br>
 Alert Notification Client and LE GATT Utilities:<br>
 <a href="https://github.com/Infineon/mtb-example-btsdk-ble-alert-client">https://github.com/Infineon/mtb-example-btsdk-ble-alert-client</a><br>
@@ -1442,7 +1442,7 @@ For API documentation, see:<br>
 <p>This repo contains the AIROC&#8482; Bluetooth&#174; Human Interface Device (HID) Profile library.  It is downloaded automatically as a dependency of BTSDK applications that require require it.</p>
 <p>To use the library in an application, add the following to the application makefile:<br><code>COMPONENTS+=hidd_lib2</code></p>
 To browse the repo, see:<br>
-<a href="https://github.com/Infineon/btsdk-hid">https://github.com/cypresssemiconductorco/btsdk-hid</a><br>
+<a href="https://github.com/Infineon/btsdk-hid">https://github.com/Infineon/btsdk-hid</a><br>
 To see an application using this library:<br>
 <a href="https://github.com/Infineon/mtb-example-btsdk-hid-dual-mode-keyboard">https://github.com/Infineon/mtb-example-btsdk-hid-dual-mode-keyboard</a><br>
 For API documentation, see:<br>
@@ -1505,7 +1505,7 @@ For API documentation, see:<br>
 <p>This repo contains the AIROC&#8482; Google Fast Pairing Service (GFPS) support library for applications that want to use GFPS.  It is downloaded automatically as a dependency of BTSDK applications that require require it.</p>
 <p>To use the library in an application, add the following to the application makefile:<br><code>COMPONENTS+=gfps_provider</code></p>
 To browse the repo, see:<br>
-<a href="https://github.com/Infineon/btsdk-gfps">https://github.com/cypresssemiconductorco/btsdk-gfps</a><br>
+<a href="https://github.com/Infineon/btsdk-gfps">https://github.com/Infineon/btsdk-gfps</a><br>
 To see an application using this library:<br>
 <a href="https://github.com/Infineon/mtb-example-btsdk-hid-dual-mode-keyboard">https://github.com/Infineon/mtb-example-btsdk-hid-dual-mode-keyboard</a><br>
 For API documentation, see:<br>
@@ -1564,7 +1564,7 @@ For API documentation, see:<br>
 <p>To use the library in an application, add the following to the application makefile:<br><code>COMPONENTS+=mesh_app_lib</code></p>
 <p>Note, this application bundles together all common application initialization functions to allow the Mesh application support to function as intended.  As such, it not supported to add this library to an application based on a non-Mesh BTSDK application:  It can only be supported in applications based on one of the BTSDK example Mesh applications, as non-Mesh applications perform the common initializations separately.</p>
 To browse the repo, see:<br>
-<a href="https://github.com/Infineon/btsdk-mesh">https://github.com/cypresssemiconductorco/btsdk-mesh</a><br>
+<a href="https://github.com/Infineon/btsdk-mesh">https://github.com/Infineon/btsdk-mesh</a><br>
 To see an application using this library:<br>
 <a href="https://github.com/Infineon/mtb-example-btsdk-mesh-demo-color-light">https://github.com/Infineon/mtb-example-btsdk-mesh-demo-color-light</a><br>
 For API documentation, see:<br>
@@ -1637,7 +1637,7 @@ For API documentation, see:<br>
 <p>This repo contains the AIROC&#8482; Over-The-Air (OTA) Firmware Upgrade library to support OTA Firware upgrades.  It is downloaded automatically as a dependency of any BTSDK applications that use OTA.</p>
 <p>To use the library in an application, add the following to the application makefile:<br><code>COMPONENTS+=mesh_app_lib<br>OTA_FW_UPGRADE?=1</code></p>
 To browse the repo, see:<br>
-<a href="https://github.com/Infineon/btsdk-ota">https://github.com/cypresssemiconductorco/btsdk-ota</a><br>
+<a href="https://github.com/Infineon/btsdk-ota">https://github.com/Infineon/btsdk-ota</a><br>
 To see an application using this library:<br>
 <a href="https://github.com/Infineon/mtb-example-btsdk-ota-firmware-upgrade">https://github.com/Infineon/mtb-example-btsdk-ota-firmware-upgrade</a><br>
 For API documentation, see:<br>
@@ -1648,6 +1648,11 @@ For API documentation, see:<br>
     <category>Bluetooth&#174;</category>
     <req_capabilities>ble btsdk</req_capabilities>
     <versions>
+      <version tools_min_version="2.2.0" flow_version="2.0" prefix="wiced_btsdk/dev-kit/libraries">
+        <num>4.1.0 release</num>
+        <commit>release-v4.1.0</commit>
+        <desc>4.1.0 release</desc>
+      </version>
       <version tools_min_version="2.2.0" flow_version="2.0" prefix="wiced_btsdk/dev-kit/libraries">
         <num>3.3.0 release</num>
         <commit>release-v3.3.0</commit>
@@ -1679,6 +1684,11 @@ For API documentation, see:<br>
         <desc>2.8.0 release</desc>
       </version>
       <version tools_min_version="2.2.0" flow_version="2.0" prefix="wiced_btsdk/dev-kit/libraries">
+        <num>Latest v4.X release</num>
+        <commit>latest-v4.X</commit>
+        <desc>Latest v4.X release</desc>
+      </version>
+      <version tools_min_version="2.2.0" flow_version="2.0" prefix="wiced_btsdk/dev-kit/libraries">
         <num>Latest v3.X release</num>
         <commit>latest-v3.X</commit>
         <desc>Latest v3.X release</desc>
@@ -1708,7 +1718,7 @@ For API documentation, see:<br>
     <li>Object Exchange Protocol (obex_lib)</li>
   </ul>
 To browse the repo, see:<br>
-<a href="https://github.com/Infineon/btsdk-rfcomm">https://github.com/cypresssemiconductorco/btsdk-rfcomm</a><br>
+<a href="https://github.com/Infineon/btsdk-rfcomm">https://github.com/Infineon/btsdk-rfcomm</a><br>
 To see an application using these libraries:<br>
 Message Access Profile and Object Exchange Profile:<br>
 <a href="https://github.com/Infineon/mtb-example-btsdk-rfcomm-map-client">https://github.com/Infineon/mtb-example-btsdk-rfcomm-map-client</a><br>
@@ -1826,7 +1836,7 @@ For API documentation, see:<br>
     <li>LED Management Support (led_manager)</li>
   </ul>
 To browse the repo, see:<br>
-<a href="https://github.com/Infineon/btsdk-rfcomm">https://github.com/cypresssemiconductorco/btsdk-rfcomm</a><br>
+<a href="https://github.com/Infineon/btsdk-rfcomm">https://github.com/Infineon/btsdk-rfcomm</a><br>
 To see an application using these libraries:<br>
 HSL to RGB:<br>
 <a href="https://github.com/Infineon/mtb-example-btsdk-mesh-demo-color-light">https://github.com/Infineon/mtb-example-btsdk-mesh-demo-color-light</a><br>

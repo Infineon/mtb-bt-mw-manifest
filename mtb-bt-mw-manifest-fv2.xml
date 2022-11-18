@@ -1391,6 +1391,11 @@ For API documentation, see:<br>
     <req_capabilities>ble</req_capabilities>
     <versions>
       <version tools_min_version="2.2.0" flow_version="2.0" prefix="wiced_btsdk/dev-kit/libraries">
+        <num>4.1.1 release</num>
+        <commit>release-v4.1.1</commit>
+        <desc>4.1.1 release</desc>
+      </version>
+      <version tools_min_version="2.2.0" flow_version="2.0" prefix="wiced_btsdk/dev-kit/libraries">
         <num>3.3.0 release</num>
         <commit>release-v3.3.0</commit>
         <desc>3.3.0 release</desc>
@@ -1419,6 +1424,11 @@ For API documentation, see:<br>
         <num>2.8.0 release</num>
         <commit>release-v2.8.0</commit>
         <desc>2.8.0 release</desc>
+      </version>
+      <version tools_min_version="2.2.0" flow_version="2.0" prefix="wiced_btsdk/dev-kit/libraries">
+        <num>Latest v4.X release</num>
+        <commit>latest-v4.X</commit>
+        <desc>Latest v4.X release</desc>
       </version>
       <version tools_min_version="2.2.0" flow_version="2.0" prefix="wiced_btsdk/dev-kit/libraries">
         <num>Latest v3.X release</num>

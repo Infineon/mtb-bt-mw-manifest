@@ -18,6 +18,11 @@ For API documentation, see:<br>
     <req_capabilities>btsdk</req_capabilities>
     <versions>
       <version tools_min_version="2.2.0" flow_version="2.0" prefix="wiced_btsdk/dev-kit">
+        <num>4.1.3 release</num>
+        <commit>release-v4.1.3</commit>
+        <desc>4.1.3 release</desc>
+      </version>
+      <version tools_min_version="2.2.0" flow_version="2.0" prefix="wiced_btsdk/dev-kit">
         <num>4.0.0 release</num>
         <commit>release-v4.0.0</commit>
         <desc>4.0.0 release</desc>
@@ -472,6 +477,11 @@ To browse the repo, see:<br>
     <req_capabilities>btsdk</req_capabilities>
     <versions>
       <version tools_min_version="2.2.0" flow_version="2.0" prefix="wiced_btsdk/dev-kit/baselib">
+        <num>4.1.3 release</num>
+        <commit>release-v4.1.3</commit>
+        <desc>4.1.3 release</desc>
+      </version>
+      <version tools_min_version="2.2.0" flow_version="2.0" prefix="wiced_btsdk/dev-kit/baselib">
         <num>4.0.0 release</num>
         <commit>release-v4.0.0</commit>
         <desc>4.0.0 release</desc>
@@ -540,6 +550,11 @@ To browse the repo, see:<br>
     <req_capabilities>btsdk</req_capabilities>
     <versions>
       <version tools_min_version="2.2.0" flow_version="2.0" prefix="wiced_btsdk/dev-kit/baselib">
+        <num>4.1.3 release</num>
+        <commit>release-v4.1.3</commit>
+        <desc>4.1.3 release</desc>
+      </version>
+      <version tools_min_version="2.2.0" flow_version="2.0" prefix="wiced_btsdk/dev-kit/baselib">
         <num>4.0.0 release</num>
         <commit>release-v4.0.0</commit>
         <desc>4.0.0 release</desc>
@@ -607,6 +622,11 @@ To browse the repo, see:<br>
     <category>Core</category>
     <req_capabilities>btsdk</req_capabilities>
     <versions>
+      <version tools_min_version="2.2.0" flow_version="2.0" prefix="wiced_btsdk/dev-kit/baselib">
+        <num>4.1.3 release</num>
+        <commit>release-v4.1.3</commit>
+        <desc>4.1.3 release</desc>
+      </version>
       <version tools_min_version="2.2.0" flow_version="2.0" prefix="wiced_btsdk/dev-kit/baselib">
         <num>4.0.0 release</num>
         <commit>release-v4.0.0</commit>
@@ -734,6 +754,11 @@ To browse the repo, see:<br>
     <req_capabilities>btsdk</req_capabilities>
     <versions>
       <version tools_min_version="2.2.0" flow_version="2.0" prefix="wiced_btsdk/dev-kit/baselib">
+        <num>4.1.3 release</num>
+        <commit>release-v4.1.3</commit>
+        <desc>4.1.3 release</desc>
+      </version>
+      <version tools_min_version="2.2.0" flow_version="2.0" prefix="wiced_btsdk/dev-kit/baselib">
         <num>4.0.0 release</num>
         <commit>release-v4.0.0</commit>
         <desc>4.0.0 release</desc>
@@ -801,6 +826,11 @@ To browse the repo, see:<br>
     <category>Core</category>
     <req_capabilities>btsdk</req_capabilities>
     <versions>
+      <version tools_min_version="2.2.0" flow_version="2.0" prefix="wiced_btsdk/dev-kit/baselib">
+        <num>4.1.3 release</num>
+        <commit>release-v4.1.3</commit>
+        <desc>4.1.3 release</desc>
+      </version>
       <version tools_min_version="2.2.0" flow_version="2.0" prefix="wiced_btsdk/dev-kit/baselib">
         <num>4.0.0 release</num>
         <commit>release-v4.0.0</commit>

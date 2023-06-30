@@ -761,6 +761,11 @@ To browse the repo, see:<br>
     <req_capabilities>btsdk</req_capabilities>
     <versions>
       <version tools_min_version="2.2.0" flow_version="2.0" prefix="wiced_btsdk/dev-kit/baselib">
+        <num>4.3.0 release</num>
+        <commit>release-v4.3.0</commit>
+        <desc>4.3.0 release</desc>
+      </version>
+      <version tools_min_version="2.2.0" flow_version="2.0" prefix="wiced_btsdk/dev-kit/baselib">
         <num>4.2.0 release</num>
         <commit>release-v4.2.0</commit>
         <desc>4.2.0 release</desc>
@@ -809,6 +814,34 @@ To browse the repo, see:<br>
         <num>Latest v2.X release</num>
         <commit>latest-v2.X</commit>
         <desc>Latest v2.X release</desc>
+      </version>
+    </versions>
+  </middleware>
+  <middleware>
+    <name>CYW43022C1</name>
+    <id>43022C1</id>
+    <uri>https://github.com/Infineon/43022C1</uri>
+    <desc><![CDATA[
+<html>
+<body>
+<p>This repo contains the Chip Support Package (CSP) library for the Infineon CYW43022C1 wireless MCU Wi-Fi + Bluetooth&#174; combo device supporting LE/BR/EDR.  The library contains the base startup code and header files necessary to build for the target device.  It is downloaded automatically as a dependency of the selected board.</p>
+To browse the repo, see:<br>
+<a href="https://github.com/Infineon/43022C1">https://github.com/Infineon/43022C1</a>
+</body>
+</html>
+    ]]></desc>
+    <category>Core</category>
+    <req_capabilities>btsdk</req_capabilities>
+    <versions>
+      <version tools_min_version="2.2.0" flow_version="2.0" prefix="wiced_btsdk/dev-kit/baselib">
+        <num>4.3.0 release</num>
+        <commit>release-v4.3.0</commit>
+        <desc>4.3.0 release</desc>
+      </version>
+      <version tools_min_version="2.2.0" flow_version="2.0" prefix="wiced_btsdk/dev-kit/baselib">
+        <num>Latest v4.X release</num>
+        <commit>latest-v4.X</commit>
+        <desc>Latest v4.X release</desc>
       </version>
     </versions>
   </middleware>
@@ -1104,6 +1137,11 @@ To browse the repo, see:<br>
     <req_capabilities>btsdk</req_capabilities>
     <versions>
       <version tools_min_version="2.2.0" flow_version="2.0" prefix="wiced_btsdk/dev-kit/baselib">
+        <num>4.3.0 release</num>
+        <commit>release-v4.3.0</commit>
+        <desc>4.3.0 release</desc>
+      </version>
+      <version tools_min_version="2.2.0" flow_version="2.0" prefix="wiced_btsdk/dev-kit/baselib">
         <num>4.2.1 release</num>
         <commit>release-v4.2.1</commit>
         <desc>4.2.1 release</desc>
@@ -1254,6 +1292,35 @@ For API documentation, see:<br>
     <category>Bluetooth&#174;</category>
     <req_capabilities>audio btsdk</req_capabilities>
     <versions>
+      <version tools_min_version="2.2.0" flow_version="2.0" prefix="wiced_btsdk/dev-kit/libraries">
+        <num>4.3.0 release</num>
+        <commit>release-v4.3.0</commit>
+        <desc><![CDATA[
+<html>
+<body>
+  <p>4.3.0 release</p>
+  <h5>Libraries included:</h5>
+  <ul>
+    <li>AVRC Controller Profile (avrc_controller)</li>
+    <li>AVRC Target Profile (avrc_target)</li>
+    <li>Hands-free Profile (handsfree_profile)</li>
+    <li>Audio Gateway Profile (hfp_audio_gateway)</li>
+    <li>Audio Sink Profile (a2dp_sink_profile)</li>
+    <li>Apple Media Service (ams)</li>
+    <li>Apple Notification Center Service (ancs)</li>
+    <li>Audio Insert Funtionality (audio_insert_lib)</li>
+    <li>Audio Manager (audiomanager)</li>
+    <li>Headset/Speaker Support (bt_hs_spk_lib)</li>
+    <li>AK4679 Codec Support (codec_ak4679_lib)</li>
+    <li>CYW9BT Audio Support (cyw9bt_audio and cyw9bt_audio2)</li>
+    <li>CS47l35 Codec Support (codec_cs47l35_lib)</li>
+    <li>Audio Record Support (audio_record_lib)</li>
+    <li>AIROC&#8482; HCI Control Of Audio Streaming (audio_uart)</li>
+  </ul>
+</body>
+</html>
+    ]]></desc>
+      </version>
       <version tools_min_version="2.2.0" flow_version="2.0" prefix="wiced_btsdk/dev-kit/libraries">
         <num>4.2.0 release</num>
         <commit>release-v4.2.0</commit>
@@ -1687,6 +1754,11 @@ For API documentation, see:<br>
     <req_capabilities>hid btsdk</req_capabilities>
     <versions>
       <version tools_min_version="2.2.0" flow_version="2.0" prefix="wiced_btsdk/dev-kit/libraries">
+        <num>4.3.0 release</num>
+        <commit>release-v4.3.0</commit>
+        <desc>4.3.0 release</desc>
+      </version>
+      <version tools_min_version="2.2.0" flow_version="2.0" prefix="wiced_btsdk/dev-kit/libraries">
         <num>4.2.1 release</num>
         <commit>release-v4.2.1</commit>
         <desc>4.2.1 release (hidd_lib2)</desc>
@@ -1990,6 +2062,11 @@ For API documentation, see:<br>
     <req_capabilities>ble btsdk</req_capabilities>
     <versions>
       <version tools_min_version="2.2.0" flow_version="2.0" prefix="wiced_btsdk/dev-kit/libraries">
+        <num>4.3.0 release</num>
+        <commit>release-v4.3.0</commit>
+        <desc>4.3.0 release</desc>
+      </version>
+      <version tools_min_version="2.2.0" flow_version="2.0" prefix="wiced_btsdk/dev-kit/libraries">
         <num>3.3.0 release</num>
         <commit>release-v3.3.0</commit>
         <desc>3.3.0 release</desc>
@@ -2018,6 +2095,11 @@ For API documentation, see:<br>
         <num>2.8.0 release</num>
         <commit>release-v2.8.0</commit>
         <desc>2.8.0 release</desc>
+      </version>
+      <version tools_min_version="2.2.0" flow_version="2.0" prefix="wiced_btsdk/dev-kit/libraries">
+        <num>Latest v4.X release</num>
+        <commit>latest-v4.X</commit>
+        <desc>Latest v4.X release</desc>
       </version>
       <version tools_min_version="2.2.0" flow_version="2.0" prefix="wiced_btsdk/dev-kit/libraries">
         <num>Latest v3.X release</num>

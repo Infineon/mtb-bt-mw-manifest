@@ -18,6 +18,11 @@ For API documentation, see:<br>
     <req_capabilities>btsdk</req_capabilities>
     <versions>
       <version tools_min_version="2.2.0" flow_version="2.0" prefix="wiced_btsdk/dev-kit">
+        <num>4.4.0 release</num>
+        <commit>release-v4.4.0</commit>
+        <desc>4.4.0 release</desc>
+      </version>
+      <version tools_min_version="2.2.0" flow_version="2.0" prefix="wiced_btsdk/dev-kit">
         <num>4.2.1 release</num>
         <commit>release-v4.2.1</commit>
         <desc>4.2.1 release</desc>
@@ -1665,6 +1670,11 @@ For API documentation, see:<br>
     <category>Bluetooth&#174;</category>
     <req_capabilities>ble</req_capabilities>
     <versions>
+      <version tools_min_version="2.2.0" flow_version="2.0" prefix="wiced_btsdk/dev-kit/libraries">
+        <num>4.4.0 release</num>
+        <commit>release-v4.4.0</commit>
+        <desc>4.4.0 release</desc>
+      </version>
       <version tools_min_version="2.2.0" flow_version="2.0" prefix="wiced_btsdk/dev-kit/libraries">
         <num>4.2.1 release</num>
         <commit>release-v4.2.1</commit>

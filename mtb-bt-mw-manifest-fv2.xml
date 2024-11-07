@@ -572,6 +572,11 @@ To browse the repo, see:<br>
     <req_capabilities>btsdk</req_capabilities>
     <versions>
       <version tools_min_version="2.2.0" flow_version="2.0" prefix="wiced_btsdk/dev-kit/baselib">
+        <num>4.9.0 release</num>
+        <commit>release-v4.9.0</commit>
+        <desc>4.9.0 release</desc>
+      </version>
+      <version tools_min_version="2.2.0" flow_version="2.0" prefix="wiced_btsdk/dev-kit/baselib">
         <num>4.7.0 release</num>
         <commit>release-v4.7.0</commit>
         <desc>4.7.0 release</desc>
@@ -2652,88 +2657,6 @@ For API documentation, see:<br>
         <num>Latest v2.X release</num>
         <commit>latest-v2.X</commit>
         <desc>Latest v2.X release</desc>
-      </version>
-    </versions>
-  </middleware>
-  <middleware>
-    <name>LE Audio Profiles Library</name>
-    <id>le-audio-profiles</id>
-    <uri>https://github.com/Infineon/le-audio-profiles</uri>
-    <desc><![CDATA[
-<html>
-<body>
-This is a collection of all the LE Audio profiles (CAP, BAP, ASCS, PACS, VCS, VCP, MCS, MCP, TBS, CCP)<br><br>
-To browse the repo, see:<br>
-<a href="https://github.com/Infineon/le-audio-profiles">https://github.com/Infineon/le-audio-profiles</a>
-</body>
-</html>
-    ]]></desc>
-    <category>Bluetooth&#174;</category>
-    <req_capabilities>btsdk btstack30</req_capabilities>
-    <versions>
-      <version tools_min_version="2.2.0" flow_version="2.0" prefix="wiced_btsdk/dev-kit/libraries">
-        <num>4.2.0 release</num>
-        <commit>release-v4.2.0</commit>
-        <desc>4.2.0 release</desc>
-      </version>
-      <version tools_min_version="2.2.0" flow_version="2.0" prefix="wiced_btsdk/dev-kit/libraries">
-        <num>3.3.0 release</num>
-        <commit>release-v3.3.0</commit>
-        <desc>3.3.0 release</desc>
-      </version>
-      <version tools_min_version="2.2.0" flow_version="2.0" prefix="wiced_btsdk/dev-kit/libraries">
-        <num>Latest v4.X release</num>
-        <commit>latest-v4.X</commit>
-        <desc>Latest v4.X release</desc>
-      </version>
-      <version tools_min_version="2.2.0" flow_version="2.0" prefix="wiced_btsdk/dev-kit/libraries">
-        <num>Latest v3.X release</num>
-        <commit>latest-v3.X</commit>
-        <desc>Latest v3.X release</desc>
-      </version>
-    </versions>
-  </middleware>
-  <middleware>
-    <name>LE GATT Interface</name>
-    <id>gatt-interface</id>
-    <uri>https://github.com/Infineon/gatt-interface</uri>
-    <desc><![CDATA[
-<html>
-<body>
-Definitions for interface between Bluetooth&#174; LE stack GATT and service/application. The GATT interface is responsible for routing the incoming GATT commands to the appropriate service/services or application. This library provides support for applications to:
-  <ul>
-    <li>Discover remote services, included services, characteristics and descriptors, and map them to the registered service implementations</li>
-    <li>Setup local services, included services, characteristics and descriptors, and map them to the registered service implementations</li>
-    <li>Perform basic operations such as configuring notifications, notifying remote clients or reading characteristics</li>
-    <li>Organize non-volatile data for storing and reading back from NVRAM</li>
-  </ul>
-To browse the repo, see:<br>
-<a href="https://github.com/Infineon/gatt-interface">https://github.com/Infineon/gatt-interface</a>
-</body>
-</html>
-    ]]></desc>
-    <category>Bluetooth&#174;</category>
-    <req_capabilities>btsdk btstack30</req_capabilities>
-    <versions>
-      <version tools_min_version="2.2.0" flow_version="2.0" prefix="wiced_btsdk/dev-kit/libraries">
-        <num>4.2.0 release</num>
-        <commit>release-v4.2.0</commit>
-        <desc>4.2.0 release</desc>
-      </version>
-      <version tools_min_version="2.2.0" flow_version="2.0" prefix="wiced_btsdk/dev-kit/libraries">
-        <num>3.3.0 release</num>
-        <commit>release-v3.3.0</commit>
-        <desc>3.3.0 release</desc>
-      </version>
-      <version tools_min_version="2.2.0" flow_version="2.0" prefix="wiced_btsdk/dev-kit/libraries">
-        <num>Latest v4.X release</num>
-        <commit>latest-v4.X</commit>
-        <desc>Latest v4.X release</desc>
-      </version>
-      <version tools_min_version="2.2.0" flow_version="2.0" prefix="wiced_btsdk/dev-kit/libraries">
-        <num>Latest v3.X release</num>
-        <commit>latest-v3.X</commit>
-        <desc>Latest v3.X release</desc>
       </version>
     </versions>
   </middleware>

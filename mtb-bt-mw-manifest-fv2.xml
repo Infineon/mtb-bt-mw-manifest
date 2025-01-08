@@ -2,7 +2,7 @@
   <middleware req_capabilities_v2="[btsdk,cyw55513,cyw20829,cyw89829]">
     <name>BTSDK Shared Includes</name>
     <id>btsdk-include</id>
-    <uri>https://github.com/Infineon/btsdk-include</uri>
+    <uri>https://github.com/cypresssemiconductorco/btsdk-include</uri>
     <desc><![CDATA[
 <html>
 <body>
@@ -107,7 +107,7 @@ For API documentation, see:<br>
   <middleware>
     <name>BTSDK Tools</name>
     <id>btsdk-tools</id>
-    <uri>https://github.com/Infineon/btsdk-tools</uri>
+    <uri>https://github.com/cypresssemiconductorco/btsdk-tools</uri>
     <desc><![CDATA[
 <html>
 <body>
@@ -165,7 +165,7 @@ To browse the repo, see:<br>
   <middleware>
     <name>BTSDK Utilities</name>
     <id>btsdk-utils</id>
-    <uri>https://github.com/Infineon/btsdk-utils</uri>
+    <uri>https://github.com/cypresssemiconductorco/btsdk-utils</uri>
     <desc><![CDATA[
 <html>
 <body>
@@ -244,7 +244,7 @@ To browse the repo, see:<br>
   <middleware req_capabilities_v2="[btsdk,cyw55513]">
     <name>BTSDK Host Apps for Bluetooth&#174; Classic and Bluetooth&#174; Low Energy</name>
     <id>btsdk-host-apps-bt-ble</id>
-    <uri>https://github.com/Infineon/btsdk-host-apps-bt-ble</uri>
+    <uri>https://github.com/cypresssemiconductorco/btsdk-host-apps-bt-ble</uri>
     <desc><![CDATA[
 <html>
 <body>
@@ -351,7 +351,7 @@ To browse the repo, see:<br>
   <middleware>
     <name>BTSDK Host and Peer Apps for Mesh</name>
     <id>btsdk-host-peer-apps-mesh</id>
-    <uri>https://github.com/Infineon/btsdk-host-peer-apps-mesh</uri>
+    <uri>https://github.com/cypresssemiconductorco/btsdk-host-peer-apps-mesh</uri>
     <desc><![CDATA[
 <html>
 <body>
@@ -436,7 +436,7 @@ To browse the repo, see:<br>
   <middleware>
     <name>BTSDK Peer Apps for LE</name>
     <id>btsdk-peer-apps-ble</id>
-    <uri>https://github.com/Infineon/btsdk-peer-apps-ble</uri>
+    <uri>https://github.com/cypresssemiconductorco/btsdk-peer-apps-ble</uri>
     <desc><![CDATA[
 <html>
 <body>
@@ -497,7 +497,7 @@ To browse the HelloClient app repo, see:<br>
   <middleware>
     <name>BTSDK Peer Apps for OTA</name>
     <id>btsdk-peer-apps-ota</id>
-    <uri>https://github.com/Infineon/btsdk-peer-apps-ota</uri>
+    <uri>https://github.com/cypresssemiconductorco/btsdk-peer-apps-ota</uri>
     <desc><![CDATA[
 <html>
 <body>
@@ -558,7 +558,7 @@ To browse the peer app repo, see:<br>
   <middleware>
     <name>CYW20706A2</name>
     <id>20706A2</id>
-    <uri>https://github.com/Infineon/20706A2</uri>
+    <uri>https://github.com/cypresssemiconductorco/20706A2</uri>
     <desc><![CDATA[
 <html>
 <body>
@@ -646,7 +646,7 @@ To browse the repo, see:<br>
   <middleware>
     <name>CYW20819A1</name>
     <id>20819A1</id>
-    <uri>https://github.com/Infineon/20819A1</uri>
+    <uri>https://github.com/cypresssemiconductorco/20819A1</uri>
     <desc><![CDATA[
 <html>
 <body>
@@ -749,7 +749,7 @@ To browse the repo, see:<br>
   <middleware>
     <name>CYW20820A1</name>
     <id>20820A1</id>
-    <uri>https://github.com/Infineon/20820A1</uri>
+    <uri>https://github.com/cypresssemiconductorco/20820A1</uri>
     <desc><![CDATA[
 <html>
 <body>
@@ -857,7 +857,7 @@ To browse the repo, see:<br>
   <middleware>
     <name>CYW43012C0</name>
     <id>43012C0</id>
-    <uri>https://github.com/Infineon/43012C0</uri>
+    <uri>https://github.com/cypresssemiconductorco/43012C0</uri>
     <desc><![CDATA[
 <html>
 <body>
@@ -973,7 +973,7 @@ To browse the repo, see:<br>
   <middleware>
     <name>CYW20719B2</name>
     <id>20719B2</id>
-    <uri>https://github.com/Infineon/20719B2</uri>
+    <uri>https://github.com/cypresssemiconductorco/20719B2</uri>
     <desc><![CDATA[
 <html>
 <body>
@@ -1061,7 +1061,7 @@ To browse the repo, see:<br>
   <middleware>
     <name>CYW20721B2</name>
     <id>20721B2</id>
-    <uri>https://github.com/Infineon/20721B2</uri>
+    <uri>https://github.com/cypresssemiconductorco/20721B2</uri>
     <desc><![CDATA[
 <html>
 <body>
@@ -1182,7 +1182,7 @@ To browse the repo, see:<br>
   <middleware>
     <name>CYW55572A1</name>
     <id>55572A1</id>
-    <uri>https://github.com/Infineon/55572A1</uri>
+    <uri>https://github.com/cypresssemiconductorco/55572A1</uri>
     <desc><![CDATA[
 <html>
 <body>
@@ -1278,7 +1278,7 @@ To browse the repo, see:<br>
   <middleware>
     <name>CYW20835B1</name>
     <id>20835B1</id>
-    <uri>https://github.com/Infineon/20835B1</uri>
+    <uri>https://github.com/cypresssemiconductorco/20835B1</uri>
     <desc><![CDATA[
 <html>
 <body>
@@ -1376,7 +1376,7 @@ To browse the repo, see:<br>
   <middleware req_capabilities_v2="[btsdk,cyw55513,cyw20829,cyw89829]">
     <name>BTSDK Shared Source</name>
     <id>btsdk-common</id>
-    <uri>https://github.com/Infineon/btsdk-common</uri>
+    <uri>https://github.com/cypresssemiconductorco/btsdk-common</uri>
     <desc><![CDATA[
 <html>
 <body>
@@ -1454,7 +1454,7 @@ To browse the repo, see:<br>
   <middleware req_capabilities_v2="[btsdk,cyw55513]">
     <name>Audio</name>
     <id>btsdk-audio</id>
-    <uri>https://github.com/Infineon/btsdk-audio</uri>
+    <uri>https://github.com/cypresssemiconductorco/btsdk-audio</uri>
     <desc><![CDATA[
 <html>
 <body>
@@ -2019,7 +2019,7 @@ For API documentation, see:<br>
   <middleware req_capabilities_v2="[btsdk,cyw20829]">
     <name>Bluetooth&#174; Low Energy</name>
     <id>btsdk-ble</id>
-    <uri>https://github.com/Infineon/btsdk-ble</uri>
+    <uri>https://github.com/cypresssemiconductorco/btsdk-ble</uri>
     <desc><![CDATA[
 <html>
 <body>
@@ -2148,7 +2148,7 @@ For API documentation, see:<br>
   <middleware>
     <name>Human Interface Device</name>
     <id>btsdk-hid</id>
-    <uri>https://github.com/Infineon/btsdk-hid</uri>
+    <uri>https://github.com/cypresssemiconductorco/btsdk-hid</uri>
     <desc><![CDATA[
 <html>
 <body>
@@ -2231,7 +2231,7 @@ For API documentation, see:<br>
   <middleware>
     <name>Google Fast Pairing Service</name>
     <id>btsdk-gfps</id>
-    <uri>https://github.com/Infineon/btsdk-gfps</uri>
+    <uri>https://github.com/cypresssemiconductorco/btsdk-gfps</uri>
     <desc><![CDATA[
 <html>
 <body>
@@ -2299,7 +2299,7 @@ For API documentation, see:<br>
   <middleware>
     <name>Mesh</name>
     <id>btsdk-mesh</id>
-    <uri>https://github.com/Infineon/btsdk-mesh</uri>
+    <uri>https://github.com/cypresssemiconductorco/btsdk-mesh</uri>
     <desc><![CDATA[
 <html>
 <body>
@@ -2378,7 +2378,7 @@ For API documentation, see:<br>
   <middleware>
     <name>Firmware Upgrade</name>
     <id>btsdk-ota</id>
-    <uri>https://github.com/Infineon/btsdk-ota</uri>
+    <uri>https://github.com/cypresssemiconductorco/btsdk-ota</uri>
     <desc><![CDATA[
 <html>
 <body>
@@ -2461,7 +2461,7 @@ For API documentation, see:<br>
   <middleware>
     <name>RFCOMM</name>
     <id>btsdk-rfcomm</id>
-    <uri>https://github.com/Infineon/btsdk-rfcomm</uri>
+    <uri>https://github.com/cypresssemiconductorco/btsdk-rfcomm</uri>
     <desc><![CDATA[
 <html>
 <body>
@@ -2592,7 +2592,7 @@ For API documentation, see:<br>
   <middleware req_capabilities_v2="[btsdk,cyw55513]">
     <name>Drivers</name>
     <id>btsdk-drivers</id>
-    <uri>https://github.com/Infineon/btsdk-drivers</uri>
+    <uri>https://github.com/cypresssemiconductorco/btsdk-drivers</uri>
     <desc><![CDATA[
 <html>
 <body>

@@ -587,6 +587,11 @@ To browse the repo, see:<br>
     <req_capabilities>btsdk</req_capabilities>
     <versions>
       <version tools_min_version="2.2.0" flow_version="2.0" prefix="wiced_btsdk/dev-kit/baselib">
+        <num>4.9.5 release</num>
+        <commit>release-v4.9.5</commit>
+        <desc>4.9.5 release</desc>
+      </version>
+      <version tools_min_version="2.2.0" flow_version="2.0" prefix="wiced_btsdk/dev-kit/baselib">
         <num>4.9.3 release</num>
         <commit>release-v4.9.3</commit>
         <desc>4.9.3 release</desc>
@@ -1508,12 +1513,41 @@ For API documentation, see:<br>
     <req_capabilities>audio btsdk</req_capabilities>
     <versions>
       <version tools_min_version="2.2.0" flow_version="2.0" prefix="wiced_btsdk/dev-kit/libraries">
+        <num>4.9.5 release</num>
+        <commit>release-v4.9.5</commit>
+        <desc><![CDATA[
+<html>
+<body>
+  <p>4.9.5 release</p>
+  <h5>Libraries included:</h5>
+  <ul>
+    <li>AVRC Controller Profile (avrc_controller)</li>
+    <li>AVRC Target Profile (avrc_target)</li>
+    <li>Hands-free Profile (handsfree_profile)</li>
+    <li>Audio Gateway Profile (hfp_audio_gateway)</li>
+    <li>Audio Sink Profile (a2dp_sink_profile)</li>
+    <li>Apple Media Service (ams)</li>
+    <li>Apple Notification Center Service (ancs)</li>
+    <li>Audio Insert Funtionality (audio_insert_lib)</li>
+    <li>Audio Manager (audiomanager)</li>
+    <li>Headset/Speaker Support (bt_hs_spk_lib)</li>
+    <li>AK4679 Codec Support (codec_ak4679_lib)</li>
+    <li>CYW9BT Audio Support (cyw9bt_audio and cyw9bt_audio2)</li>
+    <li>CS47l35 Codec Support (codec_cs47l35_lib)</li>
+    <li>Audio Record Support (audio_record_lib)</li>
+    <li>AIROC&#8482; HCI Control Of Audio Streaming (audio_uart)</li>
+  </ul>
+</body>
+</html>
+    ]]></desc>
+      </version>
+      <version tools_min_version="2.2.0" flow_version="2.0" prefix="wiced_btsdk/dev-kit/libraries">
         <num>4.9.4 release</num>
         <commit>release-v4.9.4</commit>
         <desc><![CDATA[
 <html>
 <body>
-  <p>4.9.4 release</p>
+  <p>4.9.5 release</p>
   <h5>Libraries included:</h5>
   <ul>
     <li>AVRC Controller Profile (avrc_controller)</li>
